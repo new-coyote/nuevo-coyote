@@ -1,7 +1,25 @@
 ---
 layout: app.njk
-title: Elfin
-description: "11ty starter pack"
 ---
-
- <h1>{{ 'Hello' | example_filter }}</h1>
+<form name="contact" method="POST" data-netlify="true" action="/thanks" class="grid gap-6 md:grid-cols-2 w-full md:max-w-xl">
+    <input type="text" netlify-honeypot name="fax" class="fax-number-field">
+    <input type="hidden" name="subject" value="Message coming in from New Coyote web form">
+    <label class="block sm:col-span-1">
+        <span class="block pb-1 pl-2 uppercase tracking-wide">Name</span>
+        <input type="text" name="name" required
+               class="w-full border-0 rounded-md focus:ring focus:ring-green-600 focus:ring-opacity-50"/>
+    </label>
+    <label class="block sm:col-span-1">
+        <span class="block pb-1 pl-2 tracking-wide uppercase">Email</span>
+        <input type="email" name="email" required
+               class="w-full border-0 rounded-md focus:ring focus:ring-green-600 focus:ring-opacity-50"/>
+    </label>
+    <label class="block sm:col-span-2">
+        <span class="block pb-1 pl-2 tracking-wide uppercase">What's Up?</span>
+        <textarea name="message" required rows="4"
+                  class="w-full rounded-md border-0 focus:ring focus:ring-green-600 focus:ring-opacity-50"></textarea>
+    </label>
+    <div class="sm:col-span-2 text-right mt-2">
+        <button type="submit" class="py-2 rounded-md px-10 bg-gold focus:ring focus:ring-gold focus:ring-opacity-40 uppercase tracking-wide">Send</button>
+    </div>
+</form>

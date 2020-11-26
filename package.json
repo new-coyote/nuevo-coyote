@@ -55,5 +55,8 @@
     "tailwindcss": "^2",
     "webpack": "^5",
     "webpack-cli": "^4"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.2.1"
   }
 }
