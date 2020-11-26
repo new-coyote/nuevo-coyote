@@ -6,6 +6,7 @@
   "scripts": {
     "serve": "run-p assets:watch content:serve",
     "build": "run-s all:clean all:build",
+    "deploy": "run-s assets:build content:build",
     "all:clean": "run-p content:clean assets:clean",
     "all:build": "run-s assets:build content:build",
     "all:production": "cross-env NODE_ENV=production npm run all:build",
