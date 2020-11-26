@@ -1,8 +1,8 @@
 ---
 layout: app.njk
 ---
-<form name="contact" method="POST" data-netlify="true" action="/thanks" class="grid gap-6 md:grid-cols-2 w-full md:max-w-xl">
-    <input type="text" netlify-honeypot name="fax" class="fax-number-field">
+<form name="contact" method="POST" data-netlify="true" action="/thanks" netlify-honeypot="fax" class="grid gap-6 md:grid-cols-2 w-full md:max-w-xl">
+    <input type="text" name="fax" class="fax-number-field">
     <input type="hidden" name="subject" value="Message coming in from New Coyote web form">
     <label class="block sm:col-span-1">
         <span class="block pb-1 pl-2 uppercase tracking-wide">Name</span>
