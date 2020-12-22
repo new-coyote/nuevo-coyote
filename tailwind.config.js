@@ -8,8 +8,25 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                gold: '#f6ae2d',
-                lavender: 'rgba(174, 138, 174, 0.35)',
+                /** These are the "Brand Colors" chosen by Marina */
+                teal: {
+                    DEFAULT: '#027da6',
+                    light: '#439ebb',
+                    lighter: '#81bed1',
+                    lightest: '#bfdde8',
+                },
+                clay: {
+                    DEFAULT: '#c19da7',
+                    light: '#d0b5bc',
+                    lighter: '#e0cfd5',
+                    lightest: '#f1e8eb',
+                },
+                orange: {
+                    DEFAULT: '#e99569',
+                    light: '#efb08f',
+                    lighter: '#f5ccb8',
+                    lightest: '#fae6db',
+                },
             },
             fontFamily: {
                 heading: "'Texturina', serif",
