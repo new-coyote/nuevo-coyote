@@ -1,7 +1,7 @@
 module.exports = {
     purge: [
-        './content/**/*.njk',
-        './content/**/*.html',
+        './site/**/*.njk',
+        './site/**/*.html',
         './assets/scripts/**/*.js',
     ],
     darkMode: 'media',
@@ -26,5 +26,5 @@ module.exports = {
     plugins: [
         require('@tailwindcss/forms'),
         require('@tailwindcss/typography'),
-    ],
+    ]
 }
