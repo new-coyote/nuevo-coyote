@@ -2,9 +2,7 @@
 <html class="no-js" lang="en">
 {% include "head.njk" %}
 <body class="font-body bg-clay-lightest">
-<nav>
-    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
-</nav>
+{% include "nav.njk" %}
 <main>
     {{ content | safe }}
 </main>
