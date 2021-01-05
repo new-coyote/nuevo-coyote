@@ -1,11 +1,10 @@
-<!doctype html>
-<html class="no-js" lang="en">
-{% include "head.njk" %}
+---
+layout: base.njk
+---
+
 <body class="font-body bg-clay-lightest">
 {% include "nav.njk" %}
 <main>
     {{ content | safe }}
 </main>
 </body>
-{% include "foot.njk" %}
-</html>
