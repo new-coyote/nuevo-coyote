@@ -27,6 +27,7 @@ module.exports = {
                     lighter: '#f5ccb8',
                     lightest: '#fae6db',
                 },
+                space: '#1E2952',
             },
             fontFamily: {
                 heading: "'Texturina', serif",
