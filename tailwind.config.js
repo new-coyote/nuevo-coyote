@@ -34,6 +34,12 @@ module.exports = {
             },
             fontSize: {
                 homeHeading: '6rem',
+            },
+            gridTemplateColumns: {
+                'page-content': '1fr minmax(500px, 768px) 1fr',
+            },
+            minHeight: {
+                'page-content': '600px',
             }
         },
     },

@@ -1,0 +1,27 @@
+---
+layout: app.njk
+column_decoration: 1
+---
+<div class="flex flex-col items-center">
+    <header class="max-w-5xl mb-12">
+        <h1 class="text-5xl font-bold font-heading -skew-y-6 transform mb-6 border-b-4 border-teal pb-2 pr-2">{{ title
+            }}</h1>
+    </header>
+
+    <div class="md:grid md:grid-cols-page-content w-full">
+        {% if column_decoration %}
+        <div class="hidden md:block page-left-bar-{{ column_decoration }}"></div>
+        {% endif %}
+        <article
+                class="col-start-2 col-end-3 w-full max-w-3xl border-clay-lighter border-l-2 border-r-2 prose prose-sm md:prose-lg bg-white relative z-10 mb-24">
+            <div class="w-full bg-gradient-to-t from-white to-clay-lightest h-36"></div>
+            <div class="py-6 px-10 -mt-36 -mb-36 md:min-h-page-content">
+                {{ content | safe }}
+            </div>
+            <div class="w-full bg-gradient-to-b from-white to-clay-lightest h-36"></div>
+        </article>
+        {% if column_decoration %}
+        <div class="hidden md:block page-right-bar-{{ column_decoration }}"></div>
+        {% endif %}
+    </div>
+</div>

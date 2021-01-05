@@ -6,20 +6,10 @@ module.exports = class Redirect {
     static aliasCode = `302`;
 
     // Hardcode some redirects here
-    static canonical = [
-        {
-            from: `/here`,
-            to: `/there`,
-        },
-    ]
+    static canonical = []
 
     // Hardcode some aliases here
-    static aliases = [
-        {
-            from: `/then`,
-            to: `/now`,
-        },
-    ]
+    static aliases = []
 
     data() {
         return {
