@@ -1,13 +1,32 @@
 ---
 title: Who We Are
-permalink: /who/
+permalink: "/who/"
 layout: page.njk
-column_decoration: 3
+column_decoration: '2'
 eleventyNavigation:
-    key: Who We Are
-    order: 4
----
+  key: Who We Are
+  order: 4
+blocks:
+- template: block-image
+  image: https://res.cloudinary.com/marinaforhire/v1610081297/coyote/2021/01/dogwalker_eizbgs.webp
+  alt_text: Walking a dog on a misty beach
+- template: block-text
+  content: "At augue eget arcu dictum varius duis at consectetur. Facilisis mauris
+    sit amet massa. Vitae purus faucibus ornare suspendisse. Consequat mauris nunc
+    congue nisi vitae suscipit tellus. Nec feugiat nisl pretium fusce. Enim praesent
+    elementum facilisis leo vel. Mauris augue neque gravida in fermentum et sollicitudin
+    ac. Volutpat ac tincidunt vitae semper quis. \n\nTincidunt ornare massa eget egestas.
+    Cras tincidunt lobortis feugiat vivamus at augue eget. Porttitor lacus luctus
+    accumsan tortor posuere ac ut."
+  heading: We Are the Champion
+- template: block-callout
+  link_text: Contact Us Now
+  content: Ut sem nulla pharetra diam. Ornare massa eget egestas purus viverra accumsan
+    in. Amet venenatis urna cursus eget nunc scelerisque viverra mauris.
+  heading: Why Not Email Us?
+  link_url: "/contact/"
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Eget nunc scelerisque viverra mauris in aliquam sem. Sit amet massa vitae tortor. Morbi tincidunt ornare massa eget. Risus viverra adipiscing at in tellus. Vitae turpis massa sed elementum tempus egestas sed sed. Etiam dignissim diam quis enim. Erat velit scelerisque in dictum non consectetur a. Rhoncus urna neque viverra justo. Diam in arcu cursus euismod quis viverra nibh cras. Enim sed faucibus turpis in. Sit amet consectetur adipiscing elit ut aliquam purus. Libero id faucibus nisl tincidunt eget nullam non. Sit amet mauris commodo quis imperdiet. Sed tempus urna et pharetra. Aliquet eget sit amet tellus cras. In iaculis nunc sed augue lacus.
 
 Egestas quis ipsum suspendisse ultrices gravida dictum fusce. Ac turpis egestas sed tempus urna et. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. In dictum non consectetur a erat nam at. Massa vitae tortor condimentum lacinia quis vel eros. Sollicitudin ac orci phasellus egestas tellus rutrum. Ultrices neque ornare aenean euismod elementum nisi quis eleifend. Enim nulla aliquet porttitor lacus. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
