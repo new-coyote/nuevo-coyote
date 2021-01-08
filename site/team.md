@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 4
 blocks:
 - template: block-image
-  image: https://res.cloudinary.com/marinaforhire/v1610081297/coyote/2021/01/dogwalker_eizbgs.webp
+  image: "/v1610081297/coyote/2021/01/dogwalker_eizbgs.webp"
   alt_text: Walking a dog on a misty beach
 - template: block-text
   content: "At augue eget arcu dictum varius duis at consectetur. Facilisis mauris
@@ -25,3 +25,5 @@ blocks:
     in. Amet venenatis urna cursus eget nunc scelerisque viverra mauris.
   heading: Why Not Email Us?
   link_url: "/contact/"
+
+---
