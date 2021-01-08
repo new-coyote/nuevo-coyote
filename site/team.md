@@ -2,6 +2,7 @@
 title: Who We Are
 permalink: /who/
 layout: page.njk
+column_decoration: 3
 eleventyNavigation:
     key: Who We Are
     order: 4
