@@ -29,7 +29,11 @@ fields:
 - name: blocks
   type: blocks
   label: Content
-  template_types: []
+  template_types:
+  - block-text
+  - block-image
+  - block-callout
+  - decoration
   config:
     min: 1
     max: 
