@@ -6,7 +6,7 @@ module.exports = conf => {
                 quality: "auto",
             }],
             defaults: {
-                width: 1024
+                width: 684
             }
         }
         if (CLOUDINARY_NAME) {
