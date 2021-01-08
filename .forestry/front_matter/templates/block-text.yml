@@ -1,6 +1,7 @@
 ---
 label: Block - Text
 hide_body: true
+display_field: content
 fields:
 - name: heading
   type: text
