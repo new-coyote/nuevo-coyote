@@ -1,12 +1,20 @@
-<nav class="p-6 mb-16">
-    <ul class="flex justify-center -skew-y-3 transform items-center text-yellow-900">
-        <li class="mr-1 mt-1">
-            <a href="/" class="p-1">🐺</a>
-        </li>
-    {% for item in collections.all | eleventyNavigation %}
-        <li class="mx-2 pb-1 px-1 font-heading font-bold {% if item.url == page.url %} border-orange border-b-2 {% endif %}">
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-    {% endfor %}
-    </ul>
+<nav class="p-6 mb-16 flex flex-col nav:flex-row">
+    <div class="inline-flex justify-between items-center w-full nav:w-auto">
+        <a href="/" class="p-1">🐺</a>
+        <button @click="toggle"
+                :class="{ 'bg-teal text-white': open, 'bg-clay-lightest text-teal': !open }"
+                class="nav:hidden relative z-30 px-3 py-2 border-2 border-teal font-bold uppercase rounded-lg">
+            Menu
+        </button>
+    </div>
+    <div class="flex items-center justify-center nav:flex-grow">
+        <ul class="flex flex-col nav:flex-row nav:justify-center -skew-y-3 transform items-center text-yellow-900 w-full nav:w-auto"
+            x-show="forceOpen || open">
+            {% for item in collections.all | eleventyNavigation %}
+            <li class="mx-2 my-2 nav:my-0 pb-1 px-1 text-xl nav:text-base font-body {% if item.url == page.url %} border-orange border-b-2 {% endif %}">
+                <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </nav>

@@ -1,3 +1,5 @@
+const plugin = require('tailwindcss/plugin');
+
 module.exports = {
     purge: [
         './site/**/*.njk',
@@ -7,6 +9,9 @@ module.exports = {
     darkMode: 'media',
     theme: {
         extend: {
+            screens: {
+                nav: '800px',
+            },
             colors: {
                 /** These are the "Brand Colors" chosen by Marina */
                 teal: {
@@ -50,5 +55,21 @@ module.exports = {
     plugins: [
         require('@tailwindcss/forms'),
         require('@tailwindcss/typography'),
+        /**
+         * Add order classes (i.e. order-1, order-2, etc).
+         * @param addUtilities
+         */
+        plugin(function ({addUtilities}) {
+            let order = {};
+            for (let i = 0; i < 20; i++) {
+                order[`.order-${i}`] = {
+                    order: i * 10,
+                };
+            }
+
+            addUtilities(order, {
+                variants: ['responsive'],
+            })
+        }),
     ]
 }

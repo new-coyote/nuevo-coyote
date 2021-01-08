@@ -1,13 +1,19 @@
-// do stuff
-const main = async () => {
-    console.log('Fetching data, awaiting response...');
-    const response = await fetch('https://httpbin.org/user-agent');
-    const responseText = await response.text();
+import 'alpinejs';
+const mobileWidth = Number(require('../../tailwind.config').theme.extend.screens.nav.replace('px', ''));
 
-    console.log('Response:', responseText);
-};
+window.nav = function() {
+    function viewportLargerThanMobileWidth() {
+        return window.innerWidth >= mobileWidth;
+    }
 
-main();
-
-const yourl = new URL(window.location);
-console.log(yourl);
+    return {
+        open: false,
+        forceOpen: viewportLargerThanMobileWidth(),
+        toggle() {
+            this.open = !this.open;
+        },
+        resize() {
+            this.forceOpen = viewportLargerThanMobileWidth();
+        }
+    }
+}

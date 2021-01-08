@@ -2,7 +2,9 @@
 layout: base.njk
 ---
 
-<body class="font-body bg-clay-lightest">
+<body class="font-body bg-clay-lightest"
+      x-data="nav()"
+      x-on:resize.window="resize">
 {% include "nav.njk" %}
 <main>
     {{ content | safe }}
