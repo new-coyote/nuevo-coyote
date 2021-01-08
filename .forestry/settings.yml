@@ -3,7 +3,12 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: site
+  label: Pages
+  create: all
+  match: "**/*.md"
 upload_dir: coyote
 public_path: https://res.cloudinary.com/marinaforhire
 front_matter_path: ''
