@@ -1,6 +1,7 @@
 ---
 label: Block - Callout
 hide_body: true
+display_field: heading
 fields:
 - name: heading
   type: text
