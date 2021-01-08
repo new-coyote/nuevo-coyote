@@ -1,6 +1,7 @@
 ---
-label: Decoration
+label: Block - Decoration
 hide_body: true
+display_field: image
 fields:
 - name: image
   type: select
