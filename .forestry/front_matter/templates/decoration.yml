@@ -1,4 +1,22 @@
 ---
 label: Decoration
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: select
+  default: sitting-1
+  config:
+    required: true
+    options:
+    - sitting-1
+    - sitting-2
+    - walking-1
+    - walking-2
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Image
+  description: The image you want to use here. Pulls from a pre-built selection of
+    options.
