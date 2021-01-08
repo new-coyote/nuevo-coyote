@@ -1,28 +1,40 @@
 ---
-layout: app.njk
+layout: columns.njk
 ---
-<div class="flex flex-col items-center">
-    <header class="max-w-5xl mb-12">
-        <h1 class="text-5xl font-bold font-heading -skew-y-6 transform mb-6 border-b-4 border-teal pb-2 pr-2">{{ title
-            }}</h1>
-    </header>
-    {% if column_decoration == 'none' %}
-    {% set column_decoration = false %}
-    {% endif %}
-    <div class="md:grid md:grid-cols-page-content w-full">
-        {% if column_decoration %}
-        <div class="hidden md:block page-left-bar-{{ column_decoration }}"></div>
+
+<div class="py-6 px-10 -mt-36 -mb-36 md:min-h-page-content">
+    {% for block in blocks %}
+    {% if block.template == 'block-text' %}
+    <div class="{{ block.template }} prose prose-sm md:prose-lg">
+        {% if block.heading %}
+        <h3>{{ block.heading }}</h3>
         {% endif %}
-        <article
-                class="col-start-2 col-end-3 w-full max-w-3xl border-clay-lighter border-l-2 border-r-2 prose prose-sm md:prose-lg bg-white relative z-10 mb-24">
-            <div class="w-full bg-gradient-to-t from-white to-clay-lightest h-36"></div>
-            <div class="py-6 px-10 -mt-36 -mb-36 md:min-h-page-content">
-                {{ content | safe }}
-            </div>
-            <div class="w-full bg-gradient-to-b from-white to-clay-lightest h-36"></div>
-        </article>
-        {% if column_decoration %}
-        <div class="hidden md:block page-right-bar-{{ column_decoration }}"></div>
+        <div>
+            {{ block.content | md | safe }}
+        </div>
+    </div>
+    {% elseif block.template == 'block-image' %}
+    <img src="{{ block.image | cl_url([{ width: 684 }]) }}" alt="{{ block.alt_text }}" class="max-w-full h-auto rounded-lg my-12">
+    {% elseif block.template == 'block-decoration' %}
+    <div class="{{ block.template }} w-full my-16">
+        <img src="/files/kicker-{{ block.image }}.svg" alt="" class="w-4/5 mx-auto">
+    </div>
+    {% elseif block.template == 'block-callout' %}
+    <div class="{{ block.template }} text-center p-16 my-12 pt-8 bg-teal-lighter relative rounded-lg">
+        {% if block.heading %}
+        <div class="prose prose-sm md:prose-lg">
+            <h3>{{ block.heading }}</h3>
+        </div>
+        {% endif %}
+        {% if block.content %}
+        <div class="my-6 text-xl prose-sm prose md:prose-lg">{{ block.content | md | safe }}</div>
+        {% endif %}
+        {% if block.link_url %}
+        <a href="{{ block.link_url }}" class="mt-6 inline-block transform -skew-y-6 font-bold text-lg text-yellow-900">{{
+            block.link_text or 'Learn More' }}</a>
         {% endif %}
     </div>
+    {% endif %}
+    {% endfor %}
 </div>
+
