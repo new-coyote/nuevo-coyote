@@ -6,7 +6,9 @@ layout: app.njk
         <h1 class="text-5xl font-bold font-heading -skew-y-6 transform mb-6 border-b-4 border-teal pb-2 pr-2">{{ title
             }}</h1>
     </header>
-
+    {% if column_decoration == 'none' %}
+    {% set column_decoration = false %}
+    {% endif %}
     <div class="md:grid md:grid-cols-page-content w-full">
         {% if column_decoration %}
         <div class="hidden md:block page-left-bar-{{ column_decoration }}"></div>
