@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 3
 blocks:
 - template: block-image
-  image: "/v1610081234/coyote/2021/01/spencer-tired_lzmfs6.jpg"
+  image: "/v1610084828/coyote/2021/01/spencer-gaze_nmzrtg.webp"
   alt_text: An extremely good boy
 - template: block-text
   heading: Exercitation Ullamco Laboris Nisi
