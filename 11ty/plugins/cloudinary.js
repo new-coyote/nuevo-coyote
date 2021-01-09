@@ -4,6 +4,7 @@ module.exports = conf => {
         const config = {
             transforms: [{
                 quality: "auto",
+                fetch_format: "auto",
             }],
             defaults: {
                 width: 684
