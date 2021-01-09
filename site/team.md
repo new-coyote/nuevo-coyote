@@ -11,18 +11,18 @@ blocks:
   image: "/v1610081297/coyote/2021/01/dogwalker_eizbgs.webp"
   alt_text: Walking a dog on a misty beach
 - template: block-split
+  image: "/v1610229457/coyote/2021/01/person-in-doorway_qnrnkg.webp"
+  content: |-
+    ## Marina
+
+    Feugiat in ante metus dictum at tempor commodo ullamcorper a. Et molestie ac feugiat sed lectus vestibulum mattis. Consectetur lorem donec massa sapien faucibus et. Eget arcu dictum varius duis at. Velit ut tortor pretium viverra.
+- template: block-split
   image: "/v1610229506/coyote/2021/01/squinting-dog_adq4du.webp"
   content: |-
     ## Pepper
 
     Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Tristique risus nec feugiat in fermentum posuere urna. Vitae auctor eu augue ut lectus arcu bibendum. A diam sollicitudin tempor id. Egestas quis ipsum suspendisse ultrices gravida. Ut lectus arcu bibendum at varius vel pharetra. Lectus arcu bibendum at varius vel pharetra vel turpis. Lacus vestibulum sed arcu non odio euismod lacinia. Et sollicitudin ac orci phasellus egestas tellus rutrum.
   flip: false
-- template: block-split
-  image: "/v1610229457/coyote/2021/01/person-in-doorway_qnrnkg.webp"
-  content: |-
-    ## Marina
-
-    Feugiat in ante metus dictum at tempor commodo ullamcorper a. Et molestie ac feugiat sed lectus vestibulum mattis. Consectetur lorem donec massa sapien faucibus et. Eget arcu dictum varius duis at. Velit ut tortor pretium viverra.
 - template: block-text
   content: "At augue eget arcu dictum varius duis at consectetur. Facilisis mauris
     sit amet massa. Vitae purus faucibus ornare suspendisse. Consequat mauris nunc
