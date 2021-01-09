@@ -2,5 +2,5 @@
     <div class="w-full sm:w-1/2 sm:pl-4 prose">
         {{ block.content | md | safe }}
     </div>
-    <img src="{{ block.image | cl_url([{ width: 684, height: 600, crop: 'fill', gravity: 'face' }]) }}" alt="{{ block.alt_text }}" class="max-w-full rounded-lg w-full sm:w-1/2">
+    <img loading="lazy" src="{{ block.image | cl_url([{ width: 684, height: 600, crop: 'fill', gravity: 'face' }]) }}" alt="{{ block.alt_text }}" class="max-w-full rounded-lg w-full sm:w-1/2">
 </div>
