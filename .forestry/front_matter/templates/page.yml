@@ -32,8 +32,9 @@ fields:
   template_types:
   - block-text
   - block-image
+  - block-split
   - block-callout
-  - decoration
+  - block-decoration
   config:
     min: 1
     max: 
