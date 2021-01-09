@@ -6,6 +6,7 @@
     "dev": "run-p assets:dev content:dev",
     "build": "run-s all:clean all:build",
     "deploy": "cross-env NODE_ENV=production run-s assets:build content:build",
+    "preview": "cross-env NODE_ENV=production PREVIEW_ENV=1 run-s assets:build content:dev",
     "all:clean": "run-p content:clean assets:clean",
     "all:build": "run-s assets:build content:build",
     "all:watch": "run-p assets:watch content:watch",
