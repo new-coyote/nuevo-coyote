@@ -1,0 +1,14 @@
+<div class="{{ block.template }} text-center p-16 my-12 pt-8 bg-teal-lighter relative rounded-lg">
+    {% if block.heading %}
+    <div class="prose prose-sm md:prose-lg">
+        <h3>{{ block.heading }}</h3>
+    </div>
+    {% endif %}
+    {% if block.content %}
+    <div class="my-6 text-xl prose-sm prose md:prose-lg">{{ block.content | md | safe }}</div>
+    {% endif %}
+    {% if block.link_url %}
+    <a href="{{ block.link_url }}" class="mt-6 inline-block transform -skew-y-6 font-bold text-lg text-yellow-900">{{
+        block.link_text or 'Learn More' }}</a>
+    {% endif %}
+</div>

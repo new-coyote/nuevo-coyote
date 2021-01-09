@@ -1,0 +1,8 @@
+<div class="{{ block.template }} prose prose-sm md:prose-lg">
+    {% if block.heading %}
+    <h3>{{ block.heading }}</h3>
+    {% endif %}
+    <div>
+        {{ block.content | md | safe }}
+    </div>
+</div>
