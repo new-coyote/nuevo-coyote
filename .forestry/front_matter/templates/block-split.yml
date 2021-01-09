@@ -19,3 +19,9 @@ fields:
     schema:
       format: markdown
   label: Content
+- name: flip
+  type: boolean
+  label: Flip
+  description: Normal splits have the image on the left and text on the right. Activate
+    this toggle to reverse that (text on left, image on right).<br><br>This has no
+    effect on mobile (images always stack on top of text.
