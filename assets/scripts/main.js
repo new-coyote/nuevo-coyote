@@ -1,9 +1,8 @@
 import 'alpinejs';
-const mobileWidth = Number(require('../../tailwind.config').theme.extend.screens.nav.replace('px', ''));
 
-window.nav = function() {
+window.nav = function () {
     function viewportLargerThanMobileWidth() {
-        return window.innerWidth >= mobileWidth;
+        return window.innerWidth >= window.mobileWidth;
     }
 
     return {
