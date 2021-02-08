@@ -1,1 +1,1 @@
-<img loading="lazy" src="{{ block.image | cl_url([{ width: 684 }]) }}" alt="{{ block.alt_text }}" class="max-w-full h-auto rounded-lg my-12">
+{% cl_img { path: block.image, size: 684, sizes: '(min-width: 684px) 684px, 100vw', srcset: [342, 1026, 684, 1368], alt: block.alt_text, css: "max-w-full h-auto rounded-lg my-12", attrs: [['loading', 'lazy']] } %}
