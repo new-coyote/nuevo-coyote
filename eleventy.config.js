@@ -20,6 +20,7 @@ module.exports = function (conf) {
     conf.addPassthroughCopy({
         "site/files": "/files/",
         "site/_build": "/",
+        "site/_favicon": "/",
     });
 
     /**
