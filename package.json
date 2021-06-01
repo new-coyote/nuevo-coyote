@@ -38,7 +38,7 @@
     "babel-loader": "^8.2.2",
     "core-js": "^3.10.1",
     "cross-env": "^7.0.3",
-    "css-loader": "^5.2.2",
+    "css-loader": "^5.2.6",
     "cssnano": "^4.1.11",
     "folder-hash": "^4.0.1",
     "image-minimizer-webpack-plugin": "^2.2.0",
