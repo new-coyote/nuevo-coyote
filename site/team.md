@@ -34,9 +34,10 @@ blocks:
   heading: We Are the Champion
 - template: block-callout
   link_text: Contact Us Now
-  content: Ut sem nulla pharetra diam. Ornare massa eget egestas purus viverra accumsan
-    in. Amet venenatis urna cursus eget nunc scelerisque viverra mauris.
-  heading: Why Not Email Us?
+  content: We love making new friends, and if we can't help you, our years of experience
+    and thousands of professional connections in the Pacific Northwest and world-wide
+    mean that we probably know someone who can.
+  heading: Like What You See? Email Us!
   link_url: "/contact/"
 
 ---
