@@ -34,8 +34,9 @@ blocks:
 - template: block-decoration
   image: walking-2
 - template: block-image
-  image: https://res.cloudinary.com/marinaforhire/v1610081439/coyote/2021/01/determined-trees_asfaul.webp
-  alt_text: Trees on the cliffside are a metaphor for...something
+  image: "/v1633153009/coyote/2021/10/Dayflow_-_Watering_Plants_pq7k7d.png"
+  alt_text: 'An illustration of a dark skinned person watering some indoor plants,
+    they are smiling. They carry a cane '
 - template: block-text
   content: "Aliquam etiam erat velit scelerisque in dictum non consectetur a. Fames
     ac turpis egestas integer **eget aliquet nibh praesent**. Lectus nulla at volutpat
