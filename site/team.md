@@ -49,11 +49,23 @@ blocks:
     on how I did on those intentions. "
   flip: false
 - template: block-split
-  image: "/v1610229457/coyote/2021/01/person-in-doorway_qnrnkg.webp"
-  content: |-
-    ## Marina
-
-    Feugiat in ante metus dictum at tempor commodo ullamcorper a. Et molestie ac feugiat sed lectus vestibulum mattis. Consectetur lorem donec massa sapien faucibus et. Eget arcu dictum varius duis at. Velit ut tortor pretium viverra.
+  image: "/v1633152991/coyote/2021/10/Dayflow_-_Work_from_Home_flj0od.png"
+  content: "## Hi, I'm Kate and I'm the Chief Operations Officer here at New Coyote
+    Consulting. \n\nI work on making sure our day to day operations run smoothly,
+    from billing to bidding to building out content. I'm the client relations department
+    and the marketing manager in our small shop and when you reach out to us, it's
+    probably me you're talking to. \n\nMarina and I met in theater club in high school,
+    where we bonded over our shared alienation in our conservative suburban environment.
+    Then we were roommates, and later on we worked together at one of Marina's previous
+    companies. Over the years, we learned that we made a good team, whether it's creeping
+    out the popular kids, building successful campaigns for progressive organizations,
+    or navigating business administration in good times and bad.\n\nI received my
+    Bachelor's in English from UCLA and have more than 20 years experience in online
+    community management, technical writing, marketing, and project management. As
+    a queer woman with a large multi-ethnic and diverse queer/trans/disabled chosen,
+    adopted, and natal family, I find that doing work with an equity lens not only
+    comes naturally, but is imperative to my personal goals as a manager and as the
+    Chief Operations Officer. "
 - template: block-text
   content: "At augue eget arcu dictum varius duis at consectetur. Facilisis mauris
     sit amet massa. Vitae purus faucibus ornare suspendisse. Consequat mauris nunc
