@@ -8,8 +8,10 @@ eleventyNavigation:
   order: 4
 blocks:
 - template: block-image
-  image: "/v1610081297/coyote/2021/01/dogwalker_eizbgs.webp"
-  alt_text: Walking a dog on a misty beach
+  image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
+  alt_text: Marina Martinez-Bateman, CEO of New Coyote Consulting stands in front
+    of a blue and pink wall, they are wearing a blue, pink and white dress and they
+    are laughing with their hands on their hips
 - template: block-split
   image: "/v1610229506/coyote/2021/01/squinting-dog_adq4du.webp"
   content: |-
