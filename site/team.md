@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Who We Are
   order: 4
 blocks:
-- template: block-split
+- template: block-flow
   image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
   content: |-
     ## Hi, I'm Marina and I'm the CEO of New Coyote Consulting.
@@ -26,7 +26,7 @@ blocks:
 
     You can learn more about me on my personal website [www.marinaforhire.com,](http://www.marinaforhire.com,) my twitter @marinaforhire, or on Linkedin where I post videos every week on Monday and Thursday setting out my intentions for the week and then updating everyone on how I did on those intentions.
   flip: false
-- template: block-split
+- template: block-flow
   image: "/v1633152991/coyote/2021/10/Dayflow_-_Work_from_Home_flj0od.png"
   content: "## Hi, I'm Kate and I'm the Chief Operations Officer here at New Coyote
     Consulting. \n\nI work on making sure our day to day operations run smoothly,
