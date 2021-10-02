@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 4
 blocks:
 - template: block-split
-  image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
+  image: ''
   content: |-
     ## Hi, I'm Marina and I'm the CEO of New Coyote Consulting.
 
