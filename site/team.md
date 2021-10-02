@@ -85,8 +85,8 @@ blocks:
     in what I knew to be true as the descendent of my multiple legacies, or that I
     had perfected myself in the field.\n\nSo we because New Coyote. New for the way
     it feels to work with us, and Coyote for Huehuecóyotl who lead and taught with
-    friendship, humor, storytelling, and a little bit of transformation. A shape-shifter
-    and an ancestor as adaptable as the coyote herself. "
+    humor, storytelling, and a little bit of transformation. A shape-shifter and an
+    ancestor, just as adaptable and suited to this world as he ever was.  "
   heading: Why We're Called New Coyote
 - template: block-callout
   link_text: Contact Us Now
