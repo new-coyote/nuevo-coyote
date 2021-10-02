@@ -64,6 +64,8 @@ blocks:
     Chief Operations Officer. "
 - template: block-image
   image: "/v1633154050/coyote/2021/10/Happy_Bunch_-_Walking_fwv3oh.png"
+  alt_text: An image of three people walking through a natural area, they are all
+    wearing masks. One is light complected, on medium and one dark.
 - template: block-text
   content: "In Aztec mythology Huehuecóyotl, or Very Old Coyote is a deity that represents
     wisdom, storytelling, deception, and a host of other things. He was usually depicted
