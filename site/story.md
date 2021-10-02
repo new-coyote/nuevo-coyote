@@ -27,6 +27,6 @@ blocks:
      9. Empathy is everything.
     10. The opposite of an oppressive system is not a lack of systems. Without explicit structure, most systems will revert to the default, which is white supremacy.
 - template: block-decoration
-  image: sitting-1
+  image: sitting-2
 
 ---
