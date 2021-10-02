@@ -33,10 +33,6 @@ blocks:
     this corporation only exists as long as the people in it thrive."
 - template: block-decoration
   image: walking-2
-- template: block-image
-  image: "/v1633153009/coyote/2021/10/Dayflow_-_Watering_Plants_pq7k7d.png"
-  alt_text: 'An illustration of a dark skinned person watering some indoor plants,
-    they are smiling. They carry a cane '
 - template: block-text
   content: |-
     **A successful day at the business is a day where we:**
