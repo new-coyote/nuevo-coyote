@@ -7,10 +7,6 @@ eleventyNavigation:
   key: Why We Do It
   order: 3
 blocks:
-- template: block-image
-  image: "/v1633152718/coyote/2021/10/Dayflow_-_Park_Life_rd6y5x.png"
-  alt_text: 'An illustration of a person riding a bike through a park they have dark
-    skin and a beard, they are smiling and wearing blush, lipstick and mascara. '
 - template: block-text
   heading: '10 Driving Principals '
   content: |-
@@ -27,6 +23,6 @@ blocks:
      9. Empathy is everything.
     10. The opposite of an oppressive system is not a lack of systems. Without explicit structure, most systems will revert to the default, which is white supremacy.
 - template: block-decoration
-  image: sitting-2
+  image: sitting-1
 
 ---
