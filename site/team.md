@@ -10,7 +10,7 @@ blocks:
 - template: block-split
   image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
   content: |-
-    # Hi, I'm Marina and I'm the CEO of New Coyote Consulting.
+    ## Hi, I'm Marina and I'm the CEO of New Coyote Consulting.
 
     I'm the person you'll be working with on assessments, consulting, coaching and training. New Coyote is my brain child, and is born of many years' experience applying equity and human-centered systems to communications strategy. I built it to be a new kind of company, a place that puts human beings over performative capitalist expectations that only waste time, lead to burn out, and don't make any money for a middle class company like mine.
 
