@@ -62,6 +62,8 @@ blocks:
     adopted, and natal family, I find that doing work with an equity lens not only
     comes naturally, but is imperative to my personal goals as a manager and as the
     Chief Operations Officer. "
+- template: block-image
+  image: "/v1633154050/coyote/2021/10/Happy_Bunch_-_Walking_fwv3oh.png"
 - template: block-text
   content: "In Aztec mythology Huehuecóyotl, or Very Old Coyote is a deity that represents
     wisdom, storytelling, deception, and a host of other things. He was usually depicted
