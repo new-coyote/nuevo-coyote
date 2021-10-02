@@ -68,23 +68,25 @@ blocks:
     Chief Operations Officer. "
 - template: block-text
   content: "In Aztec mythology Huehuecóyotl, or Very Old Coyote is a deity that represents
-    wisdom, storytelling, deception and a host of other things. He was usually depicted
+    wisdom, storytelling, deception, and a host of other things. He was usually depicted
     as male, but was also explicitly gender fluid and bisexual. \n\nIn the stories
     we still have of Huehuecóyotl, he was shown as a trickster god, usually one that
     taught lessons through play and humor. His followers, if they could be called
-    that, treated him more like a friend than a god. \n\nI wanted my business to work
-    with people, not against or over them. I wanted to honor my path and my own identities.\n\nWhen
-    I was first envisioning what would become New Coyote, I started by asking myself
-    one question: How did my ancestors do business? \n\nAs a descendent of colonized
-    people, we may never fully know the answer to that question, however, the answer
-    wasn't what I needed. Asking the question with intention helped me conceptualized
-    of a business model outside of capitalism. And that became New Coyote. \n\nAt
-    first, I planned for us to be Old Coyote, since I was teaching and recommending
-    techniques that felt old to me and came from my lived experience and community
-    knowledge. But everywhere I went people called my style \"new.\" \n\nI was teaching
-    things that came from outside formal education and mainstream thought. These practices
-    were anchored in what I knew to be true as the descendent of my multiple legacies,
-    or that I had perfected myself in the field. "
+    that, treated him more like a friend than a god. \n\nWhen I was first envisioning
+    what would become New Coyote, I started by asking myself one question: How did
+    my ancestors do business? \n\nAs a descendent of colonized people, we may never
+    fully know the answer to that question, however, the answer wasn't what I needed.
+    Asking the question with intention helped me conceptualized of a business model
+    outside of capitalism. And that became New Coyote. \n\nI originally planned for
+    us to be Old Coyote, since I was teaching and recommending techniques that felt
+    old to me and came from my lived experience and community knowledge. But everywhere
+    I went people called my style \"new.\" \n\nI was teaching things that came from
+    outside formal education and mainstream thought. These practices were anchored
+    in what I knew to be true as the descendent of my multiple legacies, or that I
+    had perfected myself in the field.\n\nSo we because New Coyote. New for the way
+    it feels to work with us, and Coyote for Huehuecóyotl who lead and taught with
+    friendship, humor, storytelling, and a little bit of transformation. A shape-shifter
+    and an ancestor as adaptable as the coyote herself. "
   heading: Why We're Called New Coyote
 - template: block-callout
   link_text: Contact Us Now
