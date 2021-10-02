@@ -67,14 +67,17 @@ blocks:
     comes naturally, but is imperative to my personal goals as a manager and as the
     Chief Operations Officer. "
 - template: block-text
-  content: "At augue eget arcu dictum varius duis at consectetur. Facilisis mauris
-    sit amet massa. Vitae purus faucibus ornare suspendisse. Consequat mauris nunc
-    congue nisi vitae suscipit tellus. Nec feugiat nisl pretium fusce. Enim praesent
-    elementum facilisis leo vel. Mauris augue neque gravida in fermentum et sollicitudin
-    ac. Volutpat ac tincidunt vitae semper quis. \n\nTincidunt ornare massa eget egestas.
-    Cras tincidunt lobortis feugiat vivamus at augue eget. Porttitor lacus luctus
-    accumsan tortor posuere ac ut."
-  heading: We Are the Champion
+  content: "In Aztec mythology Huehuecóyotl, or very old coyote is a deity that represents
+    wisdom, storytelling, deception and a host of other things. He was usually depicted
+    as male, but was also clearly gender fluid and bisexual. In the stories we still
+    have of Huehuecóyotl, he was shown as a trickster god, usually one that taught
+    lessons through play and humor. His followers, if they could be called that, treated
+    him more like a friend than a god. \n\nWhen I was first envisioning what would
+    become New Coyote, I started by asking myself one question: How did my ancestors
+    do business? As a descendent of colonized people, we may never fully know the
+    answer to that question, however, it wasn't the answer I needed. Just asking the
+    question helped me conceptualized of a business model outside of capitalism. "
+  heading: Why We're Called New Coyote
 - template: block-callout
   link_text: Contact Us Now
   content: We love making new friends, and if we can't help you, our years of experience
