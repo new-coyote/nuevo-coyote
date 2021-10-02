@@ -8,11 +8,29 @@ eleventyNavigation:
   order: 2
 blocks:
 - template: block-text
-  heading: A Little Bit Of Everything
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed odio morbi quis commodo odio aenean sed adipiscing diam. Vitae semper quis lectus nulla at volutpat diam. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Pellentesque dignissim enim sit amet. Malesuada nunc vel risus commodo. Aliquet bibendum enim facilisis gravida neque convallis a cras semper. Adipiscing commodo elit at imperdiet dui accumsan. Ipsum consequat nisl vel pretium lectus. Semper viverra nam libero justo laoreet. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Sit amet porttitor eget dolor morbi non arcu risus. Est velit egestas dui id. Imperdiet sed euismod nisi porta. Quam id leo in vitae turpis massa sed. Scelerisque viverra mauris in aliquam sem fringilla. Diam quam nulla porttitor massa id neque. Mi eget mauris pharetra et. Sed blandit libero volutpat sed cras.
-
-    Elementum curabitur vitae nunc sed velit dignissim sodales ut. Aliquam ut porttitor leo a diam sollicitudin. Sollicitudin nibh sit amet commodo nulla. In iaculis nunc sed augue lacus viverra. Condimentum id venenatis a condimentum vitae sapien pellentesque. Eget nunc scelerisque viverra mauris in aliquam sem fringilla ut. Eu non diam phasellus vestibulum lorem sed risus. Id porta nibh venenatis cras sed. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Est pellentesque elit ullamcorper dignissim. Adipiscing vitae proin sagittis nisl rhoncus. In hac habitasse platea dictumst. Turpis massa sed elementum tempus. Netus et malesuada fames ac turpis egestas integer eget aliquet.
+  heading: New Coyote Manifesto
+  content: "We are tired of empty corporate manifestos. This will not be another well-written
+    piece of vague trash for us to point to as if we have values while we do whatever
+    serves us in the short term behind the scenes. Our real manifesto is not what
+    we say, but what we do.\n\n**However, here is what we say we do:**\n\n 1. We break
+    for meals.\n 2. We don’t work weekends.\n 3. We check email once or twice a day.\n
+    4. We see failure as an essential part of success.\n 5. We never write above a
+    5th grade reading level.\n 6. We pay **at least** average market rate+ 10% for
+    labor. All labor.\n 7. Professional development is not a perk, it is an essential
+    part of our business.\n 8. We work with experienced professionals who can respond
+    quickly and act independently for the benefit of our clients.\n 9. We are an anti-racist
+    company; if you’re not okay with that we will ask you to leave.  \n    — This
+    applies to all stakeholders including clients, staff, and especially leadership.
+    \ \n    — We reserve the right to extend this policy to all forms of bigotry,
+    harassment, or bad behavior.\n10. When we mess up, we are grateful for the feedback
+    and we strive to make amends.  \n    — Our priority is to make amends first to
+    those most negatively impacted by our mistake, and then to the wider community.\n11.
+    When work increases, we add hours or people because we need our team to be at
+    their best for every client and every project.\n12. This company exists to serve
+    people, not the other way around.  \n    — This means that we will never sacrifice
+    human wellbeing for corporate wellbeing.  \n    — More specifically, if the corporation
+    must die for the people in it to live, it will die.  \n    — Put another way,
+    this corporation only exists as long as the people in it thrive."
 - template: block-decoration
   image: walking-2
 - template: block-image
