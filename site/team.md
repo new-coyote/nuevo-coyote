@@ -13,11 +13,41 @@ blocks:
     of a blue and pink wall, they are wearing a blue, pink and white dress and they
     are laughing with their hands on their hips
 - template: block-split
-  image: "/v1610229506/coyote/2021/01/squinting-dog_adq4du.webp"
-  content: |-
-    ## Pepper
-
-    Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Tristique risus nec feugiat in fermentum posuere urna. Vitae auctor eu augue ut lectus arcu bibendum. A diam sollicitudin tempor id. Egestas quis ipsum suspendisse ultrices gravida. Ut lectus arcu bibendum at varius vel pharetra. Lectus arcu bibendum at varius vel pharetra vel turpis. Lacus vestibulum sed arcu non odio euismod lacinia. Et sollicitudin ac orci phasellus egestas tellus rutrum.
+  image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
+  content: "## Hi, I'm Marina and I'm the CEO of New Coyote Consulting.\n\nI'm the
+    person you'll be working with on assessments, consulting, coaching and training.
+    New Coyote is my brain child, and is born of many years' experience applying equity
+    and human-centered systems to communications strategy. I built it to be a new
+    kind of company, a place that puts human beings over performative capitalist expectations
+    that only waste time, lead to burn out, and don't make any money for a middle
+    class company like mine. \n\nI'm a serial entrepreneur and a grassroots communicator
+    with more than 20 years' experience motivating people to take action on behalf
+    of political, cultural, and commercial interests. I take my commitment to the
+    people I communicate with very seriously. My ongoing equity and workers' rights
+    practice has made me a popular speaker, trainer, and peer mentor in the industry.
+    \n\nI have successfully created, consulted on, planned, and launched multiple
+    businesses and projects that make money without sacrificing principals or values.
+    My success in business is directly tied to my lived experience and those of my
+    ancestors, who live on through me. \n\nI come from a family of atheist communist
+    activists on the one side, and marine corps veterans on the other. Along the way,
+    we experienced and passed down generational trauma, abuse, mental illness, and
+    addiction. My identity as a queer, non-binary, disabled Latine (Latinx, Latin@,
+    Latina/o) person informs my sense of place in this world. My family history and
+    personal experiences of racism, sexism, oppression, transphobia, and ablism in
+    and out of the workplace fuel my need for justice. The work of anti-racism, decolonization,
+    and recovery from the trauma of capitalism is a life-long journey and it's been
+    my daily practice to do my part in this generational work for more than 21 years.\n\nI
+    deeply believe and operate from the belief that until and unless we pay people
+    a living wage, bringing marginalized people in line not only with earning, but
+    with wealth generation available to historically privileged populations, we have
+    no hope of a sustainable movement. \n\nLiberation and prosperity go hand in hand.
+    Wealth generation for communities of color and communities kept in poverty by
+    white supremacy, especially Black and Indigenous communities will change the world.
+    I invest in pay equity and resource development for BIPOC and trans people first
+    and foremost.\n\nYou can learn more about me on my personal website [www.marinaforhire.com,](http://www.marinaforhire.com,)
+    my twitter @marinaforhire, or on Linkedin where I post videos every week on Monday
+    and Thursday setting out my intentions for the week and then updating everyone
+    on how I did on those intentions. "
   flip: false
 - template: block-split
   image: "/v1610229457/coyote/2021/01/person-in-doorway_qnrnkg.webp"
