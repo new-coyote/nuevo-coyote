@@ -1,0 +1,37 @@
+---
+title: Contact Us
+layout: columns.njk
+eleventyNavigation:
+    key: Contact
+    order: 5
+---
+<article>
+    <p class="text-center prose-xl">We can't wait to hear from you!</p>
+    <form name="contact" method="POST" data-netlify="true" action="/thanks" netlify-honeypot="fax"
+          class="grid gap-6 md:grid-cols-2 w-full md:max-w-xl mt-16 mx-auto">
+        <input type="text" name="fax" class="fax-number-field">
+        <input type="hidden" name="subject" value="Message coming in from New Coyote web form">
+        <label class="block sm:col-span-1">
+            <span class="font-heading block pb-1 pl-2 transform -skew-y-3 -mb-2">Name</span>
+            <input type="text" name="name" required
+                   class="w-full border-0 rounded-md focus:ring focus:ring-teal focus:ring-opacity-50 bg-clay-lightest bg-opacity-50"/>
+        </label>
+        <label class="block sm:col-span-1">
+            <span class="block pb-1 pl-2 font-heading transform -skew-y-3 -mb-2">Email</span>
+            <input type="email" name="email" required
+                   class="w-full border-0 rounded-md focus:ring focus:ring-teal focus:ring-opacity-50 bg-clay-lightest bg-opacity-50"/>
+        </label>
+        <label class="block sm:col-span-2">
+            <span class="block pb-1 pl-2 font-heading transform -skew-y-3 -mb-0.5">What's Up?</span>
+            <textarea name="message" required rows="4"
+                      class="w-full rounded-md border-0 focus:ring focus:ring-teal focus:ring-opacity-50 bg-clay-lightest bg-opacity-50 pt-3"></textarea>
+        </label>
+        <div class="sm:col-span-2 text-right mt-2">
+            <button type="submit"
+                    class="inline-flex items-center py-2 rounded-md px-10 bg-gold focus:ring focus:ring-gold focus:ring-opacity-40 font-heading bg-teal text-clay-lightest transform rotate-3">
+                <span class="pr-2 mb-1">Send</span> 📬
+            </button>
+        </div>
+    </form>
+    <img src="/files/contact-kicker.svg" alt="Two people with a very lange letter and envelope" class="w-4/5 mx-auto">
+</article>

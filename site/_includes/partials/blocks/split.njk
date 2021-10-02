@@ -1,0 +1,6 @@
+<div class="{{ block.template }} flex flex-col-reverse {% if block.flip -%} sm:flex-row {%- else -%} sm:flex-row-reverse {%- endif %} items-start my-12">
+    <div class="w-full sm:w-1/2 sm:pl-4 prose">
+        {{ block.content | md | safe }}
+    </div>
+    {% cl_img { path: block.image, size: 684, sizes: '(min-width: 768px) 342px, (min-width: 640px) 50vw, 100vw', srcset: [342, 684, 1026, 684, 1368], alt: block.alt_text, css: "max-w-full rounded-lg w-full sm:w-1/2", attrs: [['loading', 'lazy']] } %}
+</div>

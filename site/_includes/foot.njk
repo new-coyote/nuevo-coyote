@@ -1,0 +1,11 @@
+<footer class="flex flex-col items-center justify-center p-6 mt-10 text-sm italic opacity-70">
+    {% cl_img images.logo %}
+    <p>&copy; 2021 New Coyote</p>
+    <p>Site by <a href="https://www.alwaysblank.dev" class="underline">Always Blank</a></p>
+</footer>
+{% include "partials/nomodule-polyfill.njk" %}
+<script>
+    window.mobileWidth = Number('{{ tailwind.theme.extend.screens.nav }}'.replace('px', ''));
+</script>
+<script nomodule src="/legacy.js"></script>
+<script type="module" src="/main.js"></script>

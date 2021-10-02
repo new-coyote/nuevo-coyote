@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: New Coyote Consulting
+---
+<body class="flex flex-col justify-center items-center min-h-screen bg-gradient-to-b from-orange-lighter to-teal-lighter">
+<div class="transform -skew-y-12 font-heading home-heading flex flex-col items-center">
+    <span class="text-teal">New</span>
+    <hr class="h-4 bg-clay border-0 w-36 absolute hidden md:block">
+    <span class="text-orange">Coyote</span>
+</div>
+<div class="text-2xl my-16 md:mb-24 text-center font-bold transform -skew-y-12 font-heading text-teal">
+    A Person-First,<br> No Nonsense <br> Equity & Communications <br>Consulting Firm
+</div>
+<ul class="flex flex-col md:flex-row mt-10 md:mt-0 justify-center items-center z-10 relative">
+    {% for item in collections.all | eleventyNavigation %}
+    <li class="mt-4 md:mt-0 mx-2 pb-1 px-1 font-body text-xl text-yellow-900">
+        <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
+</body>

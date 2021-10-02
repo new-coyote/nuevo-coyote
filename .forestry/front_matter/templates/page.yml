@@ -1,0 +1,41 @@
+---
+label: Page
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: The name of the page. Used to generate the URL as well.
+- name: column_decoration
+  type: select
+  default: none
+  config:
+    required: false
+    options:
+    - '1'
+    - '2'
+    - '3'
+    - none
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Side Decoration
+  description: Optionally add a couple of folks next to your content, for some more
+    visual oomph.
+- name: blocks
+  type: blocks
+  label: Content
+  template_types:
+  - block-text
+  - block-image
+  - block-split
+  - block-callout
+  - block-decoration
+  config:
+    min: 1
+    max: 
+  description: Assemble some blocks to make your content.

@@ -1,16 +1,26 @@
-const includes = require('./11ty/index');
-const rimraf = require('rimraf');
-const {join} = require('path');
+/**
+ * This needs to run early, and allows us to get things from a .env file
+ */
+require('dotenv').config()
 
 module.exports = function (conf) {
 
-    includes(conf);
+    /**
+     * Set up the following:
+     *  - Plugins
+     *  - Filters
+     *  - Shortcodes
+     *  - Collections
+     */
+    require('./11ty/loader')(conf);
 
     /**
-     * Copy assets into root, so that manifest records don't need modification.
+     * Copy assets into root
      */
     conf.addPassthroughCopy({
-        "content/assets": "/"
+        "site/files": "/files/",
+        "site/_build": "/",
+        "site/_favicon": "/",
     });
 
     /**
@@ -18,23 +28,14 @@ module.exports = function (conf) {
      */
     conf.setUseGitIgnore(false);
 
-    conf.setQuietMode(true);
-
     /**
-     * Run some cleanup after a build is made.
+     * Less noise since we're running this through another CLI
      */
-    conf.on('afterBuild', () => {
-        // Remove unneeded images.mjs files
-        rimraf(join(process.cwd(), 'dist', 'images.*.mjs?(.map)'), {}, err => {
-            if (err) {
-                console.error(err)
-            }
-        });
-    });
+    conf.setQuietMode(true);
 
     return {
         dir: {
-            input: "content",
+            input: "site",
             output: "dist",
             includes: "_includes",
             layouts: "_layouts",

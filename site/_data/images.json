@@ -1,0 +1,16 @@
+{
+  "logo": {
+    "path": "coyote/logo.png",
+    "size": 40,
+    "sizes": "40px",
+    "srcset": [
+      20,
+      40,
+      60,
+      80,
+      120
+    ],
+    "alt": "New Coyote logo",
+    "css": "mb-4"
+  }
+}
