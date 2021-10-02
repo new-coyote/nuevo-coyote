@@ -8,10 +8,9 @@ eleventyNavigation:
   order: 4
 blocks:
 - template: block-image
-  image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
-  alt_text: Marina Martinez-Bateman, CEO of New Coyote Consulting stands in front
-    of a blue and pink wall, they are wearing a blue, pink and white dress and they
-    are laughing with their hands on their hips
+  image: "/v1633154050/coyote/2021/10/Happy_Bunch_-_Walking_fwv3oh.png"
+  alt_text: An illustration of three people, all wearing masks walking through a landscape
+    of trees and clouds there is a white person, a brown person and a black person.
 - template: block-split
   image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
   content: "## Hi, I'm Marina and I'm the CEO of New Coyote Consulting.\n\nI'm the
