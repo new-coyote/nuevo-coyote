@@ -19,7 +19,7 @@ blocks:
 - template: block-image
   image: "/v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png"
   alt_text: An illustration of a mythical city scape with ancient buildings and modern
-    cars on a body of water
+    cars next to a body of water
 - template: block-text
   heading: New Coyote Manifesto
   content: "We are tired of empty corporate manifestos. This will not be another well-written
