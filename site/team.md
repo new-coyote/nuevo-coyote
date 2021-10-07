@@ -56,11 +56,11 @@ blocks:
 
     When I was first envisioning what would become New Coyote, I started by asking myself one question: How did my ancestors do business?
 
-    As a descendent of colonized people, we may never fully know the answer to that question, however, the answer wasn't what I needed. Asking the question with intention helped me conceptualized of a business model outside of capitalism. And that became New Coyote.
+    As a descendant of colonized people, we may never fully know the answer to that question, however, the answer wasn't what I needed. Asking the question with intention helped me conceptualized of a business model outside of capitalism. And that became New Coyote.
 
     I originally planned for us to be Old Coyote, since I was teaching and recommending techniques that felt old to me and came from my lived experience and community knowledge. But everywhere I went people called my style "new."
 
-    I was teaching things that came from outside formal education and mainstream thought. These practices were anchored in what I knew to be true as the descendent of my multiple legacies, or that I had perfected myself in the field.
+    I was teaching things that came from outside formal education and mainstream thought. These practices were anchored in what I knew to be true as the descendant of my multiple legacies, or that I had perfected myself in the field.
 
     So we became New Coyote. New for the way it feels to work with us, and Coyote for Huehuecóyotl who lead and taught with humor, storytelling, and a little bit of transformation. A shape-shifter and an ancestor, just as adaptable and suited to this world as he ever was.
   heading: Why We're Called New Coyote
