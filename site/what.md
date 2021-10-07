@@ -15,13 +15,19 @@ blocks:
 
     **We Offer:**
 
-    * Strategy
-    * Training
-    * Coaching
-    * Hiring process
-    * Communications department for hire
-    * Campaign management and execution
-    * Communications department restructure
+    Strategy
+
+    Training
+
+    Coaching
+
+    Hiring process
+
+    Communications department for hire
+
+    Campaign management and execution
+
+    Communications department restructure
   link_url: https://newcoyote.com/contact/
 - template: block-image
   image: "/v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png"
