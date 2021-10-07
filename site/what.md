@@ -9,11 +9,11 @@ eleventyNavigation:
 blocks:
 - template: block-callout
   link_text: Contact us for quotes
-  heading: An Equity and Communications                   Consulting Firm
+  heading: An Equity and Communications <br/>Consulting Firm
   content: |-
     After beginning an equity journey, many organizations find their old messaging doesn't line up with their new vision. New Coyote is the firm to help you bridge that gap.
 
-    We Offer:
+    **We Offer:**
 
     * Strategy
     * Training
