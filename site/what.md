@@ -7,6 +7,15 @@ eleventyNavigation:
   key: What We Do
   order: 2
 blocks:
+- template: block-callout
+  link_text: Contact us for quotes
+  heading: An Equity and Communications Consulting Firm
+  content: "Many organizations find that, after beginning an equity journey, their
+    old messaging doesn't line up with their new vision. New Coyote is the firm to
+    help you bridge that gap.\n\nWe Offer:\n\n* Strategy \n* Training \n* Coaching
+    \n* Hiring process \n* Communications department for hire\n* Campaign management
+    and execution\n* Communications department restructure"
+  link_url: https://newcoyote.com/contact/
 - template: block-text
   heading: New Coyote Manifesto
   content: "We are tired of empty corporate manifestos. This will not be another well-written
