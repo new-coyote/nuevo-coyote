@@ -16,6 +16,8 @@ blocks:
     \n* Hiring process \n* Communications department for hire\n* Campaign management
     and execution\n* Communications department restructure"
   link_url: https://newcoyote.com/contact/
+- template: block-image
+  image: "/v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png"
 - template: block-text
   heading: New Coyote Manifesto
   content: "We are tired of empty corporate manifestos. This will not be another well-written
