@@ -10,11 +10,26 @@ blocks:
 - template: block-callout
   link_text: Contact us for quotes
   heading: Equity and Communications Consulting
-  content: "After beginning an equity journey, many organizations find their old messaging
-    doesn't line up with their current vision. New Coyote is the firm to help you
-    bridge that gap.\n\n**We Offer:**\n\nStrategy\n\nTraining\n\nCoaching\n\nHiring
-    process\n\nNonprofit development consulting   \n  \nCommunications department
-    for hire\n\nCampaign management and execution\n\nCommunications department restructure"
+  content: |-
+    After beginning an equity journey, many organizations find their old messaging doesn't line up with their current vision. New Coyote is the firm to help you bridge that gap.
+
+    **We Offer:**
+
+    Strategy
+
+    Training
+
+    Coaching
+
+    Hiring process
+
+    Nonprofit consulting
+
+    Communications department for hire
+
+    Campaign management and execution
+
+    Communications department restructure
   link_url: https://newcoyote.com/contact/
 - template: block-image
   image: "/v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png"
