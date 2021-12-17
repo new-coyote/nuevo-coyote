@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 3
 blocks:
 - template: block-text
-  heading: '10 Driving Principals '
+  heading: 10 Driving Principles
   content: |-
     We came to understand these principles over 20 years of working in change-management, equity, and communications. They are not final, true principles rarely are. But they are what drives us today.
 
