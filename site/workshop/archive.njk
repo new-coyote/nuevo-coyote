@@ -1,0 +1,43 @@
+---js
+{
+    layout: "app.njk",
+    title: "Workshop Archive",
+    pagination: {
+        data: "collections.workshop",
+        size: 12,
+        alias: "workshops",
+        before: function(data) {
+            return data.slice(8)
+        },
+    },
+    no_sitemap: true,
+    permalink: "/workshop/archive/{{ pagination.pageNumber + 2 }}/index.html",
+}
+---
+<header class="max-w-5xl mb-12">
+    <h1 class="text-5xl font-bold font-heading -skew-y-6 transform mb-6 border-b-4 border-teal pb-2 pr-2">{{
+        title
+        }}</h1>
+</header>
+<div class="py-10 px-4 grid md:grid-cols-2 xl:grid-cols-4 max-w-6xl gap-8">
+    {%- for workshop in workshops -%}
+    {%- set featuredworkshop = false -%}
+        {% include "partials/workshop/preview.njk" %}
+    {%- endfor -%}
+</div>
+
+<nav aria-labelledby="list-pagination" class="text-center p-6 py-10 max-w-6xl">
+    <h2 id="list-pagination" class="mb-4 text-xl highlight relative inline-block"><span class="relative z-10">Further Reading</span></h2>
+    <ol class="flex justify-center font-bold text-sm">
+        <li class="mx-3"><a class="p-1" href="/workshops/">1</a></li>
+        <span class="text-core-primary">•</span>
+        {%- for pageEntry in pagination.pages %}
+        {%- set link = pagination.hrefs[loop.index0] -%}
+        {%- set current = page.url === link -%}
+        <li class="mx-3"><a class="p-1 {% if current %} link {% endif %}" href="{{ link }}"{% if current %} aria-current="page" style="{{ link }}" {% endif %}>{{ loop.index + 1 }}</a></li>
+        {%- if false === loop.last -%}
+        <span class="text-core-primary">•</span>
+        {%- endif -%}
+        {%- endfor %}
+    </ol>
+</nav>

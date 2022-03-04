@@ -1,0 +1,41 @@
+{% macro image(image, alt, caption, credit, credit_url, class='w-full', width=600, srcset=[900, 1800], sizes='(min-width: 900px) 900px, 100vw', loading="lazy") %}
+    {# This adds the width to our list of srcsets #}
+    {%- set srcset = (srcset.push(width), srcset) -%}
+
+    {# We want to pull alt, caption, etc, from the image but allow overriding #}
+    {%- set alt = alt if alt else image.alt -%}
+    {%- set caption = caption if caption else image.caption -%}
+    {%- set credit = credit if credit else image.credit -%}
+    {%- set credit_url = credit_url if credit_url else image.credit_url -%}
+
+    <figure class="{{ class }}">
+        <img 
+            class="block w-full" 
+            alt="{{ alt }}" 
+            loading="{{ loading }}"
+            src="{{ image.src | cl_url({width: width}) }}"
+            {% if srcset.length > 0 -%}
+                srcset="{%- for w in srcset -%}{{ image.src | cl_url({ width: w}) }} {{ w }}w{%- if not loop.last -%}, {% endif -%}{%- endfor -%}"
+            {%- endif %}
+            sizes="{{ sizes }}" />
+        {% if credit or caption %}
+            <figcaption class="text-xs p-2 border-b border-core-secondary">
+                {% if caption %}
+                    <span>{{ caption }}</span>
+                {% endif %}
+
+                {% if caption and credit %}
+                    | 
+                {% endif %}
+
+                {% if credit_url %}
+                    <a href="{{ credit_url }}" class="underline" target="_blank" rel="noopener noreferrer">
+                {% endif %}
+                    <span class="uppercase">{{ credit }}</span>
+                {% if credit_url %}
+                    </a>
+                {% endif %}
+            </figcaption>
+        {% endif %}
+    </figure>
+{% endmacro %}

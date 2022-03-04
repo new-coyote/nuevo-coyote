@@ -1,0 +1,11 @@
+{% macro title(title) %}
+    {% for segment in title | title_split %}
+        {% if loop.first %}
+            {{ segment }}
+        {% elseif loop.index == 2 %}
+            <span class="text-core-primary">{{ segment }}</span>
+        {% else %}
+            <span class="text-core-teal">{{ segment }}</span>
+        {% endif %}
+    {% endfor %}
+{% endmacro %}

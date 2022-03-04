@@ -1,4 +1,7 @@
 import 'alpinejs';
+import workshopInstanceSetup from './workshopInstances';
+
+workshopInstanceSetup();
 
 window.nav = function () {
     function viewportLargerThanMobileWidth() {

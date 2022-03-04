@@ -1,0 +1,70 @@
+---
+layout: app.njk
+---
+<article class="mx-auto">
+    <div class="w-header max-w-full mx-auto">
+        <div class="workshop-body">
+            <div class="workshop-text body-style novel-style leading-relaxed">
+                {{ content | safe }}
+            </div>
+            {% if image %}
+                {% import "macros/image.njk" as image_tools %}
+                {{ image_tools.image(image, class="workshop-image block w-full", width=300, srcset=[768, 1536], sizes="(min-width: 768px) 300px, 100vw") }}
+            {% endif %}
+            <div class="workshop-category uppercase text-xs mb-2">
+                {% if category.length > 0 %}
+                <span class="inline">
+                    {% for term in category %}
+                        {% set category = collections.categories['./' + term] %}
+                        <a href="{{ category.url }}" class="underline mr-1"
+                        title="Read other content in {{ category.data.title }}">{{ category.data.title }}</a>
+                    {% endfor %}
+                </span>
+                {% endif %}
+            </div>
+            {% if instances.length > 0 %}
+                <section class="workshop-instances">
+                    <h2 class="text-xl mb-2">Dates &amp; Times</h2>
+                    {% if repeat %}
+                        <div class="uppercase text-xs mb-4"> ⭮ {{ repeat }}</div>
+                    {% endif %}
+                    <ul class="uppercase grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-3 md:grid-cols-1 gap-2 mb-4">
+                        {% for instance in instances %}
+                            <li class="workshop-instance mr-auto relative">
+                                <time datetime="{{ instance.date | date() }}" class="font-bold text-xs">
+                                    {{ instance.date | date('human') }}
+                                </time>
+                                <br>
+                                <span class="">{{ instance.start }} - {{ instance.end }}</span>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </section>
+            {% endif %}
+
+            {% if partners.length > 0 %}
+                <section class="workshop-partners">
+                    <h2 class="text-xl mb-2">Partners</h2>
+                    <ul>
+                        {% for partner in partners %}
+                            <li class="workshop-instance">
+                                <h3>
+                                    {%- if partner.url -%}
+                                        <a href="{{ partner.url }}" class="underline">
+                                    {%- endif -%}
+                                        {{ partner.name }}
+                                    {%- if partner.url -%}
+                                        </a>
+                                    {%- endif -%}
+                                </h3>
+                                <div class="text-sm body-style">
+                                    {{ partner.description | markdownify | safe }}
+                                </div>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </section>
+            {% endif %}
+        </div>
+    </div>
+</article>
