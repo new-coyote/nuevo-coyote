@@ -3,7 +3,7 @@ date: 2021-01-08
 title: The Ongoing Practice of Person-First Business Management
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610166018/images/2021/01/Humaaans_-_3_Characters_mcgfay.png
   alt: ''

@@ -3,7 +3,7 @@ date: 2021-01-08
 title: Saying No Is an Ongoing Practice
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610169245/images/2021/01/Big_Shoes_-_Having_Fun_ch0jfe.png
   alt: ''

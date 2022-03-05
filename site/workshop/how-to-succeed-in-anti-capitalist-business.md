@@ -3,7 +3,7 @@ date: 2021-06-15
 title: How To Succeed in Anti-Capitalist Business
 condition: Online
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1595303503/images/site/marina-two-tone-wall.jpg
   alt: ''

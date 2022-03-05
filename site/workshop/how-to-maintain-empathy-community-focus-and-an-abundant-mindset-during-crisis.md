@@ -2,7 +2,7 @@
 date: 2020-03-24
 title: How To Maintain Empathy, Community Focus, and an Abundant Mindset During Crisis
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 seo:
   title: ''
   meta_description: ''

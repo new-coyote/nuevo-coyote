@@ -2,9 +2,9 @@
 date: 2020-05-14
 title: Blogs, Newsletters, and Other Things You Need but Don't Have Time For
 category:
-- src/taxonomy/category/social-media-management.md
-- src/taxonomy/category/copy-editing.md
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/social-media-management.md
+- site/taxonomy/category/copy-editing.md
+- site/taxonomy/category/how-to.md
 seo:
   title: ''
   meta_description: ''

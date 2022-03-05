@@ -1,0 +1,79 @@
+.workshop-body {
+	display: grid;
+	grid-column-gap: 2rem;
+	grid-row-gap: 1rem;
+}
+
+.workshop-category {
+	grid-row: 1;
+}
+
+.workshop-instances {
+	grid-row: 2;
+}
+
+.workshop-text {
+	grid-row: 3;
+}
+
+.workshop-partners {
+	grid-row: 4;
+}
+
+.workshop-image {
+	grid-row: 5;
+}
+
+@screen md {
+	.workshop-body {
+		grid-template-columns: 300px auto;
+		grid-template-rows: repeat(5, auto);
+		grid-template-areas: "side body";
+	}
+
+	.workshop-text {
+		grid-area: body;
+		grid-row: 1 / -1;
+	}
+
+	.workshop-image,
+	.workshop-category,
+	.workshop-instances,
+	.workshop-partners {
+		grid-area: side;
+	}
+
+	.workshop-image {
+		grid-row: 1;
+	}
+
+	.workshop-category {
+		grid-row: 2;
+	}
+
+	.workshop-instances {
+		grid-row: 3;
+	}
+
+	.workshop-partners {
+		grid-row: 4;
+	}
+}
+
+.workshop-instance.past {
+	opacity: 0.5;
+}
+
+.workshop-instance.past > * {
+	position: relative;
+}
+
+.workshop-instance.past > *:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 50%;
+	height: 2px;
+	background-color: theme('colors.clay.DEFAULT');
+}

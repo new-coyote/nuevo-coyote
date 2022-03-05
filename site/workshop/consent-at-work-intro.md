@@ -3,7 +3,7 @@ date: 2021-01-08
 title: Consent At Work (Intro Course)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610167422/images/2021/01/Open_Figures_-_Chatting_bfaten.png
   alt: ''

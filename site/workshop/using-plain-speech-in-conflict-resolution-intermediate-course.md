@@ -3,7 +3,7 @@ date: 2021-01-10
 title: Using Plain Speech in Conflict Resolution (intermediate Course)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610315060/images/2021/01/Croods_-_The_Feedback_bjt2vf.png
   alt: ''

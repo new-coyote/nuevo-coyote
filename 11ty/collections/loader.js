@@ -5,4 +5,8 @@ module.exports = conf => {
       return a.data.page.date > b.data.page.date ? -1 : 1;
     })
   });
+
+  conf.addCollection('categories', api => {
+    return api.getFilteredByGlob('site/taxonomy/category/*.md')
+  })
 }

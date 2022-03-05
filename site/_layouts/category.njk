@@ -1,0 +1,12 @@
+---
+layout: app.njk
+---
+<article class="mx-auto">
+    {% include "partials/category/single-title.njk" %}
+    {% if content %}
+        <div class="w-content max-w-full mx-auto body-style novel-style leading-relaxed">
+            {{ content | processLinks | safe }}
+            <div class="text-center p-12 text-xl font-display text-core-primary">~ M ~</div>
+        </div>
+    {% endif %}
+</article>

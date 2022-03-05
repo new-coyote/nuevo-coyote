@@ -1,0 +1,10 @@
+{% extends "partials/single-title.njk" %}
+{% block header_content %}
+    {% if image %}
+        {% import "macros/image.njk" as image_tools %}
+        {{ image_tools.image(image) }}
+    {% endif %}
+{% endblock %}
+{% block header_supertitle %}
+    <div class="text-xs uppercase">Category</div>
+{% endblock %}

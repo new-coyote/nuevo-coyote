@@ -3,7 +3,7 @@ date: 2021-01-10
 title: Anti-Racist Systems at Work (Intro Course)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610316316/images/2021/01/Stuck_at_Home_-_Stats_and_Graphs_yuphxw.png
   alt: ''

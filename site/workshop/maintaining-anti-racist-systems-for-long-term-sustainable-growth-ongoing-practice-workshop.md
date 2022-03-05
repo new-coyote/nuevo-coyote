@@ -4,7 +4,7 @@ title: Maintaining Anti-Racist Systems for Long-Term Sustainable Growth (Ongoing
   Workshop)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610316687/images/2021/01/Stuck_at_Home_-_Brainstorming_li66px.png
   alt: ''

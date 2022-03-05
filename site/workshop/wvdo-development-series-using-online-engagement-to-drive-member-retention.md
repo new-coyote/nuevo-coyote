@@ -2,7 +2,7 @@
 date: 2020-07-20
 title: Using Online Engagement to Drive Member Retention
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 seo:
   title: ''
   meta_description: ''

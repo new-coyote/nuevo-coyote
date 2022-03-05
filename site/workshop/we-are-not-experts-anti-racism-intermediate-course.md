@@ -3,7 +3,7 @@ date: 2021-01-10
 title: 'We Are Not Experts: Anti-Racism (Intermediate Course)'
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610317089/images/2021/01/Fresh_Folk_-_Coffee_Chat_wzt42s.png
   alt: ''

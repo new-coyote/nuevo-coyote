@@ -3,7 +3,7 @@ date: 2021-01-10
 title: How To Speak Plainly At Work (Intro Course)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610314864/images/2021/01/Croods_-_Peaceful_Place_isvglg.png
   alt: ''

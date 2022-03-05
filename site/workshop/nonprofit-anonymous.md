@@ -3,7 +3,7 @@ date: 2021-08-20
 title: Nonprofit Anonymous
 condition: Online
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1602712996/images/2020/10/marina-two-tone-wall_bomuwr.webp
   alt: ''

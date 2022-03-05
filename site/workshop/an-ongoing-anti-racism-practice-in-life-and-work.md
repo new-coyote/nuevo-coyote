@@ -3,7 +3,7 @@ date: 2021-01-10
 title: An Ongoing Anti-Racism Practice in Life and Work
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610317222/images/2021/01/Fresh_Folk_-_Brainstorming_zzlmu2.png
   alt: ''

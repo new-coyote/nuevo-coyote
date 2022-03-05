@@ -3,7 +3,7 @@ date: 2021-01-08
 title: How to Maintain a Person-First Business (Intermediate Course)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610165796/images/2021/01/Humaaans_-_2_Characters_v5rz4s.png
   alt: ''

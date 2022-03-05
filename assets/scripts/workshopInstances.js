@@ -26,7 +26,7 @@ function setup() {
                 // We want to add this to items with dates but not "next" dates, so make it a default.
                 const header = workshop.querySelector(`header`)
                 header.appendChild(document.createRange()
-                    .createContextualFragment(`<span data-contact-for-more-info class="uppercase mt-3 tracking-wider text-xs inline-block py-1 border-b-4 border-clay text-teal font-bold"><a href="/contact/">Contact Us for more info</a></span>`));
+                    .createContextualFragment(`<span data-contact-for-more-info class="uppercase mt-3 tracking-wider text-xs inline-block py-1 border-b-4 border-clay text-teal font-bold"><a href="/contact/?subject=Workshop Inquiry: ${header.querySelector('h3').innerText}">Contact Us for more info</a></span>`));
 
                 return workshop;
             })
@@ -54,14 +54,16 @@ function setup() {
             .forEach((workshop, index) => workshop.style.order = index + 1);
 
         const first = datedWorkshops.find(e => true);
-        // Add first-item styles
-        first.classList.remove('border-clay')
-        first.classList.add('md:col-span-2', 'border-orange')
+        if (first) {
+            // Add first-item styles
+            first.classList.remove('border-clay')
+            first.classList.add('md:col-span-2', 'border-orange')
 
-        // Modify image to be wider
-        const firstImage = first.querySelector('img');
-        if (firstImage) {
-            firstImage.src = firstImage.src.replace('w_400', 'w_800')
+            // Modify image to be wider
+            const firstImage = first.querySelector('img');
+            if (firstImage) {
+                firstImage.src = firstImage.src.replace('w_400', 'w_800')
+            }
         }
 
         // Handle non-dated workshops.
@@ -74,35 +76,35 @@ function setup() {
     /**
      * This handles the instances on single workshops.
      */
-    const singleInstances = document.querySelector(`.workshop-instances`);
-    if (singleInstances) {
-        const instanceTimes = singleInstances.querySelectorAll(`time`);
-        let counter = 1;
-        const next = Array.from(instanceTimes)
-            .sort((a, b) => a.dateTime > b.dateTime)
-            .map(time => {
-                time.order = counter;
-                counter++;
-                return time;
-            })
-            .map(time => {
-                const listWrapper = time.parentElement;
-                time.inPast = DateTime.fromISO(time.dateTime).diffNow() < 0;
-                listWrapper.style.order = time.inPast ? time.order + instanceTimes.length : time.order;
-                listWrapper.classList.add(time.inPast ? `past` : `upcomming`);
-                return time;
-            })
-            .filter(time => !time.inPast)
-            .reduce((acc, cur) => {
-                if (null === acc) {
-                    return cur; // first item
-                }
-                return cur.order < acc.order ? cur : acc;
-            }, null);
-        if (next) {
-            next.parentElement.classList.add(`next`);
-        }
-    }
+    // const singleInstances = document.querySelector(`.workshop-instances`);
+    // if (singleInstances) {
+    //     const instanceTimes = singleInstances.querySelectorAll(`time`);
+    //     let counter = 1;
+    //     const next = Array.from(instanceTimes)
+    //         .sort((a, b) => a.dateTime > b.dateTime)
+    //         .map(time => {
+    //             time.order = counter;
+    //             counter++;
+    //             return time;
+    //         })
+    //         .map(time => {
+    //             const listWrapper = time.parentElement;
+    //             time.inPast = DateTime.fromISO(time.dateTime).diffNow() < 0;
+    //             listWrapper.style.order = time.inPast ? time.order + instanceTimes.length : time.order;
+    //             listWrapper.classList.add(time.inPast ? `past` : `upcomming`);
+    //             return time;
+    //         })
+    //         .filter(time => !time.inPast)
+    //         .reduce((acc, cur) => {
+    //             if (null === acc) {
+    //                 return cur; // first item
+    //             }
+    //             return cur.order < acc.order ? cur : acc;
+    //         }, null);
+    //     if (next) {
+    //         next.parentElement.classList.add(`next`);
+    //     }
+    // }
 }
 
 export default setup;

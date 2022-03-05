@@ -3,7 +3,7 @@ date: 2021-01-10
 title: An Ongoing Empathy Practice for Leadership
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610315825/images/2021/01/Allura_-_Celebrations_rbiulo.png
   alt: ''

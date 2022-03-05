@@ -1,7 +1,9 @@
 import 'alpinejs';
 import workshopInstanceSetup from './workshopInstances';
+import contactSetup from './contact'
 
 workshopInstanceSetup();
+contactSetup()
 
 window.nav = function () {
     function viewportLargerThanMobileWidth() {

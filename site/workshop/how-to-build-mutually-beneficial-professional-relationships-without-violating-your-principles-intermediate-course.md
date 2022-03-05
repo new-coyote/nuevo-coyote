@@ -4,7 +4,7 @@ title: How to Build Mutually Beneficial Professional Relationships Without Viola
   Your Principles (Intermediate Course)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610314305/images/2021/01/Stuck_at_Home_-_Breakfast_Time_rhcdyg.png
   alt: ''

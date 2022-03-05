@@ -69,5 +69,19 @@ module.exports = conf => {
     return `${chunked.slice(0, len).join(' ').replace(/\W$/gm,``)}...`;
   })
 
+  /**
+   * Split title into segments for coloring
+   */
+  conf.addNunjucksFilter('title_split', function (title) {
+    if (typeof title == 'undefined') {
+      return ['']
+    }
+    return title.split('|').map(str => str.trim())
+  })
 
+  conf.addNunjucksFilter('get_cat_from_term_path', function(categories, termPath) {
+    return Array.from(categories).find(cat => {
+      return cat.inputPath === ('./' + termPath);
+    });
+  })
 }

@@ -3,7 +3,7 @@ date: 2021-01-08
 title: Reduce Staff Hours to Increase Productivity (Ongoing Practice Workshop)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610164316/images/2021/01/Cool_Kids_-_Brainstorming_estg6q.png
   alt: ''

@@ -2,7 +2,7 @@
 date: 2020-06-29
 title: Planning for Mental Health, Goal Setting and a Sense of Safety
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 seo:
   title: ''
   meta_description: "\n\n"

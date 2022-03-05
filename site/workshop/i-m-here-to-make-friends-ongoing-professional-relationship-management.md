@@ -3,7 +3,7 @@ date: 2021-01-10
 title: 'I''m Here to Make Friends: Ongoing Professional Relationship Management'
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610314526/images/2021/01/Stuck_at_Home_-_Staying_Home_ywzvz9.png
   alt: ''

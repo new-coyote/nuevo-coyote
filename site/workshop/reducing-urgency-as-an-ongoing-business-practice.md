@@ -3,7 +3,7 @@ date: 2021-01-10
 title: Reducing Urgency as an Ongoing Business Practice
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610313895/images/2021/01/People_of_Brooklyn_-_Camping_Trip_muqqcc.png
   alt: ''

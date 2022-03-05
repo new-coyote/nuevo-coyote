@@ -3,7 +3,7 @@ date: 2020-10-14
 title: Confronting Toxic Productivity
 condition: Online
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1602712996/images/2020/10/marina-two-tone-wall_bomuwr.webp
   alt: ''

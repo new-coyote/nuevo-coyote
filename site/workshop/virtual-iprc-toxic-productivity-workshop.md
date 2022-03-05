@@ -2,7 +2,7 @@
 date: 2020-06-11
 title: Virtual IPRC | Toxic Productivity Workshop
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 seo:
   title: ''
   meta_description: ''

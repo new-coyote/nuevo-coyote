@@ -3,7 +3,7 @@ date: 2021-01-10
 title: Confronting the White Supremacist Practice of Urgency (Intro Course)
 condition: ''
 category:
-- src/taxonomy/category/how-to.md
+- site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610313528/images/2021/01/People_of_Brooklyn_-_Fresh_Air_1_sfpnb7.png
   alt: ''
