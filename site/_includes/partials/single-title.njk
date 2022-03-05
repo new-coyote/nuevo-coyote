@@ -1,0 +1,10 @@
+<header class="md:w-header md:max-w-full -mx-6 md:mx-auto mb-6 md:mb-12">
+    <div class="leading-tight p-6 md:p-10 md:pb-16 border-b-4 border-core-secondary bg-core-secondary-muted">
+        {% block header_supertitle %}
+        {% endblock %}
+        {% import "macros/title.njk" as title_tools %}
+        <h1>{{ title_tools.title(title) }}</h1>
+    </div>
+    {%- block header_content -%}
+    {%- endblock -%}
+</header>

@@ -1,0 +1,41 @@
+<article class="relative flex border-2 border-clay" data-workshop-instances="{{ post.data.instances | to_json }}">
+    {% if post.data.condition %}
+        {% set condition_color = "bg-orange" %}
+        {% if post.data.condition == "Sold Out" %}
+            {% set condition_color = "bg-teal" %}
+        {% endif %}
+    {% endif %}
+
+    {% if post.data.condition %}
+        <div class="absolute top-0 right-0 transform rotate-12 -translate-y-2 origin-bottom-right py-1 px-2 z-40 uppercase font-bold {{ condition_color }}">{{ post.data.condition }}</div>
+    {% endif %}
+    <div class="relative z-20 flex flex-col w-full p-4">
+        <header>
+            <h3 class="inline-block mb-2 text-xl font-bold font-heading"><a href="{{ post.url }}">{{ post.data.title | title_clean }}</a></h3>
+            <div class="text-xs uppercase">
+                <span class="inline">
+                    {% for term in post.data.category %}
+                        {% set category = collections.categories['./' + term] %}
+                        <a href="{{ category.url }}" class="mr-1 underline"
+                        title="Read other content in {{ category.data.title }}">{{ category.data.title }}</a>
+                    {% endfor %}
+                </span>
+            </div>
+        </header>
+        <div class="max-w-md py-2 italic">
+            {%- if post.data.excerpt -%}
+                {{ post.data.excerpt }}
+            {%- elseif post.template.frontMatter.content -%}
+                {{ post.template.frontMatter.content | markdownify | striptags | truncate(20) }}
+            {%- endif -%}
+        </div>
+        <div class="mt-auto mb-4 ml-auto mr-4">
+            <a href="{{ post.url }}" class="link font-body text-teal"><span class="text-sm">Learn More</span> &rarr;</a>
+        </div>
+    </div>
+    <div class="absolute inset-0 z-10 w-full h-full -mt-4 -ml-4 opacity-10 bg-core-teal">
+    {% if post.data.image %}
+        <img src="{{ post.data.image.src | cl_url({ width: 400, height: 400, crop: 'fill', gravity: 'face:auto' }) }}" class="absolute inset-0 object-cover object-center w-full h-full" alt="Image for {{ post.data.title }}">
+    {% endif %}
+    </div>
+</article>
