@@ -30,7 +30,7 @@ This workshop was designed and born on Zoom and utilizes all of the advantages o
 
 By the end of the workshop, participants will have a start on their own journey away from toxic productivity, as well as several tools and prompts to help them change their working habits and outlooks.
 
-[Contact Marina for more information on rates and availability](https://marinaforhire.com/contact/)
+[Contact New Coyote for more information on rates and availability](https://newcoyote.com/contact/)
 
 This workshop has been presented to the Independent Publishing Resource Center (IPRC), Houston Coalition Against Hate (HCAH), and the Center for the Healing of Racism.
 
