@@ -2,14 +2,14 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
 - type: directory
   path: site
   label: Pages
   create: all
   match: "**/*.md"
-  exclude: "workshop/*"
+  exclude: workshop/*
   templates:
   - page
 - type: directory

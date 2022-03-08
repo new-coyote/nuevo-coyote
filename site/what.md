@@ -65,7 +65,7 @@ blocks:
   content: |-
     **A successful day at the business is a day where we:**
 
-    * Work 6 hours or less in a manner that is body-lead,
+    * Work 6 hours or less in a manner that is body-led,
     * Take breaks for breakfast, lunch and snacks
     * Take a walk and/or a restful nap
     * Have a meaningful conversation with another human that makes us feel good
