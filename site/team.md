@@ -16,7 +16,7 @@ blocks:
 
     I'm a serial entrepreneur and a grassroots communicator with more than 20 years' experience motivating people to take action on behalf of political, cultural, and commercial interests. I take my commitment to the people I communicate with very seriously. My ongoing equity and workers' rights practice has made me a popular speaker, trainer, and peer mentor in the industry.
 
-    I have successfully created, consulted on, planned, and launched multiple businesses and projects that make money without sacrificing principals or values. My success in business is directly tied to my lived experience and those of my ancestors, who live on through me.
+    I have successfully created, consulted on, planned, and launched multiple businesses and projects that make money without sacrificing principles or values. My success in business is directly tied to my lived experience and those of my ancestors, who live on through me.
 
     I come from a family of atheist communist activists on the one side, and marine corps veterans on the other. Along the way, we experienced and passed down generational trauma, abuse, mental illness, and addiction. My identity as a queer, non-binary, disabled Latine (Latinx, Latin@, Latina/o) person informs my sense of place in this world. My family history and personal experiences of racism, sexism, oppression, transphobia, and ablism in and out of the workplace fuel my need for justice. The work of anti-racism, decolonization, and recovery from the trauma of capitalism is a life-long journey and it's been my daily practice to do my part in this generational work for more than 21 years.
 
