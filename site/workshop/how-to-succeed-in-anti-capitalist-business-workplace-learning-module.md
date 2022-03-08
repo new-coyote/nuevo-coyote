@@ -26,6 +26,8 @@ Originally designed for the [Portland Underground Graduate School (PUGS)](https:
 
 Commerce is as old, if not older, than humanity itself. Capitalism has only been here for about 300 years. As a business-minded person, you have probably been called a capitalist, or even taught that capitalism is the best economic system for someone like you. But if that's true, why is it that capitalism so often pushes us to do things completely against our personal values?
 
+[Contact New Coyote for more information on rates and availability](https://newcoyote.com/contact/)
+
 In this course you will:
 
 * Confront the capitalist myth of "hard work"
