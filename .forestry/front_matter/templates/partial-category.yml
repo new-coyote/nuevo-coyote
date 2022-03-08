@@ -1,0 +1,17 @@
+---
+label: Partial - Category
+hide_body: true
+fields:
+- name: category
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: categories
+  label: Category
+  description: Select from available Categories. To create a new Category, go the
+    the <a href="/sites/jrr6lp-eb8dlmq/#/sections/categories/src/taxonomy/category"
+    title="" target="_blank">Categories section</a>.

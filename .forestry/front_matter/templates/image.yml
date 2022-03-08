@@ -1,0 +1,39 @@
+---
+label: Partial - Image
+hide_body: true
+display_field: alt
+fields:
+- name: image
+  type: field_group
+  config: {}
+  fields:
+  - name: src
+    type: file
+    config:
+      maxSize: 5
+    label: Image
+  - name: alt
+    type: text
+    config:
+      required: false
+    label: Alt Text
+    description: Alt text, useful for SEO and accessibility
+  - name: credit
+    type: text
+    config:
+      required: false
+    label: Credit
+    description: Credit to the person who took the photo
+  - name: credit_url
+    type: text
+    config:
+      required: false
+    label: Credit URL
+    description: Optional URL for whoever took the photo
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Caption
+    description: Optional sentence or fragement captioning the image
+  label: Image

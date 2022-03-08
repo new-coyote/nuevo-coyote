@@ -2,15 +2,24 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: site
   label: Pages
   create: all
   match: "**/*.md"
+  exclude: "workshop/*"
   templates:
   - page
+- type: directory
+  path: site/workshop
+  label: Workshops
+  create: documents
+  match: "**/*"
+  exclude: "{index.md,*.11tydata.json}"
+  templates:
+  - workshop-single
 upload_dir: coyote
 public_path: https://res.cloudinary.com/marinaforhire
 front_matter_path: ''

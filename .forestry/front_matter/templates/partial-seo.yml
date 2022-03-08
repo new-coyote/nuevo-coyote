@@ -1,0 +1,32 @@
+---
+label: Partial - SEO
+hide_body: false
+fields:
+- name: seo
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+    description: This will override the page title as the &lt;title&gt; attribute
+      (i.e. the title shown in Google and the browser title bar).
+  - name: meta_description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Meta Description
+    description: If set, this will be the page's meta description. If not set, the
+      page will not have one.
+  - name: noindex
+    type: boolean
+    label: Don't Index
+    description: If activated, this will tell crawlers not to index this page. It's
+      off by default. Be careful about turning it on!
+  label: SEO
