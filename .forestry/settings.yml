@@ -20,6 +20,10 @@ sections:
   exclude: "{index.md,*.11tydata.json}"
   templates:
   - workshop-single
+- type: document
+  path: site/workshop/index.md
+  label: Workship Index
+  match: "**/*"
 upload_dir: coyote
 public_path: https://res.cloudinary.com/marinaforhire
 front_matter_path: ''
