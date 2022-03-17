@@ -2,6 +2,7 @@
 layout: app.njk
 title: Workshops
 permalink: /workshops/index.html
+video: "m9EX0f6V11Y"
 eleventyNavigation:
     key: Workshops
     order: 5
@@ -16,6 +17,11 @@ alias:
             title
             }}</h1>
     </header>
+    
+    <div class="workshop-index-content max-w-6xl px-4 py-10 w-full grid lg:grid-cols-2 gap-8">
+    {{ content | safe }}
+    </div>
+
     <div class="max-w-6xl px-4 py-10 grid lg:grid-cols-3 gap-8">
         {%- for post in collections.workshop -%}
             {% include "partials/workshop/preview.njk" %}
