@@ -2,6 +2,6 @@
 layout: workshop/index.njk
 ---
 
-https://www.youtube.com/watch?v=m9EX0f6V11Y
+https://www.youtube.com/watch?v=MHUekPpuyig
 
-https://www.youtube.com/watch?v=m9EX0f6V11Y
+https://www.youtube.com/watch?v=7cem80MvwK0
