@@ -84,4 +84,9 @@ module.exports = conf => {
       return cat.inputPath === ('./' + termPath);
     });
   })
+
+	conf.addNunjucksFilter('input_path_in_array', function(post, array) {
+		const relativeInputPath = post.inputPath.replace('./', '');
+        return array.includes(relativeInputPath);
+	})
 }
