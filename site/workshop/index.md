@@ -1,7 +1,8 @@
 ---
 layout: workshop/index.njk
 featured_workshops:
-- site/workshop/confronting-toxic-productivity-workplace-learning-module.md
+- site/workshop/nonprofit-anonymous.md
+- site/workshop/how-to-succeed-in-anti-capitalist-business.md
 - site/workshop/nov-18-avoid-toxic-productivity-and-revolutionize-your-workflow.md
 
 ---
