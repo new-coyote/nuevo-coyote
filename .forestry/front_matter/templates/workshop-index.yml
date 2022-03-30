@@ -13,3 +13,5 @@ fields:
       section: workshops
   label: Featured Workshops
   description: 'Select workshops to appear on the front page. '
+pages:
+- site/workshop/index.md
