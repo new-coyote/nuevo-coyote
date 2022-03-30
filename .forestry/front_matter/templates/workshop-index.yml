@@ -1,4 +1,15 @@
 ---
 label: Workshop Index
 hide_body: false
-fields: []
+fields:
+- name: featured_workshops
+  type: list
+  config:
+    use_select: true
+    min: 1
+    max: 
+    source:
+      type: pages
+      section: workshops
+  label: Featured Workshops
+  description: 'Select workshops to appear on the front page. '
