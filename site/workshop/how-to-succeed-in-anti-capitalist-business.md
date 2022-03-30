@@ -1,7 +1,7 @@
 ---
 date: 2021-06-15
 title: How To Succeed in Anti-Capitalist Business
-condition: Online
+condition: Popular
 category:
 - site/taxonomy/category/how-to.md
 image:
