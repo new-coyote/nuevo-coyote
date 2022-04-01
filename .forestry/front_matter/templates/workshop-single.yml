@@ -49,25 +49,13 @@ fields:
     template: partial-date
     label: Date
   - name: start
-    type: datetime
+    type: text
     label: Start Time
-    config:
-      required: false
-      date_format: 
-      time_format: h:mm A
-      display_utc: false
-      export_format: h:mm A
-    description: "(Assumes PST timezone)"
+    description: "Enter as HH:MM PM/AM, i.e. 7:30 PM (Assumes PST timezone)"
   - name: end
-    type: datetime
+    type: text
     label: End Time
-    description: "(Assumes PST timezone)"
-    config:
-      required: false
-      date_format: 
-      time_format: h:mm A
-      display_utc: false
-      export_format: h:mm A
+    description: "Enter as HH:MM PM/AM, i.e. 7:30 PM (Assumes PST timezone)"
   - name: location
     type: text
     config:
