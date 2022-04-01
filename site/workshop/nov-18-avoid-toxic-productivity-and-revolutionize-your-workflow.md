@@ -11,6 +11,10 @@ image:
   credit_url: ''
   caption: ''
 instances:
+- date: 2022-05-28
+  start: 
+  end: 4:00 AM
+  location: Online event
 - date: 2022-03-28
   start: 5:30 PM
   end: 7:30 PM
@@ -38,4 +42,4 @@ This workshop was designed and born on Zoom and utilizes all of the advantages o
 
 By the end of the workshop, participants will have a start on their own journey away from toxic productivity, as well as several tools and prompts to help them change their working habits and outlooks. Take the next step on reclaiming your life from the toxic systems and get your ticket today. Workshops are limited to 20 participants for maximum engagement.
 
-[Buy tickets here](https://www.eventbrite.com/e/confronting-toxic-productivity-tickets-152786347077?aff=ebdssbeac)
+[Buy tickets here](https://www.eventbrite.com/e/confronting-toxic-productivity-tickets-152785889709?aff=ebdsoporgprofile)
