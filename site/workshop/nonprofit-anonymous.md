@@ -27,7 +27,7 @@ seo:
 eleventyExcludeFromCollections: false
 
 ---
-This workshop was presented as a breakout session at the 2021 WVDO Regional Conference.
+This workshop was originally presented as a breakout session at the 2021 WVDO Regional Conference. 
 
 ## About The Presentation
 
