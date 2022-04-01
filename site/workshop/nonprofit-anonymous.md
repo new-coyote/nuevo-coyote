@@ -1,7 +1,7 @@
 ---
 date: 2021-08-20
 title: Nonprofit Anonymous
-condition: Up Next
+condition: Popular
 category:
 - site/taxonomy/category/how-to.md
 image:
