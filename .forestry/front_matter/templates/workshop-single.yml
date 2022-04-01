@@ -51,11 +51,11 @@ fields:
   - name: start
     type: text
     label: Start Time
-    description: "Enter as HH:MM PM/AM, i.e. 7:30 PM (Assumes PST timezone)"
+    description: Enter as HH:MM PM/AM, i.e. 7:30 PM (Assumes PST timezone)
   - name: end
     type: text
     label: End Time
-    description: "Enter as HH:MM PM/AM, i.e. 7:30 PM (Assumes PST timezone)"
+    description: Enter as HH:MM PM/AM, i.e. 7:30 PM (Assumes PST timezone)
   - name: location
     type: text
     config:
