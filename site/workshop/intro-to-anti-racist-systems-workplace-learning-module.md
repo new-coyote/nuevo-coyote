@@ -14,7 +14,8 @@ repeat: ''
 partners: []
 seo:
   title: ''
-  meta_description: ''
+  meta_description: Intro to Anti-Racist Systems is a true intro course to set your
+    organization on the path towards imagining something more.
   noindex: false
 eleventyExcludeFromCollections: false
 
