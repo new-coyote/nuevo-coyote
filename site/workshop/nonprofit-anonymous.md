@@ -27,7 +27,9 @@ seo:
 eleventyExcludeFromCollections: false
 
 ---
-This workshop was originally presented as a breakout session at the 2021 WVDO Regional Conference. 
+Nonprofit Anonymous was originally presented as a breakout session at the 2021 WVDO Regional Conference, and adapted as a workshop session (Tech Policies for Reducing Toxic Productivity) for the 2022 NTEN Conference. 
+
+This training workshop can be tailored to address the specific needs and concerns of your organization's employees or members.
 
 ## About The Presentation
 
