@@ -1,6 +1,6 @@
 ---
 date: 2021-01-08
-title: Consent At Work (Intro Course)
+title: Consent At Work (Intro)
 condition: ''
 category:
 - site/taxonomy/category/how-to.md
