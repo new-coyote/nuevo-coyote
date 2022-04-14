@@ -14,12 +14,18 @@ instances: []
 repeat: ''
 partners: []
 seo:
-  title: ''
-  meta_description: ''
+  title: Consent at Work
+  meta_description: 'Consent is essential in any healthy relationship, like the one
+    between a workplace leader and the people they''re responsible for. '
   noindex: false
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 ---
-This course is designed to foster the understanding that consent is not sexy, it's mandatory. This is true in every avenue of life, especially in business. Intermediate and ongoing practice workshop also available.
+Consent is essential in any healthy relationship, like the one between a workplace leader and the people they're responsible for. As managers, it is our job to advance the goals of our organization and our department while keeping the people that work for us safe and productive. Practicing consent at work is a big part of creating and maintaining a healthy organization. 
+
+* What is consent in the workplace context?
+* How consent shows up in management styles
+* Intro to policies and procedures
+* Follow-up course: The System of Workplace Consent
 
 [Contact us for more info](https://marinaforhire.com/contact/)
