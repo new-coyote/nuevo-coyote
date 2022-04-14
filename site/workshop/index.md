@@ -9,4 +9,4 @@ featured_workshops:
 ---
 https://www.youtube.com/watch?v=NoCF2SB5SUQ
 
-https://www.youtube.com/watch?v=7cem80MvwK0
+https://youtu.be/7cem80MvwK0?t=223
