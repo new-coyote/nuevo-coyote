@@ -18,7 +18,7 @@ seo:
   meta_description: 'Professional development for mangers, team leaders, and others
     in positions of authority. '
   noindex: false
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 ---
 Empathy is one of the soft skills that so often make or break a leader, and is so rarely taught or talked about in professional development. Some believe that it can't be taught. However, it can be developed and there are lots of techniques we can learn and use to access our empathy as leaders. 
