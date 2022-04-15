@@ -8,6 +8,6 @@ featured_workshops:
 - site/workshop/consent-at-work-intro.md
 
 ---
-https://www.youtube.com/watch?v=NoCF2SB5SUQ
+[https://youtu.be/QAQj5BgmeuY](https://youtu.be/QAQj5BgmeuY "https://youtu.be/QAQj5BgmeuY")
 
-https://youtu.be/7cem80MvwK0?t=223
+[https://youtu.be/VT-rYh6B-cA](https://youtu.be/VT-rYh6B-cA "https://youtu.be/VT-rYh6B-cA")
