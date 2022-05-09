@@ -20,7 +20,7 @@ seo:
     systems to be less racist, and we get specific on solutions that fit with the
     class attendees and their unique realities. '
   noindex: false
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 
 ---
 In this follow up course to [Into to Anti-Racist Systems](https://newcoyote.com/workshop/intro-to-anti-racist-systems-workplace-learning-module/), we delve deeper into the systems that support anti-racism, how we can alter current systems to be less racist, and we get specific on solutions that fit with the class attendees and their unique realities.
