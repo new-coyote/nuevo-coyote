@@ -1,6 +1,7 @@
 ---
 layout: workshop/index.njk
 featured_workshops:
+- site/workshop/systems-for-working-in-an-anti-racist-paradigm-intermediate-course.md
 - site/workshop/intro-to-anti-racist-systems-workplace-learning-module.md
 - site/workshop/nov-18-avoid-toxic-productivity-and-revolutionize-your-workflow.md
 - site/workshop/how-to-succeed-in-anti-capitalist-business.md
