@@ -8,7 +8,6 @@ featured_workshops:
 - site/workshop/nonprofit-anonymous.md
 - site/workshop/unlock-your-empathy-at-work-intro-course.md
 - site/workshop/consent-at-work-intro.md
-- site/workshop/planning-for-mental-health-goal-setting-and-a-sense-of-safety-online-event.md
 - site/workshop/blogs-newsletters-and-other-things-you-need-but-don-t-have-time-for.md
 
 ---
