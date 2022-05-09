@@ -1,8 +1,8 @@
 ---
 layout: workshop/index.njk
 featured_workshops:
+- site/workshop/intro-to-anti-racist-systems-workplace-learning-module.md
 - site/workshop/nov-18-avoid-toxic-productivity-and-revolutionize-your-workflow.md
-- site/workshop/anti-racist-systems-at-work-intro-course.md
 - site/workshop/how-to-succeed-in-anti-capitalist-business.md
 - site/workshop/nonprofit-anonymous.md
 - site/workshop/unlock-your-empathy-at-work-intro-course.md

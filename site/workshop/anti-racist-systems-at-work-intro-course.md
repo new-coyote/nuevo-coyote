@@ -17,7 +17,7 @@ seo:
   title: ''
   meta_description: ''
   noindex: false
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 
 ---
 This course is designed to illustrate the principle that the opposite of an oppressive system is not a lack of systems. Without explicit structure, most systems will revert to the default, which is white supremacy. Intro and ongoing practice workshop also available.
