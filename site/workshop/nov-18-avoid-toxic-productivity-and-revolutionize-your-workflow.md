@@ -11,7 +11,7 @@ image:
   credit_url: ''
   caption: ''
 instances:
-- date: 2022-05-28
+- date: 2022-06-28
   start: 5:30 PM
   end: 7:00 PM
   location: Online event
