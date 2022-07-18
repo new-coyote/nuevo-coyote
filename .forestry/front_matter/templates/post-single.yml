@@ -15,15 +15,15 @@ fields:
   description: ''
   config:
     required: true
-    date_format: 
-    time_format: 
+    date_format:
+    time_format:
     display_utc: false
   default: now
 - name: image
   type: include
   config: {}
   template: image
-  label: Image
+  label: Header Image
   description: Header image. Shown at the top of the post, and in the preview.
 - name: eleventyExcludeFromCollections
   type: boolean
