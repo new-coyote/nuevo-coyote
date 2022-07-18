@@ -1,3 +1,4 @@
 {
-    "layout": "workshop/single.njk"
+    "layout": "workshop/single.njk",
+    "tags": "workshop"
 }
