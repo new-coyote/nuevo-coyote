@@ -18,6 +18,12 @@ fields:
     time_format: 
     display_utc: false
   default: now
+- name: image
+  type: include
+  config: {}
+  template: image
+  label: Image
+  description: Header image. Shown at the top of the post, and in the preview.
 - name: eleventyExcludeFromCollections
   type: boolean
   label: Hide
