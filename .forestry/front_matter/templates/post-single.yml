@@ -1,0 +1,23 @@
+---
+label: Post - Single
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: The name of the post. Used to generate the URL as well.
+- name: blocks
+  type: blocks
+  label: Content
+  template_types:
+  - block-text
+  - block-image
+  - block-split
+  - block-callout
+  - block-decoration
+  config:
+    min: 1
+    max:
+  description: Assemble some blocks to make your content.
