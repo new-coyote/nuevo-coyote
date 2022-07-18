@@ -9,10 +9,15 @@ featured_workshops:
 - site/workshop/nonprofit-anonymous.md
 - site/workshop/unlock-your-empathy-at-work-intro-course.md
 - site/workshop/consent-at-work-intro.md
-
+title: Workshops
+video: "m9EX0f6V11Y"
 eleventyNavigation:
     key: Workshops
     order: 5
+alias:
+    - /workshop/
+    - /workshop/archive/
+    - /workshop/archive/1/
 ---
 [https://youtu.be/QAQj5BgmeuY](https://youtu.be/QAQj5BgmeuY "https://youtu.be/QAQj5BgmeuY")
 
