@@ -1,9 +1,9 @@
 ---
 date: 2022-07-18T22:06:24Z
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: Example Post
 image:
-  src: ''
+  src: https://res.cloudinary.com/marinaforhire/v1610315825/images/2021/01/Allura_-_Celebrations_rbiulo.png
   alt: ''
   credit: ''
   credit_url: ''
@@ -14,4 +14,4 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
-![](https://res.cloudinary.com/marinaforhire/2022/07/c1ed6c82-ddd6-47a5-86d5-dcccc0929634.png)
+![](https://res.cloudinary.com/marinaforhire/v1610315825/images/2021/01/Allura_-_Celebrations_rbiulo.png)
