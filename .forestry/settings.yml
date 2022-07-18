@@ -12,9 +12,11 @@ sections:
   exclude: workshop/*
   templates:
   - page
+- type: heading
+  label: Workshops
 - type: directory
   path: site/workshop
-  label: Workshops
+  label: Posts
   create: documents
   match: "**/*"
   exclude: "{index.md,*.11tydata.json}"
@@ -22,10 +24,12 @@ sections:
   - workshop-single
 - type: document
   path: site/workshop/index.md
-  label: Workshop Index
+  label: Index
+- type: heading
+  label: Blog
 - type: directory
   path: site/post
-  label: BLog
+  label: Posts
   create: documents
   match: "**/*"
   exclude: "{index.md,*.11tydata.json}"
