@@ -34,7 +34,7 @@ sections:
   match: "**/*"
   exclude: "{index.md,*.11tydata.json}"
   templates:
-  - page
+  - post-single
 upload_dir: coyote
 public_path: https://res.cloudinary.com/marinaforhire
 front_matter_path: ''
