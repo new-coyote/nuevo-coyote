@@ -4,7 +4,7 @@ permalink: "/who/"
 layout: page.njk
 column_decoration: '3'
 eleventyNavigation:
-  key: Who We Are
+  key: Who
   order: 4
 blocks:
 - template: block-flow

@@ -1,0 +1,35 @@
+---
+label: Post - Single
+hide_body: false
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: The name of the post. Used to generate the URL as well.
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format:
+    time_format:
+    display_utc: false
+  default: now
+- name: image
+  type: include
+  config: {}
+  template: image
+  label: Header Image
+  description: Header image. Shown at the top of the post, and in the preview.
+- name: eleventyExcludeFromCollections
+  type: boolean
+  label: Hide
+  description: Toggling this on will prevent the post from appearing on the site.
+    It defaults to "on"—turn it off to publish a post.
+  default: true
+pages:
+- site/post/example-post.md
