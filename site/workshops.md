@@ -10,6 +10,9 @@ featured_workshops:
 - site/workshop/unlock-your-empathy-at-work-intro-course.md
 - site/workshop/consent-at-work-intro.md
 
+eleventyNavigation:
+    key: Workshops
+    order: 5
 ---
 [https://youtu.be/QAQj5BgmeuY](https://youtu.be/QAQj5BgmeuY "https://youtu.be/QAQj5BgmeuY")
 

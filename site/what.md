@@ -4,7 +4,7 @@ permalink: "/what/"
 layout: page.njk
 column_decoration: '3'
 eleventyNavigation:
-  key: What We Do
+  key: What
   order: 2
 blocks:
 - template: block-callout

@@ -4,7 +4,7 @@ permalink: "/why/"
 layout: page.njk
 column_decoration: '1'
 eleventyNavigation:
-  key: Why We Do It
+  key: Why
   order: 3
 blocks:
 - template: block-text
