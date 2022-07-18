@@ -8,6 +8,16 @@ fields:
     required: true
   label: Title
   description: The name of the post. Used to generate the URL as well.
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 - name: blocks
   type: blocks
   label: Content
