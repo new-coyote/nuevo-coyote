@@ -1,12 +1,12 @@
 ---
 layout: columns.njk
 ---
-<div class="py-6 px-10 -mt-36 -mb-36 md:min-h-page-content prose">
+<div class="py-6 px-10 -mt-36 -mb-36 md:min-h-page-content">
     {% if image %}
         {% import "macros/image.njk" as image_tools %}
-        {{ image_tools.image(image, class="w-full", width=300, srcset=[768, 1536], sizes="(min-width: 768px) 300px, 100vw", loading="eager") }}
+        {{ image_tools.image(image, class="w-full mb-8", width=300, srcset=[768, 1536], sizes="(min-width: 768px) 300px, 100vw", loading="eager") }}
     {% endif %}
-    {{ content | safe }}
+    <div class="prose">{{ content | safe }}</div>
 </div>
 
 {% if state.preview %}
