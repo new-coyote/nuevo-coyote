@@ -10,7 +10,7 @@ image:
   caption: ''
 
 ---
-## Who We Are
+# Who We Are
 
 New Coyote Consulting is a people-first equity and communications consulting firm serving BIPOC-led organizations and marginalized leaders coming into their power. After beginning an equity journey, many organizations find that old ways of messaging and management don’t line up with their current vision. New Coyote starts and leads with equity. With services ranging from training to strategy to content creation, we help our clients craft and support a communications strategy that makes money while centering their principles and core values.
 
@@ -18,7 +18,7 @@ Check out our website at [newcoyote.com](https://newcoyote.com/) to learn more a
 
 New Coyote became a [certified benefit company](https://benefitcorporationsforgood.com/) in April of 2021.
 
-## Our Mission
+# Our Mission
 
 At the core of our work is the principle that capitalism and colonialism are both rooted in white supremacy, made to extract value from the working class in order to preserve and increase wealth for the ultra rich. Because this understanding permeates everything we do, this foundational issue, and the liberation practice we cultivate to address it, must be accounted for in all our actions, both as individuals and as organizations.
 
@@ -26,7 +26,7 @@ Liberation practice starts internally. We can’t tell clients they need to resi
 
 We prioritize clients who are transgender or gender nonconforming people and Black, Indigenous or other people of color, especially those who have recently come into their power.
 
-## 2021 Summary and Key Metrics
+# 2021 Summary and Key Metrics
 
 As a Benefit Corporation for Good, we have a triple bottom line, meaning that we have an obligation to do right by people and the planet over and above profit.
 
@@ -70,7 +70,7 @@ As a Benefit Corporation for Good, we have a triple bottom line, meaning that we
 * Our lowest earning months were January and May
 * We closed the year at 112% of goal for income
 
-## Coming Year
+# Coming Year
 
 In 2022 we will:
 
@@ -84,7 +84,7 @@ In 2022 we will:
 * Increase our income goals by 50%
 * Normally, this would be an unrealistic increase, but the increase in staff hours should naturally generate a 20–25% increase in income independent of our actions
 
-## In Closing
+# In Closing
 
 A Letter from our Founder and CEO, [Marina Martinez-Bateman](mailto:marina@marinaforhire.com):
 
