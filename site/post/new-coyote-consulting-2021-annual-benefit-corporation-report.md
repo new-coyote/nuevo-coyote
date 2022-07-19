@@ -1,5 +1,5 @@
 ---
-date: 2022-07-19T23:01:33Z
+date: 2022-07-19T23:01:33.000+00:00
 eleventyExcludeFromCollections: false
 title: 'New Coyote Consulting: 2021 Annual Benefit Corporation Report'
 image:
@@ -10,7 +10,7 @@ image:
   caption: ''
 
 ---
-# Who We Are
+## Who We Are
 
 New Coyote Consulting is a people-first equity and communications consulting firm serving BIPOC-led organizations and marginalized leaders coming into their power. After beginning an equity journey, many organizations find that old ways of messaging and management don’t line up with their current vision. New Coyote starts and leads with equity. With services ranging from training to strategy to content creation, we help our clients craft and support a communications strategy that makes money while centering their principles and core values.
 
@@ -18,7 +18,7 @@ Check out our website at [newcoyote.com](https://newcoyote.com/) to learn more a
 
 New Coyote became a [certified benefit company](https://benefitcorporationsforgood.com/) in April of 2021.
 
-# Our Mission
+## Our Mission
 
 At the core of our work is the principle that capitalism and colonialism are both rooted in white supremacy, made to extract value from the working class in order to preserve and increase wealth for the ultra rich. Because this understanding permeates everything we do, this foundational issue, and the liberation practice we cultivate to address it, must be accounted for in all our actions, both as individuals and as organizations.
 
@@ -26,11 +26,11 @@ Liberation practice starts internally. We can’t tell clients they need to resi
 
 We prioritize clients who are transgender or gender nonconforming people and Black, Indigenous or other people of color, especially those who have recently come into their power.
 
-# 2021 Summary and Key Metrics
+## 2021 Summary and Key Metrics
 
 As a Benefit Corporation for Good, we have a triple bottom line, meaning that we have an obligation to do right by people and the planet over and above profit.
 
-**PEOPLE**
+### PEOPLE
 
 * We offer full scholarships to all public trainings, no questions asked, and have had scholarship recipients in every one of our trainings
 * Funded the Willamette Valley Development Officers’ BIPOC Fundraisers Affinity Group budget at 100% for 2021 and recommitted for 2022
@@ -44,7 +44,7 @@ As a Benefit Corporation for Good, we have a triple bottom line, meaning that we
 * Free access to Masterclass for all staff
 * Staff paid hourly rate to attend professional development classes
 
-**PLANET**
+### PLANET
 
 * Paperless office
 * Fully remote office
@@ -52,7 +52,7 @@ As a Benefit Corporation for Good, we have a triple bottom line, meaning that we
 * Stand opposed to cryptocurrency, and NFTs due to their high carbon cost
 * 100% virtual speaking and training schedule in 2021, resulting in no travel
 
-**PROFIT**
+### PROFIT
 
 * Led more than 30 justice-based trainings centering marginalized people and their experiences
 * CEO appeared on 2 podcasts and 1 radio show
@@ -70,7 +70,7 @@ As a Benefit Corporation for Good, we have a triple bottom line, meaning that we
 * Our lowest earning months were January and May
 * We closed the year at 112% of goal for income
 
-# Coming Year
+## Coming Year
 
 In 2022 we will:
 
@@ -84,7 +84,7 @@ In 2022 we will:
 * Increase our income goals by 50%
 * Normally, this would be an unrealistic increase, but the increase in staff hours should naturally generate a 20–25% increase in income independent of our actions
 
-# In Closing
+## In Closing
 
 A Letter from our Founder and CEO, [Marina Martinez-Bateman](mailto:marina@marinaforhire.com):
 
