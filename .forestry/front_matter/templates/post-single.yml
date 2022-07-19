@@ -15,8 +15,8 @@ fields:
   description: ''
   config:
     required: true
-    date_format:
-    time_format:
+    date_format: 
+    time_format: 
     display_utc: false
   default: now
 - name: image
@@ -31,5 +31,3 @@ fields:
   description: Toggling this on will prevent the post from appearing on the site.
     It defaults to "on"—turn it off to publish a post.
   default: true
-pages:
-- site/post/example-post.md

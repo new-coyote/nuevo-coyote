@@ -24,7 +24,7 @@ blocks:
 
     Liberation and prosperity go hand in hand. Wealth generation for communities of color and communities kept in poverty by white supremacy, especially Black and Indigenous communities will change the world. I invest in pay equity and resource development for BIPOC and trans people first and foremost.
 
-    You can learn more about me on my personal website [www.marinaforhire.com,](http://www.marinaforhire.com,) my twitter @marinaforhire, or on Linkedin where I post videos every week on Monday and Thursday setting out my intentions for the week and then updating everyone on how I did on those intentions.
+    You can learn more about me on my personal website [www.marinaforhire.com,](http://www.marinaforhire.com) my twitter @marinaforhire, or on Linkedin where I post videos every week on Monday and Thursday setting out my intentions for the week and then updating everyone on how I did on those intentions.
   flip: false
 - template: block-flow
   image: "/v1633152991/coyote/2021/10/Dayflow_-_Work_from_Home_flj0od.png"
