@@ -6,7 +6,9 @@ layout: columns.njk
         {% import "macros/image.njk" as image_tools %}
         {{ image_tools.image(image, class="w-full", width=300, srcset=[768, 1536], sizes="(min-width: 768px) 300px, 100vw", loading="eager") }}
     {% endif %}
-    {{ content | safe }}
+    <div class="prose">
+        {{ content | safe }}
+    </div>
 </div>
 
 {% if state.preview %}
