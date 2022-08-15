@@ -6,10 +6,12 @@ function setup() {
 	if (!popup || hasOpened) {
 		return;
 	}
-	addEventListener('DOMContentLoaded', () => popup.show() );
-
 	const submitButton = popup.querySelector('button[type=submit]');
 	const closeButton = popup.querySelector('button[data-newsletter-popup-close]');
+	addEventListener('DOMContentLoaded', () => {
+		popup.show();
+	} );
+
 	const closePopup = () => {
 		Cookies.set('newsletter_popup_closed', 1, { expires: 7 });
 		popup.close();
