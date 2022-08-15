@@ -3,6 +3,7 @@
     <p>&copy; 2021 New Coyote</p>
     <p>Site by <a href="https://www.alwaysblank.dev" class="underline">Always Blank</a></p>
 </footer>
+{% include "partials/newsletter-popup.njk" %}
 {% include "partials/nomodule-polyfill.njk" %}
 <script>
     window.mobileWidth = Number('{{ tailwind.theme.extend.screens.nav }}'.replace('px', ''));

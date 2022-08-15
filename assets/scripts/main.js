@@ -1,9 +1,11 @@
 import 'alpinejs';
 import workshopInstanceSetup from './workshopInstances';
 import contactSetup from './contact'
+import newsletterSetup from './newsletter'
 
 workshopInstanceSetup();
-contactSetup()
+contactSetup();
+newsletterSetup();
 
 window.nav = function () {
     function viewportLargerThanMobileWidth() {
