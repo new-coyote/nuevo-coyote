@@ -1,0 +1,15 @@
+[data-newsletter-popup] {
+}
+[data-newsletter-popup][open] {
+	animation: show-popup 0.75s ease normal;
+}
+@keyframes show-popup {
+	from {
+		transform: translateY(20%) translateX(20%);
+		opacity: 0;
+	}
+	to {
+		transform: translateY(0%) translateX(0%);
+		opacity: 1;
+	}
+}
