@@ -32,4 +32,5 @@ fields:
     It defaults to "on"—turn it off to publish a post.
   default: true
 pages:
+- site/post/availability-sept-oct-nov.md
 - site/post/new-coyote-consulting-2021-annual-benefit-corporation-report.md
