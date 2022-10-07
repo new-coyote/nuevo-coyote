@@ -60,6 +60,6 @@ blocks:
     \             \n            });\n          },\n    \n          onError: function
     (err) {\n            console.log(err);\n          }\n        }).render('#paypal-button-container');\n
     \     }\n      initPayPalButton();\n      </script>"
-  heading: ''
+  heading: Money Please
 
 ---
