@@ -39,3 +39,5 @@ fields:
     min: 1
     max: 
   description: Assemble some blocks to make your content.
+pages:
+- site/support.md
