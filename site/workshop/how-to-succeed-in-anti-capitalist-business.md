@@ -28,8 +28,6 @@ eleventyExcludeFromCollections: false
 ---
 **Do you work long hours for little reward? Do you find yourself at odds with conventional professional and business advice? This course will help you achieve your professional goals without sacrificing your life and values.**
 
-[Sign up for the spring course now!](https://www.pugspdx.com/2022/anti-capitalist-business-march-2022)
-
 Commerce is as old, if not older, than humanity itself. Capitalism has only been here for about 300 years. As a business-minded person, you have probably been called a capitalist, or even taught that capitalism is the best economic system for someone like you. But if that's true, why is it that capitalism so often pushes us to do things completely against our personal values?
 
 In this course you will:
