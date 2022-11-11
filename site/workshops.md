@@ -5,7 +5,7 @@ featured_workshops:
 - site/workshop/anti-capitalism-at-work-discussion-series.md
 - site/workshop/systems-for-working-in-an-anti-racist-paradigm-intermediate-course.md
 - site/workshop/intro-to-anti-racist-systems-workplace-learning-module.md
-- site/workshop/nov-18-avoid-toxic-productivity-and-revolutionize-your-workflow.md
+- site/workshop/confronting-toxic-productivity-workplace-learning-module.md
 - site/workshop/how-to-succeed-in-anti-capitalist-business.md
 - site/workshop/nonprofit-anonymous.md
 - site/workshop/unlock-your-empathy-at-work-intro-course.md
