@@ -44,7 +44,7 @@ partners:
     and workshops bring you everyday tips and knowledge on how to craft a more badass
     work and personal life. Our brick and mortar location is closed for 2020 but you
     can [shop us online!](https://www.1111supply.com/shop)'
-condition: Online
+condition: ''
 
 ---
 We will be planning our next month via Zoom meeting, starting with an assessment of our priorities and major events and backwards calendaring in the time we need to make sure we meet our goals while considering the volatile nature of planning when things are uncertain. We'll be focusing on what we can do, assessing our risk tolerance, and talking about how to make our planner a safe place, even when scary things are happening in the wider world.
