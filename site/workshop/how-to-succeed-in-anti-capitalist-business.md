@@ -10,11 +10,7 @@ image:
   credit: ''
   credit_url: ''
   caption: ''
-instances:
-- date: 2022-03-04
-  start: 
-  end: 
-  location: ''
+instances: []
 repeat: ''
 partners:
 - name: PUGS
