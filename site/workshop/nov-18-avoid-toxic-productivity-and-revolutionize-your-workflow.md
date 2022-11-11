@@ -1,7 +1,7 @@
 ---
 date: 2020-10-14
 title: Confronting Toxic Productivity
-condition: Up Next
+condition: ''
 category:
 - site/taxonomy/category/how-to.md
 image:
