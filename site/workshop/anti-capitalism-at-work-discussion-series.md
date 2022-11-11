@@ -26,42 +26,41 @@ seo:
 eleventyExcludeFromCollections: false
 
 ---
-Anti-Capitalism at Work is a hybrid in-person and digital round-table discussion series on work, working, and how to move away from toxic capitalist systems into liberatory systems, even and especially when we’re not the boss. 
+Anti-Capitalism at Work is a hybrid in-person and digital round-table discussion series on work, working, and how to move away from toxic capitalist systems into liberatory systems, even and especially when we’re not the boss.
 
 Facilitated by Marina Martinez-Bateman, CEO of New Coyote Consulting, and hosted by the iconic, historic [Clinton Street Theater](https://cstpdx.com/) in the heart of Southeast Portland, Anti-Capitalism at Work offers a place for us to come together as a community to discuss our challenges and solutions as working individuals.
 
 ## Sessions
 
-###### Toxic Productivity
+#### Toxic Productivity
 
 Sunday, September 25, 2022 from 4:30 to 5:30pm
 
 Are you working (or being encouraged to work) more and more hours, but feeling less and less productive? Toxic Productivity is the phenomenon of working to unhealthy, sometimes deadly ends.
 
-###### Consent at Work
+#### Consent at Work
 
 Sunday, November 20, 2022 from 4:30 to 5:30pm
 
 Consent is mandatory, we know this. And yet, do we feel like we can say no to work that doesn’t align with our values, or is it outside the scope outlined in our contracts and job descriptions?
 
-###### Unrealistic Work Goals
+#### Unrealistic Work Goals
 
 Sunday, January 8, 2023 from 4:30 to 5:30pm
 
 Have you experienced the ceiling becoming the floor at your job? Or responsibilities piling on with no end in sight? This month, we’re talking about how we cope when last year’s best is next year’s failure.
 
-###### What’s Real Self-Care?
+#### What’s Real Self-Care?
 
 Sunday, March 19, 2023 from 4:30 to 5:30pm
 
 Self care is either held up or mocked as being all lavender baths and adult coloring books, but what does it really mean to take care of ourselves truly? This discussion will address how to care for our mind, body and spirit as workers.
 
-###### Worker Solidarity
+#### Worker Solidarity
 
 Sunday, May 7, 2023 from 4:30 to 5:30pm
 
-######   
-Finding a Good Job
+#### Finding a Good Job
 
 Sunday, July 23, 2023 from 4:30 to 5:30pm
 
