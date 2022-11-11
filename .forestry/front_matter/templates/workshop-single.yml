@@ -116,5 +116,6 @@ fields:
     only be available here in Forestry.
   default: false
 pages:
+- site/workshop/anti-capitalism-at-work-discussion-series.md
 - site/workshop/intro-to-anti-racist-systems-workplace-learning-module.md
 - site/workshop/should-i-stay-or-should-i-go.md
