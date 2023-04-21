@@ -5,7 +5,7 @@ layout: page.njk
 column_decoration: '3'
 eleventyNavigation:
   key: Who
-  order: 4
+  order: 1
 blocks:
 - template: block-flow
   image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
