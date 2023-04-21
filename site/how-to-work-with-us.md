@@ -56,5 +56,8 @@ blocks:
     we intend to create the wealth we need to invest in our workers and our values
     without being extractive or taking more than we give back."
   heading: How to Work With Us
+- template: block-image
+  image: "/v1682039454/coyote/2023/04/New_Coyote_How_to_Work_with_Us_2023_y3rqln.png"
+  alt_text: ''
 
 ---
