@@ -1,9 +1,9 @@
 ---
-column_decoration: none
+column_decoration: '1'
 title: How to Work With Us
 blocks:
 - template: block-image
-  image: "/v1682039419/coyote/2023/04/Stepstoworkingwithnewcoyote_uze3o1.png"
+  image: "/v1682039454/coyote/2023/04/New_Coyote_How_to_Work_with_Us_2023_y3rqln.png"
   alt_text: ''
 - template: block-text
   content: "**New Coyote is rolling out a new roadmap on how to engage with us.**\n\nBecause
@@ -57,7 +57,7 @@ blocks:
     without being extractive or taking more than we give back."
   heading: How to Work With Us
 - template: block-image
-  image: "/v1682039454/coyote/2023/04/New_Coyote_How_to_Work_with_Us_2023_y3rqln.png"
+  image: "/v1682039419/coyote/2023/04/Stepstoworkingwithnewcoyote_uze3o1.png"
   alt_text: ''
 
 ---
