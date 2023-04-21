@@ -2,6 +2,9 @@
 column_decoration: none
 title: How to Work With Us
 blocks:
+- template: block-image
+  image: "/v1682039419/coyote/2023/04/Stepstoworkingwithnewcoyote_uze3o1.png"
+  alt_text: ''
 - template: block-text
   content: "**New Coyote is rolling out a new roadmap on how to engage with us.**\n\nBecause
     of our high level of commitment to values like **workers’ rights, equity, and
