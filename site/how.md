@@ -60,7 +60,7 @@ blocks:
 - template: block-text
   heading: "How"
   content: "If this path to working with us appeals to you, **book a coaching
-    assessment today** via our [Calendly link](https://marinaforhire.us7.list-manage.com/track/click?u=08d9c04fab21756309c2c31e8&id=588457046d&e=64ec745402)
+    assessment today** via our [Calendly link](https://calendly.com/newcoyote)
     or contact us [here](https://newcoyote.com/contact/)!  \n  \n If you know anyone
     in activism and leadership, especially if they are a person of color and/or a
     queer person who is focused on liberation for themselves and others, please forward
