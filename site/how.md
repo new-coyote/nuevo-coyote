@@ -1,12 +1,18 @@
 ---
 column_decoration: '1'
 title: How to Work With Us
+permalink: "/how/"
+layout: "page.njk"
+eleventyNavigation:
+  key: How
+  order: 4
 blocks:
 - template: block-image
   image: "/v1682039454/coyote/2023/04/New_Coyote_How_to_Work_with_Us_2023_y3rqln.png"
   alt_text: ''
 - template: block-text
-  content: "**New Coyote is rolling out a new roadmap on how to engage with us.**\n\nBecause
+  heading: "New Coyote is rolling out a new roadmap on how to engage with us."
+  content: "Because
     of our high level of commitment to values like **workers’ rights, equity, and
     anti-racism**, and because we are unapologetically **pro-trans, pro-sex worker,
     and anticapitalist**, we’re very deliberate about who we work with. Until recently,
@@ -17,12 +23,18 @@ blocks:
     who speak and work like we do, who can support their vision and align on core
     values and beliefs.   \n   \n We now have a clear path to working together for
     anyone who is interested in finding out what an anti-racist, anti-capitalist organization
-    can do for them. \n\n**WHO**\n\n**Marginalized leaders**, specifically leaders
+    can do for them. "
+- template: block-text
+  heading: "Who"
+  content: "**Marginalized leaders**, specifically leaders
     of color and/or queer people in leadership tend to be the best fit for our style
     of working. If you’re invested in liberation, anti-capitalism, and anti-racism;
     if you’re changing your lens away from the traditionalist, white supremacist “professionalism;”
     if you are ready to create change both for yourself and for your community: we’re
-    the right place for you. \n\n**WHAT**\n\n**The New Coyote process starts with
+    the right place for you."
+- template: block-text
+  heading: "What"
+  content: "**The New Coyote process starts with
     coaching.** In coaching we have two monthly meetings where I work directly with
     you on what you’re experiencing, what your plans are, and what your needs are.
     You also have a number to text me in between meetings with various questions or
@@ -44,8 +56,10 @@ blocks:
     and anti-racist values while still operating inside of a white supremacist environment
     that is endemic to capitalism. We also learned that our busy clients required
     a flexible coaching schedule, and an easy way to contact me when they were in
-    the thick of it. Two meetings a month and a text line seem to be the perfect combination.
-    \n\n**HOW**\n\nIf this path to working with us appeals to you, **book a coaching
+    the thick of it. Two meetings a month and a text line seem to be the perfect combination."
+- template: block-text
+  heading: "How"
+  content: "If this path to working with us appeals to you, **book a coaching
     assessment today** via our [Calendly link](https://marinaforhire.us7.list-manage.com/track/click?u=08d9c04fab21756309c2c31e8&id=588457046d&e=64ec745402)
     or contact us [here](https://newcoyote.com/contact/)!  \n  \n If you know anyone
     in activism and leadership, especially if they are a person of color and/or a
@@ -55,7 +69,6 @@ blocks:
     we can serve people before we commit ourselves to working with them is one way
     we intend to create the wealth we need to invest in our workers and our values
     without being extractive or taking more than we give back."
-  heading: How to Work With Us
 - template: block-image
   image: "/v1682039419/coyote/2023/04/Stepstoworkingwithnewcoyote_uze3o1.png"
   alt_text: ''
