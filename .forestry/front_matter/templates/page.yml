@@ -40,4 +40,5 @@ fields:
     max: 
   description: Assemble some blocks to make your content.
 pages:
+- site/how-to-work-with-us.md
 - site/support.md
