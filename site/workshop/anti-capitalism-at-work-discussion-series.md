@@ -60,6 +60,8 @@ Self care is either held up or mocked as being all lavender baths and adult colo
 
 Sunday, May 7, 2023 from 4:30 to 5:30pm
 
+How do we cooperate and organize with our fellow workers in a way that centers those most affected by capitalism without causing more harm or endangering our safety and livelihoods?
+
 #### Finding a Good Job
 
 Sunday, July 23, 2023 from 4:30 to 5:30pm
