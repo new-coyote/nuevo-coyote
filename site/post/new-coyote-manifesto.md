@@ -1,6 +1,6 @@
 ---
 date: 2023-04-21T00:22:39Z
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 title: New Coyote Manifesto
 image:
   src: "/v1633154050/coyote/2021/10/Happy_Bunch_-_Walking_fwv3oh.png"
