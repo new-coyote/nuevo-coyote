@@ -10,8 +10,6 @@ image:
   caption: ''
 
 ---
-New Coyote Manifesto
-
 We are tired of empty corporate manifestos. This will not be another well-written piece of vague trash for us to point to as if we have values while we do whatever serves us in the short term behind the scenes. Our real manifesto is not what we say, but what we do.
 
 **However, here is what we say we do:**
