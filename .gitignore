@@ -4,3 +4,8 @@
 # Webpack asset destination
 /site/_build
 .webpack
+
+# Dev things
+.env
+.idea
+node_modules
