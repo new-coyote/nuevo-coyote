@@ -1,7 +1,6 @@
 ---
 date: 2022-11-11
 title: 'Anti-Capitalism at Work: Discussion Series'
-condition: Up Next
 category: []
 image:
   src: "/v1668132736/coyote/2022/11/2022_IG_Grid_ACAW_Schedule_as3psf.jpg"
@@ -65,6 +64,8 @@ How do we cooperate and organize with our fellow workers in a way that centers t
 #### Finding a Good Job
 
 Sunday, July 23, 2023 from 4:30 to 5:30pm
+
+No matter what else, it's our obligation to survive and thrive within a system that was not made for us. So what does an anti-capitalist look for in a job?
 
 ## How To Attend
 
