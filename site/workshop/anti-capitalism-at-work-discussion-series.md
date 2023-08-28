@@ -1,7 +1,6 @@
 ---
 date: 2022-11-11
 title: 'Anti-Capitalism at Work: Discussion Series'
-condition: Up Next
 category: []
 image:
   src: "/v1668132736/coyote/2022/11/2022_IG_Grid_ACAW_Schedule_as3psf.jpg"
@@ -66,8 +65,4 @@ How do we cooperate and organize with our fellow workers in a way that centers t
 
 Sunday, July 23, 2023 from 4:30 to 5:30pm
 
-## How To Attend
-
-Tickets are available at the [Clinton Street Theater Tickets website](https://cstpdxtickets.square.site/).
-
-Attend in person or participate virtually over Zoom. Tickets for individual events are $35, or you can buy an [all-sessions pass](https://cstpdxtickets.square.site/product/anti-capitalism-at-work-all-sessions-pass/307?cp=true&sa=false&sbp=false&q=true&mc_cid=d94e115ad1&mc_eid=64ec745402) for the Anti-Capitalism at Work series for $185. Scholarships are available, no questions asked: email [marina@newcoyote.com]() for scholarships.
+No matter what else, it's our obligation to survive and thrive within a system that was not made for us. So what does an anti-capitalist look for in a job?
