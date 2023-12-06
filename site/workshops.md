@@ -1,6 +1,8 @@
 ---
 layout: workshop/index.njk
 featured_workshops:
+- site/workshop/working-with-layered-social-impacts-how-i-started-a-thriving-values-based-business-in-a-pandemic.md
+- site/workshop/deep-dive-e-newsletter-marketing.md
 - site/workshop/should-i-stay-or-should-i-go.md
 - site/workshop/anti-capitalism-at-work-discussion-series.md
 - site/workshop/systems-for-working-in-an-anti-racist-paradigm-intermediate-course.md
