@@ -8,6 +8,10 @@
 	grid-row-gap: 1rem;
 }
 
+.workshop-sidebar {
+	display: contents;
+}
+
 .workshop-category {
 	grid-row: 1;
 }
@@ -40,27 +44,23 @@
 		grid-row: 1 / -1;
 	}
 
+	.workshop-sidebar {
+		display: contents;
+		grid-area: side;
+		grid-row: 2;
+	}
+
+
+
 	.workshop-image,
 	.workshop-category,
 	.workshop-instances,
 	.workshop-partners {
-		grid-area: side;
+		grid-row: unset;
 	}
 
 	.workshop-image {
 		grid-row: 1;
-	}
-
-	.workshop-category {
-		grid-row: 2;
-	}
-
-	.workshop-instances {
-		grid-row: 3;
-	}
-
-	.workshop-partners {
-		grid-row: 4;
 	}
 }
 
