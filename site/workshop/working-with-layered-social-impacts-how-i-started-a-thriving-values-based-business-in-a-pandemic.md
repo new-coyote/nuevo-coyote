@@ -4,6 +4,12 @@ title: 'Working with Layered Social Impacts: How I Started A Thriving Values-Bas
 category: []
 instances: []
 repeat: ''
+image:
+  src: https://res.cloudinary.com/marinaforhire/v1602712996/images/2020/10/marina-two-tone-wall_bomuwr.webp
+  alt: ''
+  credit: ''
+  credit_url: ''
+  caption: ''
 partners:
 - url: https://www.portlandpf.org/
   description: The Portland Parks Foundation mobilizes support to improve Portland’s system of parks, natural areas, and public spaces.  They collaborate with individuals, community groups, organizations, and institutions to develop long-term, sustainable improvements to the livability and beauty of our city while working  to create the broadest possible access to recreation, creativity, education, and play in our parks and open spaces. In short, the Portland Parks Foundation helps people help parks.
