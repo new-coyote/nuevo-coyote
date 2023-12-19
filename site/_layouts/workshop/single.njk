@@ -10,6 +10,7 @@ layout: columns.njk
             {% import "macros/image.njk" as image_tools %}
             {{ image_tools.image(image, class="workshop-image block w-full", width=300, srcset=[768, 1536], sizes="(min-width: 768px) 300px, 100vw") }}
         {% endif %}
+        <div class="workshop-sidebar">
         {% if category.length > 0 %}
             <div class="workshop-category uppercase text-xs mb-2 px-4">
                     <span class="inline">
@@ -63,5 +64,6 @@ layout: columns.njk
                 </ul>
             </section>
         {% endif %}
+        </div>
     </div>
 </div>
