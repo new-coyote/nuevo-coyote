@@ -113,5 +113,5 @@ Thank you for joining me on this adventure - I’m looking forward to seeing wha
 
 In Solidarity,
 
-Marina Martinez-Bateman 
+Marina Martinez-Bateman  
 CEO, New Coyote Consulting
