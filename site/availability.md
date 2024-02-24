@@ -3,6 +3,9 @@ column_decoration: '1'
 title: Availability
 permalink: "/availability/"
 layout: "page.njk"
+redirect:
+  - "/post/2023-04-20-new-coyote-availability-may-september/"
+  - "/post/2022-09-14-availability-sept-oct-nov/"
 eleventyNavigation:
   key: How
   order: 4
