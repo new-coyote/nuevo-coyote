@@ -10,6 +10,8 @@ image:
   caption: ''
 
 ---
+Hi, I'm Marina Martinez-Bateman, and I'm going to tell you about a revolutionary new productivity technique. I call I "The Martinez Method."
+
 At my last full-time job before launching New Coyote, I had a really serious grant application that I had to submit to a funder. I’d been extremely busy with various other things all week and totally spaced on this super strict deadline—and I didn’t have a relationship with the funding entity so I couldn’t ask for an extension.
 
 I was running around putting out all kinds of fires that week and it completely slipped my mind. I was exhausted, working late, and skipping meals all week around all these different crises, so I was frustrated and upset about this falling off my to-do list. Even worse: The grant was due in just three hours! Thinking about it rationally, I realized that whatever I was going to do in that time period wasn’t going to be enough. I decided I’d take an hour and a half, I’d walk to a restaurant that I liked to get some food, and then I’d stop at a park that was near my work and finally take a break.
