@@ -3,8 +3,8 @@ date: 2024-02-20T00:32:23Z
 eleventyExcludeFromCollections: false
 title: Introducing the Martinez Method
 image:
-  src: "/v1682037158/coyote/2023/04/2023_May_New_Coyte_Availability_so4ou3.png"
-  alt: ''
+  src: "/v1708793137/martinez-method_vc2rml.png"
+  alt: 'Image of a person with abstract icons representing communication and technology'
   credit: ''
   credit_url: ''
   caption: ''
