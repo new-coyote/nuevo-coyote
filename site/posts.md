@@ -2,7 +2,7 @@
 layout: post/index.njk
 eleventyNavigation:
     key: Blog
-    order: 6
+    order: 7
 title: Blog
 alias:
     - /post/
