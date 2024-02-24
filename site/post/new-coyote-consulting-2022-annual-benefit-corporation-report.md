@@ -1,5 +1,5 @@
 ---
-date: 2024-01-10T23:01:33.000+00:00
+date: 2024-01-10
 eleventyExcludeFromCollections: false
 title: 'New Coyote Consulting: 2022 Annual Benefit Corporation Report'
 image:
@@ -113,5 +113,5 @@ Thank you for joining me on this adventure - I’m looking forward to seeing wha
 
 In Solidarity,
 
-Marina Martinez-Bateman  
+Marina Martinez-Bateman
 CEO, New Coyote Consulting

@@ -1,5 +1,5 @@
 ---
-date: 2024-02-20T00:32:23Z
+date: 2024-02-20
 eleventyExcludeFromCollections: false
 title: Introducing the Martinez Method
 image:

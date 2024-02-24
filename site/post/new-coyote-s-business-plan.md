@@ -1,5 +1,5 @@
 ---
-date: 2023-04-21T00:24:54Z
+date: 2023-04-21
 eleventyExcludeFromCollections: false
 title: New Coyote's Business Plan
 image:
