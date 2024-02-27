@@ -1,5 +1,5 @@
 ---
-date: 2022-07-19T23:01:33.000+00:00
+date: 2022-07-19
 eleventyExcludeFromCollections: false
 title: 'New Coyote Consulting: 2021 Annual Benefit Corporation Report'
 image:
