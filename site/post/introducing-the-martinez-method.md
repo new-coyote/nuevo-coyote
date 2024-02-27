@@ -26,7 +26,7 @@ The Martinez Method is meant for emergency situations, where the shit is very li
 
 The idea is that if you’ve been working yourself to mental and physical exhaustion and you’re hours away from an important deadline you know you’re not going to hit, you must do the one thing there’s left to do in this situation: Rest!
 
-The Martinez Method for productivity:
+## The Martinez Method for Productivity
 - When you are exhausted but you have a difficult task due in a few hours, cut the hours in half  (Ex: If it’s due in 6 hours, each interval will be 3 hours long)
 - Spend the first interval resting
 - No working! Take a nap, eat some food, watch TV, go for a walk, call a friend
