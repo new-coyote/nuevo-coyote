@@ -1,27 +1,27 @@
 ---
 date: 2024-04-01
 title: Creating Needs-Based Workplans
-condition: ''
+condition: ""
 category:
-- site/taxonomy/category/how-to.md
+  - site/taxonomy/category/how-to.md
 image:
   src: https://res.cloudinary.com/marinaforhire/image/upload/v1712009120/needs-based-workplans_w6xkpd.jpgg
-  alt: ''
-  credit: ''
-  credit_url: ''
-  caption: ''
+  alt: ""
+  credit: ""
+  credit_url: ""
+  caption: ""
 instances: []
-repeat: ''
+repeat: ""
 partners:
-- name: NTEN
-  url: https://www.nten.org/
+  - name: NTEN
+    url: https://www.nten.org/
 seo:
   title: Creating Needs-Based Workplans
-  meta_description: 'Leaders who lead for impact have been starting to realize that traditional ways of working are not serving us any more, if they ever did.'
+  meta_description: "Leaders who lead for impact have been starting to realize that traditional ways of working are not serving us any more, if they ever did."
   noindex: false
 eleventyExcludeFromCollections: false
-
 ---
+
 Creating Needs-Based Workplans was originally presented as a 30-minute leadership session at the 2024 NTEN Conference, 24NTC.
 
 This training workshop can be tailored to address the specific needs and concerns of your organization's employees or members.
