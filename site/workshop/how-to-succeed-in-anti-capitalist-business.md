@@ -1,5 +1,5 @@
 ---
-date: 2021-06-15
+date: 2024-05-22
 title: How To Succeed in Anti-Capitalist Business
 condition: Popular
 category:
@@ -26,6 +26,10 @@ seo:
 eleventyExcludeFromCollections: false
 
 ---
+How to Succeed in Anti-Capitalist Business was originally presented in partnership with PUGS in 2021. It's now been renewed for 2024, running from May 22-June 12, 2024. [Sign up for the course through PUGS/Alder Commons here](https://app.aldercommons.org/program/anticapitalistbusiness).
+
+## About This Course
+
 **Do you work long hours for little reward? Do you find yourself at odds with conventional professional and business advice? This course will help you achieve your professional goals without sacrificing your life and values.**
 
 Commerce is as old, if not older, than humanity itself. Capitalism has only been here for about 300 years. As a business-minded person, you have probably been called a capitalist, or even taught that capitalism is the best economic system for someone like you. But if that's true, why is it that capitalism so often pushes us to do things completely against our personal values?

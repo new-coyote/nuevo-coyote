@@ -1,5 +1,5 @@
 ---
-column_decoration: "1"
+column_decoration: '1'
 title: Availability
 permalink: "/availability/"
 layout: "page.njk"
