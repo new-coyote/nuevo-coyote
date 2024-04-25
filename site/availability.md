@@ -1,5 +1,5 @@
 ---
-column_decoration: '1'
+column_decoration: "1"
 title: Availability
 permalink: "/availability/"
 layout: "page.njk"
@@ -10,11 +10,11 @@ eleventyNavigation:
   key: Availability
   order: 6
 blocks:
-- template: block-image
-  image: "/v1708793137/2024-March-Coyote-Availability_hly81n.png"
-  alt_text: 'Image showing New Coyote availability, with one executive training spot open, speaking open in May, and speaking and training open in June and July.'
-- template: block-callout
-  heading: "Interested in working with us?"
-  link_text: "Schedule a call via Calendly ☎️"
-  link_url: https://calendly.com/newcoyote
+  - template: block-image
+    image: "/v1714084431/2024-May-New-Coyote-Availability_ybkan0.png"
+    alt_text: "Image showing New Coyote availability, with one executive training spot open, speaking open in May, and speaking and training open in June and July."
+  - template: block-callout
+    heading: "Interested in working with us?"
+    link_text: "Schedule a call via Calendly ☎️"
+    link_url: https://calendly.com/newcoyote
 ---
