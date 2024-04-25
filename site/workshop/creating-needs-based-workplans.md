@@ -9,7 +9,9 @@ instances: []
 partners:
   - name: NTEN
     url: "https://www.nten.org/"
-    description: ''
+    description: NTEN is a community dedicated to building transformative power by connecting
+        people who are putting technology to work for social change. NTEN relentlessly
+        advocates for the redesign of the systems and structures that maintain inequity.
 seo:
   title: Creating Needs-Based Workplans
   meta_description: "Leaders who lead for impact have been starting to realize that traditional ways of working are not serving us any more, if they ever did."
