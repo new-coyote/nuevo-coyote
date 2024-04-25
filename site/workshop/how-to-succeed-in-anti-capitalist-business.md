@@ -26,8 +26,9 @@ seo:
 eleventyExcludeFromCollections: false
 
 ---
-## About This Course
 How to Succeed in Anti-Capitalist Business was originally presented in partnership with PUGS in 2021. It's now been renewed for 2024, running from May 22-June 12, 2024. [Sign up for the course through PUGS/Alder Commons here](https://app.aldercommons.org/program/anticapitalistbusiness).
+
+## About This Course
 
 **Do you work long hours for little reward? Do you find yourself at odds with conventional professional and business advice? This course will help you achieve your professional goals without sacrificing your life and values.**
 
