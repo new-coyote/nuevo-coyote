@@ -11,8 +11,8 @@ eleventyNavigation:
   order: 6
 blocks:
   - template: block-image
-    image: "/v1714610253/2024-May-New-Coyote-Availability-Updated_l9vflt.png"
-    alt_text: "Image showing New Coyote availability, with 2 executive training spots open now and in July, August, and September, and 2 content creation spots open now and in June."
+    image: "v1716314926/2024-june-new-coyote-availability_roikd5.png"
+    alt_text: "Image showing New Coyote availability, with content creation, coaching, and one-on-one available in June, speaking available in July, end of year giving in August, and training in October."
   - template: block-callout
     heading: "Interested in working with us?"
     link_text: "Schedule a call via Calendly ☎️"
