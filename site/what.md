@@ -34,12 +34,8 @@ blocks:
     Grant Writing
   link_url: https://newcoyote.com/contact/
 - template: block-text
-  heading: 2022 Annual Benefit Report
-  content: New Coyote is a certified benefit company, which means that we believe
-    in the 3 P’s practice of putting People and Planet first because it means more
-    Profit for those who see the wisdom in serving the “greater good.” Check out our
-    [Annual Benefit Report](/post/2024-01-10-new-coyote-consulting-2022-annual-benefit-corporation-report/)
-    to see what we accomplished in 2021 and what we have planned for the future.
+  heading: 2023 Annual Benefit Report
+  content: New Coyote is a certified benefit company, which means that we believe in the 3 P’s practice of putting People and Planet first because it means more Profit for those who see the wisdom in serving the “greater good.” Check out our Annual Benefit Report (link to 2023 report) to see what we accomplished in 2023 and what we have planned for the future.
 - template: block-image
   image: "/v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png"
   alt_text: An illustration of a mythical city scape with ancient buildings and modern
