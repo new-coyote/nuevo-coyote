@@ -40,6 +40,8 @@ We stand firm that a long-term climate solution must include reparations, land-b
 ## 2023 Summary and Key Metrics
 As a Benefit Corporation for Good, we have a triple bottom line, meaning that we have an obligation to do right by people and the planet over and above profit.
 
+![](https://res.cloudinary.com/marinaforhire/image/upload/f_auto,q_auto/w_684/v1717518001/BCFG_New_Coyote_Infographic_2024_PNG_g4t9ck.png)
+
 ### People
 -   Gave our employee a raise
 -   Funded the People’s Nonprofit Accelerator’s BIPOC Fundraisers Affinity Group budget at 100% for 2023 and recommitted for 2024
