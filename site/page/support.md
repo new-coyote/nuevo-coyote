@@ -2,7 +2,7 @@
 column_decoration: none
 title: Support
 blocks:
-- template: block-text
+- type: block-text
   content: "    <div id=\"smart-button-container\">\n        <div style=\"text-align:
     center\"><label for=\"description\">Description </label><input type=\"text\" name=\"descriptionInput\"
     id=\"description\" maxlength=\"127\" value=\"\"></div>\n          <p id=\"descriptionError\"

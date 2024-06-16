@@ -7,7 +7,7 @@ eleventyNavigation:
   key: What
   order: 2
 blocks:
-- template: block-callout
+- type: block-callout
   link_text: Contact us for quotes
   heading: Equity and Communications Consulting
   content: |-
@@ -33,10 +33,10 @@ blocks:
 
     Grant Writing
   link_url: https://newcoyote.com/contact/
-- template: block-text
+- type: block-text
   heading: 2023 Annual Benefit Report
   content: New Coyote is a certified benefit company, which means that we believe in the 3 P’s practice of putting People and Planet first because it means more Profit for those who see the wisdom in serving the “greater good.” Check out our [Annual Benefit Report](/post/2024-06-10-new-coyote-consulting-2023-annual-benefit-corporation-report/) to see what we accomplished in 2023 and what we have planned for the future.
-- template: block-image
+- type: block-image
   image: "/v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png"
   alt_text: An illustration of a mythical city scape with ancient buildings and modern
     cars next to a body of water

@@ -10,6 +10,9 @@ module.exports = {
             path.join(__dirname, '..', '..', 'assets', 'scripts', 'main.js'),
             path.join(__dirname, '..', '..', 'assets', 'styles', 'css.js'),
         ],
+        cms: [
+            path.join(__dirname, '..', '..', 'assets', 'scripts', 'cms.js'),
+        ]
     },
     module: {
         rules: [

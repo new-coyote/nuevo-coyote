@@ -21,6 +21,7 @@ module.exports = function (conf) {
         "site/files": "/files/",
         "site/_build": "/",
         "site/_favicon": "/",
+        "site/admin/config.yml": "/admin/config.yml",
     });
 
     /**

@@ -1,0 +1,209 @@
+local_backend: true
+backend:
+  name: github
+  repo: new-coyote/nuevo-coyote
+
+site_url: https://newcoyote.com
+
+publish_mode: editorial_workflow
+media_folder: assets/uploads
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: marinaforhire
+    api_key: 611821668834439
+
+# Defines blocks to use across the site.
+blocks:
+  callout: &block-callout
+    label: "Callout"
+    name: block-callout
+    fields:
+      - {label: "Heading", name: "heading", widget: "string", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: false}
+      - {label: "Link URL", name: "link_url", widget: "string", required: false}
+      - {label: "Link Text", name: "link_text", widget: "string", required: false, default: "Learn More"}
+  text: &block-text
+    label: "Text"
+    name: block-text
+    fields:
+      - {label: "Heading", name: "heading", widget: "string", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: true}
+  decoration: &block-decoration
+    label: "Decoration"
+    name: "block-decoration"
+    fields:
+      - {label: "Image", name: "image", required: true, options: ["sitting-1", "sitting-2", "walking-1", "walking-2", hint: "Select the image you want. Pulls from a pre-defined list of options."]}
+  flow: &block-flow
+    label: "Flow"
+    name: "block-flow"
+    fields:
+      - {label: "Image", name: "image", widget: "image", hint: "This image will be dynamically cropped, so be sure to use something with visual padding and centered content.", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: true}
+      - {label: "Flip", name: "flip", widget: "boolean", hint: "Normal flows have the image on the left and text on the right. Activate this toggle to reverse that (text on left, image on right).<br><br>This has no effect on mobile (images always stack on top of text)."}
+  image: &block-image
+    label: "Image"
+    name: "block-image"
+    fields:
+      - {label: "Image", name: "image", widget: "image", required: true}
+      - {label: "Alt Text", name: "alt_text", widget: "string"}
+  split: &block-split
+    label: "Split"
+    name: "block-split"
+    fields:
+      - {label: "Image", name: "image", widget: "image", hint: "This image will be dynamically cropped, so be sure to use something with visual padding and centered content.", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: true}
+      - {label: "Flip", name: "flip", widget: "boolean", hint: "Normal splits have the image on the left and text on the right. Activate this toggle to reverse that (text on left, image on right).<br><br>This has no effect on mobile (images always stack on top of text)."}
+
+fields:
+  image: &field-image
+    label: "Image"
+    name: "image"
+    widget: "object"
+    fields:
+      - {label: "Image", name: "src", widget: "image"}
+      - {label: "Alt Text", name: "alt", widget: "string", required: false}
+      - {label: "Credit", name: credit", widget: "string", hint: "Credit to person who took the photo.", required: false}
+      - {label: "Credit URL", name: "credit_url", widget: "string", hint: "Optional URL for whoever took the photo.", required: false}
+      - {label: "Caption", name: "caption", widget: "string", required: false}
+  seo: &field-seo
+    label: SEO
+    name: seo
+    widget: object
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: false, hint: "This will override the page title as the &lt;title&gt; attribute (i.e. the title shown in Google and the browser title bar)."}
+      - {label: "Meta Description", name: "meta_description", widget: "text", require: false, hint: "If set, this will be the page's meta description. If not set, the page will not have one." }
+      - {label: "Don't Index", name: "noindex", widget: "boolean", default: false, hint: "If activated, this will tell crawlers not to index this page. It's off by default. Be careful about turning it on!"}
+  date: &field-date
+    label: "Date"
+    name: date
+    widget: datetime
+    date_format: YYYY-MM-DD
+    picker_utc: false
+  category: &field-category
+    label: "Category"
+    name: category
+    widget: relation
+    collection: category
+    value_field: title
+    search_fields: ["title"]
+    display_fields: ["title"]
+    multiple: true
+      
+
+collections:
+  - label: Pages
+    name: page
+    folder: "site/page"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Column Decoration", name: "column_decoration", widget: "select", options: ["1", "2", "3"]}
+      - label: "Content"
+        name: blocks
+        widget: 'list'
+        types:
+          - *block-text
+          - *block-image
+          - *block-callout
+          - *block-split
+          - *block-flow
+          - *block-decoration
+  - label: Posts
+    name: post
+    folder: "site/post"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - label: "Date"
+        name: "date" 
+        widget: "datetime"
+        required: true
+        picker_utc: false
+      - *field-image
+      - label: "Content"
+        name: body
+        widget: "markdown"
+  - label: Workshops
+    name: workshop
+    folder: "site/workshop"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - *field-date
+      - *field-category
+      - label: Condition
+        widget: select
+        name: condition
+        options:
+          - Up Next
+          - Coming Soon
+          - Popular
+          - Online
+          - Sold Out
+      - *field-image
+      - label: "Instances"
+        hint: These describe details of specific instances of the workshop. All workshops must have at least once, but some can have many.
+        widget: list
+        name: instances
+        min: 1
+        label_singular: "instance"
+        summary: "{{fields.date}} from {{fields.start}} to {{fields.end}} at {{fields.location}}"
+        fields:
+          - *field-date
+          - label: "Start Time"
+            name: start
+            widget: string
+            time_format: HH:MM A
+            hint: "Enter time as HH:MM PM/AM, i.e. '7:30 AM'. Assumes PST."
+          - label: "End Time"
+            name: end
+            widget: string
+            time_format: HH:MM A
+            hint: "Enter time as HH:MM PM/AM, i.e. '7:30 AM'. Assumes PST."
+          - label: "Location"
+            name: location
+      - label: "Repeat"
+        name: repeat
+        widget: string
+        required: false
+        hint: If this event repeats, describe how (i.e. "Every month on the first Tuesday"). This is displayed to visitors to help them understand the event's structure, but is **not** used by the site to generate a schedule.
+      - label: "Partners"
+        name: partners
+        widget: list
+        fields:
+          - {label: "Name", name: name, widget: "string"}
+          - {label: "URL", name: url, widget: "string", require: false}
+          - {label: "Description", name: description, widget: "markdown", required: false}
+      - *field-seo
+      - label: "Content"
+        name: body
+        widget: markdown
+      - label: "Hide Workshop"
+        name: eleventyExcludeFromCollections
+        default: false
+        widget: boolean
+        hint: This with prevent this workshop from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
+  - label: "Special Pages"
+    name: "special-pages"
+    files:
+      - label: "Workshop Index"
+        name: "workshop-index"
+        file: "site/workshops.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Featured Workshops"
+            name: featured_workshops
+            widget: relation
+            collection: workshop
+            multiple: true
+            value_field: "{{slug}}"
+            search_fields: [title, partners.*, body]
+            display_fields: [title]
+          - {label: "Content", name: "body", widget: "markdown"}
+  - label: Categories
+    name: category
+    folder: "site/taxonomy/category"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}

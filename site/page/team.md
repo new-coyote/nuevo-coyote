@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Who
   order: 1
 blocks:
-- template: block-flow
+- type: block-flow
   image: "/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg"
   content: |-
     ## Hi, I'm Marina and I'm the CEO of New Coyote Consulting.
@@ -26,7 +26,7 @@ blocks:
 
     You can learn more about me on my personal website [www.marinaforhire.com,](http://www.marinaforhire.com) my twitter @marinaforhire, or on Linkedin where I post videos every week on Monday and Thursday setting out my intentions for the week and then updating everyone on how I did on those intentions.
   flip: false
-- template: block-flow
+- type: block-flow
   image: "/v1633152991/coyote/2021/10/Dayflow_-_Work_from_Home_flj0od.png"
   content: "## Hi, I'm Kate and I'm the Chief Operations Officer here at New Coyote
     Consulting. \n\nI work on making sure our day to day operations run smoothly,
@@ -44,11 +44,11 @@ blocks:
     adopted, and natal family, I find that doing work with an equity lens not only
     comes naturally, but is imperative to my personal goals as a manager and as the
     Chief Operations Officer. "
-- template: block-image
+- type: block-image
   image: "/v1633154050/coyote/2021/10/Happy_Bunch_-_Walking_fwv3oh.png"
   alt_text: An image of three people walking through a natural area, they are all
     wearing masks. One is light complected, on medium and one dark.
-- template: block-text
+- type: block-text
   content: |-
     In Aztec mythology Huehuecóyotl, or Very Old Coyote is a deity that represents wisdom, storytelling, deception, and a host of other things. He was usually depicted as male, but was also explicitly gender fluid and bisexual.
 
@@ -64,7 +64,7 @@ blocks:
 
     So we became New Coyote. New for the way it feels to work with us, and Coyote for Huehuecóyotl who lead and taught with humor, storytelling, and a little bit of transformation. A shape-shifter and an ancestor, just as adaptable and suited to this world as he ever was.
   heading: Why We're Called New Coyote
-- template: block-callout
+- type: block-callout
   link_text: Contact Us Now
   content: We love making new friends, and if we can't help you, our years of experience
     and thousands of professional connections in the Pacific Northwest and world-wide

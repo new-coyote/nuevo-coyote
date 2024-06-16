@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Why
   order: 3
 blocks:
-- template: block-text
+- type: block-text
   heading: 10 Driving Principles
   content: |-
     We came to understand these principles over 20 years of working in change-management, equity, and communications. They are not final, true principles rarely are. But they are what drives us today.
@@ -22,7 +22,7 @@ blocks:
      8. Clear is kind: Communication is a skill we continuously learn and teach.
      9. Empathy is everything.
     10. The opposite of an oppressive system is not a lack of systems. Without explicit structure, most systems will revert to the default, which is white supremacy.
-- template: block-decoration
+- type: block-decoration
   image: sitting-1
 
 ---

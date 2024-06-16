@@ -1,4 +1,4 @@
 {% for block in blocks %}
-{% set filename = block.template | replace('block-', '') %}
+{% set filename = block.type | replace('block-', '') %}
 {% include 'partials/blocks/' + filename + '.njk' %}
 {% endfor %}
