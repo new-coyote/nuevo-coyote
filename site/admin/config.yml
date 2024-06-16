@@ -93,12 +93,6 @@ fields:
       
 
 collections:
-  - label: Categories
-    name: category
-    folder: "site/taxonomy/category"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string", required: true}
   - label: Pages
     name: page
     folder: "site/page"
@@ -207,3 +201,9 @@ collections:
             search_fields: [title, partners.*, body]
             display_fields: [title]
           - {label: "Content", name: "body", widget: "markdown"}
+  - label: Categories
+    name: category
+    folder: "site/taxonomy/category"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
