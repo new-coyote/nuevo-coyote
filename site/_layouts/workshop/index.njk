@@ -15,7 +15,7 @@ layout: app.njk
 
     <div class="max-w-6xl px-4 py-10 grid lg:grid-cols-3 gap-8">
         {%- for post in collections.workshop | reverse -%}
-            {%- if post | input_path_in_array(featured_workshops) -%}
+            {%- if post.fileSlug in featured_workshops -%}
             {% include "partials/workshop/preview.njk" %}
             {%- endif -%}
         {%- endfor -%}

@@ -1,18 +1,18 @@
 ---
 layout: workshop/index.njk
 featured_workshops:
-  - site/workshop/creating-needs-based-workplans.md
-  - site/workshop/working-with-layered-social-impacts-how-i-started-a-thriving-values-based-business-in-a-pandemic.md
-  - site/workshop/deep-dive-e-newsletter-marketing.md
-  - site/workshop/should-i-stay-or-should-i-go.md
-  - site/workshop/anti-capitalism-at-work-discussion-series.md
-  - site/workshop/systems-for-working-in-an-anti-racist-paradigm-intermediate-course.md
-  - site/workshop/intro-to-anti-racist-systems-workplace-learning-module.md
-  - site/workshop/confronting-toxic-productivity-workplace-learning-module.md
-  - site/workshop/how-to-succeed-in-anti-capitalist-business.md
-  - site/workshop/nonprofit-anonymous.md
-  - site/workshop/unlock-your-empathy-at-work-intro-course.md
-  - site/workshop/consent-at-work-intro.md
+  - creating-needs-based-workplans
+  - working-with-layered-social-impacts-how-i-started-a-thriving-values-based-business-in-a-pandemic
+  - deep-dive-e-newsletter-marketing
+  - should-i-stay-or-should-i-go
+  - anti-capitalism-at-work-discussion-series
+  - systems-for-working-in-an-anti-racist-paradigm-intermediate-course
+  - intro-to-anti-racist-systems-workplace-learning-module
+  - confronting-toxic-productivity-workplace-learning-module
+  - how-to-succeed-in-anti-capitalist-business
+  - nonprofit-anonymous
+  - unlock-your-empathy-at-work-intro-course
+  - consent-at-work-intro
 title: Workshops
 video: m9EX0f6V11Y
 eleventyNavigation:

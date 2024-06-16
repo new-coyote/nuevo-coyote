@@ -191,3 +191,20 @@ collections:
         default: false
         widget: boolean
         hint: This with prevent this workshop from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
+  - label: "Special Pages"
+    name: "special-pages"
+    files:
+      - label: "Workshop Index"
+        name: "workshop-index"
+        file: "site/workshops.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Featured Workshops"
+            name: featured_workshops
+            widget: relation
+            collection: workshop
+            multiple: true
+            value_field: "{{slug}}"
+            search_fields: [title, partners.*, body]
+            display_fields: [title]
+          - {label: "Content", name: "body", widget: "markdown"}
