@@ -1,6 +1,5 @@
 function setup() {
 
-	console.log(new URLSearchParams(document.location.search))
 	const form = document.querySelector('form[name="contact"]');
 	if (form) {
 		const params = new URLSearchParams(document.location.search);
