@@ -97,6 +97,7 @@ collections:
     name: page
     folder: "site/page"
     create: true
+    preview_path: "{{permalink}}"
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Column Decoration", name: "column_decoration", widget: "select", options: ["1", "2", "3"]}
@@ -113,6 +114,7 @@ collections:
   - label: Posts
     name: post
     folder: "site/post"
+    preview_path: "/post/{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
@@ -128,6 +130,7 @@ collections:
   - label: Workshops
     name: workshop
     folder: "site/workshop"
+    preview_path: "workshop/{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - *field-date
