@@ -68,9 +68,38 @@ fields:
       - {label: "Credit", name: credit", widget: "string", hint: "Credit to person who took the photo.", required: false}
       - {label: "Credit URL", name: "credit_url", widget: "string", hint: "Optional URL for whoever took the photo.", required: false}
       - {label: "Caption", name: "caption", widget: "string", required: false}
+  seo: &field-seo
+    label: SEO
+    name: seo
+    widget: object
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: false, hint: "This will override the page title as the &lt;title&gt; attribute (i.e. the title shown in Google and the browser title bar)."}
+      - {label: "Meta Description", name: "meta_description", widget: "text", require: false, hint: "If set, this will be the page's meta description. If not set, the page will not have one." }
+      - {label: "Don't Index", name: "noindex", widget: "boolean", default: false, hint: "If activated, this will tell crawlers not to index this page. It's off by default. Be careful about turning it on!"}
+  date: &field-date
+    label: "Date"
+    name: date
+    widget: datetime
+    date_format: YYYY-MM-DD
+    picker_utc: false
+  category: &field-category
+    label: "Category"
+    name: category
+    widget: relation
+    collection: category
+    value_field: title
+    search_fields: ["title"]
+    display_fields: ["title"]
+    multiple: true
       
 
 collections:
+  - label: Categories
+    name: category
+    folder: "site/taxonomy/category"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
   - label: Pages
     name: page
     folder: "site/page"
@@ -103,4 +132,62 @@ collections:
       - label: "Content"
         name: body
         widget: "markdown"
-      
+  - label: Workshops
+    name: workshop
+    folder: "site/workshop"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - *field-date
+      - *field-category
+      - label: Condition
+        widget: select
+        name: condition
+        options:
+          - Up Next
+          - Coming Soon
+          - Popular
+          - Online
+          - Sold Out
+      - *field-image
+      - label: "Instances"
+        hint: These describe details of specific instances of the workshop. All workshops must have at least once, but some can have many.
+        widget: list
+        name: instances
+        min: 1
+        label_singular: "instance"
+        summary: "{{fields.date}} from {{fields.start}} to {{fields.end}} at {{fields.location}}"
+        fields:
+          - *field-date
+          - label: "Start Time"
+            name: start
+            widget: string
+            time_format: HH:MM A
+            hint: "Enter time as HH:MM PM/AM, i.e. '7:30 AM'. Assumes PST."
+          - label: "End Time"
+            name: end
+            widget: string
+            time_format: HH:MM A
+            hint: "Enter time as HH:MM PM/AM, i.e. '7:30 AM'. Assumes PST."
+          - label: "Location"
+            name: location
+      - label: "Repeat"
+        name: repeat
+        widget: string
+        required: false
+        hint: If this event repeats, describe how (i.e. "Every month on the first Tuesday"). This is displayed to visitors to help them understand the event's structure, but is **not** used by the site to generate a schedule.
+      - label: "Partners"
+        name: partners
+        widget: list
+        fields:
+          - {label: "Name", name: name, widget: "string"}
+          - {label: "URL", name: url, widget: "string", require: false}
+          - {label: "Description", name: description, widget: "markdown", required: false}
+      - *field-seo
+      - label: "Content"
+        name: body
+        widget: markdown
+      - label: "Hide Workshop"
+        name: eleventyExcludeFromCollections
+        default: false
+        widget: boolean
+        hint: This with prevent this workshop from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
