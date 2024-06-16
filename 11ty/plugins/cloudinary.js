@@ -1,7 +1,7 @@
 module.exports = conf => {
-    const {CLOUDINARY_NAME} = process.env
     conf.namespace('cl_', () => {
         const config = {
+            name: "marinaforhire",
             transforms: [{
                 quality: "auto",
                 fetch_format: "auto",
@@ -9,9 +9,6 @@ module.exports = conf => {
             defaults: {
                 width: 684
             }
-        }
-        if (CLOUDINARY_NAME) {
-            config.name = CLOUDINARY_NAME
         }
         conf.addPlugin(require('@11in/cloudinary'), config)
     });
