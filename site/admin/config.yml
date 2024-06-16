@@ -1,0 +1,106 @@
+local_backend: true
+backend:
+  name: github
+  repo: new-coyote/nuevo-coyote
+  branch: decap
+
+site_url: https://newcoyote.com
+
+publish_mode: editorial_workflow
+media_folder: assets/uploads
+
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: marinaforhire
+    api_key: 611821668834439
+
+# Defines blocks to use across the site.
+blocks:
+  callout: &block-callout
+    label: "Callout"
+    name: block-callout
+    fields:
+      - {label: "Heading", name: "heading", widget: "string", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: false}
+      - {label: "Link URL", name: "link_url", widget: "string", required: false}
+      - {label: "Link Text", name: "link_text", widget: "string", required: false, default: "Learn More"}
+  text: &block-text
+    label: "Text"
+    name: block-text
+    fields:
+      - {label: "Heading", name: "heading", widget: "string", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: true}
+  decoration: &block-decoration
+    label: "Decoration"
+    name: "block-decoration"
+    fields:
+      - {label: "Image", name: "image", required: true, options: ["sitting-1", "sitting-2", "walking-1", "walking-2", hint: "Select the image you want. Pulls from a pre-defined list of options."]}
+  flow: &block-flow
+    label: "Flow"
+    name: "block-flow"
+    fields:
+      - {label: "Image", name: "image", widget: "image", hint: "This image will be dynamically cropped, so be sure to use something with visual padding and centered content.", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: true}
+      - {label: "Flip", name: "flip", widget: "boolean", hint: "Normal flows have the image on the left and text on the right. Activate this toggle to reverse that (text on left, image on right).<br><br>This has no effect on mobile (images always stack on top of text)."}
+  image: &block-image
+    label: "Image"
+    name: "block-image"
+    fields:
+      - {label: "Image", name: "image", widget: "image", required: true}
+      - {label: "Alt Text", name: "alt_text", widget: "string"}
+  split: &block-split
+    label: "Split"
+    name: "block-split"
+    fields:
+      - {label: "Image", name: "image", widget: "image", hint: "This image will be dynamically cropped, so be sure to use something with visual padding and centered content.", required: false}
+      - {label: "Content", name: "content", widget: "markdown", required: true}
+      - {label: "Flip", name: "flip", widget: "boolean", hint: "Normal splits have the image on the left and text on the right. Activate this toggle to reverse that (text on left, image on right).<br><br>This has no effect on mobile (images always stack on top of text)."}
+
+fields:
+  image: &field-image
+    label: "Image"
+    name: "image"
+    widget: "object"
+    fields:
+      - {label: "Image", name: "src", widget: "image"}
+      - {label: "Alt Text", name: "alt", widget: "string", required: false}
+      - {label: "Credit", name: credit", widget: "string", hint: "Credit to person who took the photo.", required: false}
+      - {label: "Credit URL", name: "credit_url", widget: "string", hint: "Optional URL for whoever took the photo.", required: false}
+      - {label: "Caption", name: "caption", widget: "string", required: false}
+      
+
+collections:
+  - label: Pages
+    name: page
+    folder: "site/page"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Column Decoration", name: "column_decoration", widget: "select", options: ["1", "2", "3"]}
+      - label: "Content"
+        name: blocks
+        widget: 'list'
+        types:
+          - *block-text
+          - *block-image
+          - *block-callout
+          - *block-split
+          - *block-flow
+          - *block-decoration
+  - label: Posts
+    name: post
+    folder: "site/post"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - label: "Date"
+        name: "date" 
+        widget: "datetime"
+        required: true
+        picker_utc: false
+      - *field-image
+      - label: "Content"
+        name: body
+        widget: "markdown"
+      
