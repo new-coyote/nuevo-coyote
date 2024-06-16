@@ -7,10 +7,10 @@ eleventyNavigation:
   key: How
   order: 4
 blocks:
-- template: block-image
+- type: block-image
   image: "/v1682039454/coyote/2023/04/New_Coyote_How_to_Work_with_Us_2023_y3rqln.png"
   alt_text: ''
-- template: block-text
+- type: block-text
   heading: "New Coyote is rolling out a new roadmap on how to engage with us."
   content: "Because
     of our high level of commitment to values like **workers’ rights, equity, and
@@ -24,7 +24,7 @@ blocks:
     values and beliefs.   \n   \n We now have a clear path to working together for
     anyone who is interested in finding out what an anti-racist, anti-capitalist organization
     can do for them. "
-- template: block-text
+- type: block-text
   heading: "Who"
   content: "**Marginalized leaders**, specifically leaders
     of color and/or queer people in leadership tend to be the best fit for our style
@@ -32,7 +32,7 @@ blocks:
     if you’re changing your lens away from the traditionalist, white supremacist “professionalism;”
     if you are ready to create change both for yourself and for your community: we’re
     the right place for you."
-- template: block-text
+- type: block-text
   heading: "What"
   content: "**The New Coyote process starts with
     coaching.** In coaching we have two monthly meetings where I work directly with
@@ -57,7 +57,7 @@ blocks:
     that is endemic to capitalism. We also learned that our busy clients required
     a flexible coaching schedule, and an easy way to contact me when they were in
     the thick of it. Two meetings a month and a text line seem to be the perfect combination."
-- template: block-text
+- type: block-text
   heading: "How"
   content: "If this path to working with us appeals to you, **book a coaching
     assessment today** via our [Calendly link](https://calendly.com/newcoyote)
@@ -69,7 +69,7 @@ blocks:
     we can serve people before we commit ourselves to working with them is one way
     we intend to create the wealth we need to invest in our workers and our values
     without being extractive or taking more than we give back."
-- template: block-image
+- type: block-image
   image: "/v1682039419/coyote/2023/04/Stepstoworkingwithnewcoyote_uze3o1.png"
   alt_text: ''
 
