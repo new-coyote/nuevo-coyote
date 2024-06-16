@@ -2,7 +2,6 @@ local_backend: true
 backend:
   name: github
   repo: new-coyote/nuevo-coyote
-  branch: decap
 
 site_url: https://newcoyote.com
 
