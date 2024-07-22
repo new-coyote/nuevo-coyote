@@ -129,6 +129,7 @@ collections:
         widget: "markdown"
   - label: Workshops
     name: workshop
+    create: true
     folder: "site/workshop"
     preview_path: "workshop/{{slug}}"
     fields:
