@@ -1,32 +1,42 @@
 ---
-date: 2024-05-22
 title: How To Succeed in Anti-Capitalist Business
-condition: Popular
+date: 2024-05-22
 category:
-- site/taxonomy/category/how-to.md
+  - How to
+condition: Popular
 image:
   src: https://res.cloudinary.com/marinaforhire/v1595303503/images/site/marina-two-tone-wall.jpg
-  alt: ''
-  credit: ''
-  credit_url: ''
-  caption: ''
-instances: []
-repeat: ''
+  alt: ""
+  credit: ""
+  credit_url: ""
+  caption: ""
+instances:
+  - date: 2024-10-03
+    start: 06:00 PM
+    end: 07:00 PM
+    location: Zoom
+repeat: ""
 partners:
-- name: PUGS
-  url: https://www.pugspdx.com/
-  description: |-
-    Portland Underground Graduate School (PUGS) offers courses and workshops that facilitate your becoming who you want to be. Taught by local experts, they are filled with smart, interesting, and motivated Portlanders. We believe that a quality education is key to personal and societal transformation.
+  - name: PUGS
+    url: https://www.pugspdx.com/
+    description: >-
+      Portland Underground Graduate School (PUGS) offers courses and workshops
+      that facilitate your becoming who you want to be. Taught by local experts,
+      they are filled with smart, interesting, and motivated Portlanders. We
+      believe that a quality education is key to personal and societal
+      transformation.
 
-    We offer about 75 courses and have about 900 students a year. We are not part of the restrictive, bureaucratic, and expensive university “educational-industrial complex.” No degrees or certificates. No university credit. And proudly so. As a matter of social justice, our mission is to allow everyone a chance to keeping learning debt-free through our Radical Pricing Policy. Hope to see you in class!
+
+      We offer about 75 courses and have about 900 students a year. We are not part of the restrictive, bureaucratic, and expensive university “educational-industrial complex.” No degrees or certificates. No university credit. And proudly so. As a matter of social justice, our mission is to allow everyone a chance to keeping learning debt-free through our Radical Pricing Policy. Hope to see you in class!
 seo:
-  title: ''
-  meta_description: ''
+  title: ""
+  meta_description: How to Succeed in Anti-Capitalist Business is this a 4-week
+    Zoom-based course that will help you achieve your professional goals without
+    sacrificing your values.
   noindex: false
 eleventyExcludeFromCollections: false
-
 ---
-How to Succeed in Anti-Capitalist Business was originally presented in partnership with PUGS in 2021. It's now been renewed for 2024, running from May 22-June 12, 2024. [Sign up for the course through PUGS/Alder Commons here](https://app.aldercommons.org/program/anticapitalistbusiness).
+How to Succeed in Anti-Capitalist Business was originally presented in partnership with PUGS in 2021. It's now been renewed for 2024, running from May 22-June 12, 2024 and October 3 - 26, 2024. [Sign up for the course through PUGS/Alder Commons here](https://app.aldercommons.org/program/anticapitalistbusiness-2).
 
 ## About This Course
 
