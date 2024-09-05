@@ -27,7 +27,7 @@ partners:
       transformation.
 
 
-      They offer about 75 courses and have about 900 students a year. They are not part of the restrictive, bureaucratic, and expensive university “educational-industrial complex.” No degrees or certificates. No university credit. And proudly so. As a matter of social justice, their mission is to allow everyone a chance to keeping learning debt-free through our Radical Pricing Policy. Hope to see you in class!
+      They offer about 75 courses and have about 900 students a year. They are not part of the restrictive, bureaucratic, and expensive university “educational-industrial complex.” No degrees or certificates. No university credit. And proudly so. As a matter of social justice, their mission is to allow everyone a chance to keeping learning debt-free through their Radical Pricing Policy. Hope to see you in class!
 seo:
   title: ""
   meta_description: How to Succeed in Anti-Capitalist Business is a 4-week
