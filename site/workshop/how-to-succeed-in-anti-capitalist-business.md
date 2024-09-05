@@ -22,15 +22,15 @@ partners:
     description: >-
       Portland Underground Graduate School (PUGS) offers courses and workshops
       that facilitate your becoming who you want to be. Taught by local experts,
-      they are filled with smart, interesting, and motivated Portlanders. We
+      they are filled with smart, interesting, and motivated Portlanders. They
       believe that a quality education is key to personal and societal
       transformation.
 
 
-      We offer about 75 courses and have about 900 students a year. We are not part of the restrictive, bureaucratic, and expensive university “educational-industrial complex.” No degrees or certificates. No university credit. And proudly so. As a matter of social justice, our mission is to allow everyone a chance to keeping learning debt-free through our Radical Pricing Policy. Hope to see you in class!
+      They offer about 75 courses and have about 900 students a year. They are not part of the restrictive, bureaucratic, and expensive university “educational-industrial complex.” No degrees or certificates. No university credit. And proudly so. As a matter of social justice, their mission is to allow everyone a chance to keeping learning debt-free through our Radical Pricing Policy. Hope to see you in class!
 seo:
   title: ""
-  meta_description: How to Succeed in Anti-Capitalist Business is this a 4-week
+  meta_description: How to Succeed in Anti-Capitalist Business is a 4-week
     Zoom-based course that will help you achieve your professional goals without
     sacrificing your values.
   noindex: false
