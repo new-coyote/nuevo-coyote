@@ -12,8 +12,8 @@ image:
 instances:
   - date: 2025-03-05
     location: Zoom
-    start: 12:00 PM
-    end: 02:00 PM
+    start: 2:00 PM
+    end: 04:00 PM
 seo:
   noindex: false
   title: Decolonizing Management
