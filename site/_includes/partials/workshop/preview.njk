@@ -35,7 +35,7 @@
     </div>
     <div class="absolute inset-0 z-10 w-full h-full -mt-4 -ml-4 opacity-10 bg-core-teal">
     {% if post.data.image %}
-        <img src="{{ post.data.image.src | cl_url({ width: 400, height: 400, crop: 'fill', gravity: 'face:auto' }) }}" class="absolute inset-0 object-cover object-center w-full h-full" alt="Image for {{ post.data.title }}">
+        <img src="{{ post.data.image.src | cl_url([{ width: 600, height: 600, crop: 'fill', gravity: 'face:auto' }]) }}" class="absolute inset-0 object-cover object-center w-full h-full" alt="Image for {{ post.data.title }}">
     {% endif %}
     </div>
 </article>
