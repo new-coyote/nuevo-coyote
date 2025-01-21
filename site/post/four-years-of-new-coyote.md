@@ -1,0 +1,116 @@
+---
+title: Four Years of New Coyote
+date: 2025-01-21T13:24:00.000Z
+image:
+  src: https://res.cloudinary.com/marinaforhire/image/upload/v1737495180/Hands_-_Exchange_zegekh.png
+  credit": Illustration by Ivan Mesaroš
+---
+A little over five years ago, I woke up on a Tuesday morning with an entire business plan in my head.
+
+
+
+By the end of 2019, I’d reached my breaking point with my toxic work environment. I went from being a person who only needed 3 hours of sleep a night to sleeping 10-12 hours every day to recover from what my job had flung at me. All of my chronic health issues were worse than they’d ever been. I was severely burnt out and at the end of my rope. 
+
+
+
+I was also filled with fear that I was failing the career I’d worked so hard at for the last 20 years. I was trying to find another job  in the nonprofit industry, but by that time, I had a reputation as a disrupter, someone who wouldn't compromise on values for myself or the organizations that I worked for. I had already been pushed out of two other orgs for calling on executives to follow up on behaviors that not only went against org values, but also presented legal risks. 
+
+
+
+Each time, I was the person who left when the org refused to change or engage in accountability. It seemed like my choices were either to act as a mouthpiece for abusers or never work in my chosen field again. So when the business plan came to me so easily, it felt kike kismet. 
+
+
+
+On January 1, 2020, I founded Letter-o-matic, a simple, accessible, and frictionless newsletter writing service. To me, it was the perfect business because it had nothing of me in it. It wasn’t connected to my name or image in any way. My job was just to write what the company who hired me wanted me to write, with none of my voice or personality or ethics getting in the way. 
+
+
+
+After constantly getting told that I cared too much or had an overinflated sense of justice, and that I needed to be able to let things go, it felt like the only choice. I knew I wasn’t going to be able to be somebody else, so I decided to be nobody. I took the thing I was most successful at - writing to communicate - and I removed myself from the equation.
+
+
+
+And it worked. We got clients. We were projecting 80 percent of necessary income by March of 2020. Then, COVID hit, and we lost everything. All the clients we had immediately cut our contract, many closed for good. All the clients we had in our pipeline dropped out. By April of 2020, we had zero income and zero projected income. 
+
+
+
+When I was in high school, I launched my first business, a maid service. During COVID, I knew there was an increased demand for disinfectant teams to clean essential businesses in off hours. I started looking at starting or joining one of these teams to make ends meet, and I also sent desperate emails to everyone I’d ever worked with who I trusted or believed in, asking them what I could do for them that could get me even a little bit of income.
+
+
+
+I expected anyone who wanted my services to write back asking for cleaning or personal assistance. Unbeknownst to me, because I’d removed myself from the industry, people were starting to confront the issues I’d tried to fight against. The pause during lockdown allowed a lot of nonprofit workers to unlock their own anger at the racism, sexism, and small-time corruption in the industry.
+
+
+
+People in my community remembered how relentlessly I’d gone after nonprofit leadership who refused to operate under the values they claimed to have, and those were the people who reached out. All of a sudden, I was being asked to review handbooks, speeches, newsletters, blog posts, policy updates, and proposals. I was relied on as a source of advice on hiring and firing, disciplinary action, staff organizing, union negotiation -  everything that had anything to do with an org’s values and community. That was what people wanted from me, and that became my wheelhouse.
+
+
+
+After George Floyd's brutal and public murder by Minneapolis police officer Derek Chauvin, the city of Portland had 72 straight days of action. Not just to honor Mr. Floyd’s memory, but to protest the corrupt and excessively violent tactics of Portland Police Bureau - tactics that are still in use and still being litigated and investigated by the US Department of Justice today. 
+
+
+
+Because of my health, this was the first time I couldn't be on the line with my fellow activists, and I watched in horror night after night while they were brutally attacked. Many Portlanders experienced adverse health effects from tear gas, sometimes shot directly into residential areas; people were beaten badly by police for being part of peaceful protest or even being near the protest. Photojournalist Trip Jennings [lost an eye](https://www.cnn.com/2020/07/30/us/journalist-portland-protest-federal-agents-trnd/index.html) when police shot him directly in the face with a pepper ball, shattering his gas mask. 
+
+
+
+While I was by then in a position where I could contribute funding and supplies, it never felt like enough in the face of what we were standing against. That summer not only renewed my commitment to antiracism and social justice, it also woke a lot of people up to the fact that privilege cannot protect us from state violence. Many realized during this time that, as historian and activist Howard Zinn says, [you can’t be neutral on a moving train](https://www.howardzinn.org/collection/you-cant-be-neutral-autobiography/). When we are silent or inactive in face of smaller and more casual violations of people’s rights, or instances of racism around us in day to day life, that's just the tip of the iceberg in terms of what we are giving permission to. Eventually, the waters will recede and we will need to face the horrors we’ve been allowing to grow by our avoidance.
+
+
+
+Throughout Summer 2020 and into 2021, I became known as someone who didn't have to be educated on antiracism before I could get a job done, who could be a partner to those working in antiracist, anticapitalist, antifascist ways. I grew a clientele I was happy to work with and for. By this point, it was obvious that we were no longer a newsletter writing service. We were a communications firm with a strong voice, solid ethics, and a community-based network within Portland.
+
+
+
+When I first formulated my business plan in 2019, I thought I'd found a way to navigate the world in a way that didn't cost me so much. And while it wasn’t the new route for my life that I once thought it was, it did lead me out of the woods. I needed a period of time that didn’t hurt so much, during which I could heal. I needed a way to see how I could be productive in the ways I wanted to be, and to figure out how to support my family and myself without sacrificing my health or my sanity. 
+
+
+
+The practice of setting up a business that didn't put me front and center and didn't shout my values showed me what other people saw when they looked at me. I was so wrapped up in the people who said I was a nuisance and a problem that they were all I let myself hear. I wasn’t able to take my focus away from the people who criticized me for caring and doing too much.
+
+
+
+When I took myself out of the equation and regrouped, I realized how I actually wanted to work in the world - which remains centering my mental and physical health, taking care of people and paying a living wage, and doing work that creates actual change rather than just paying lip service to it. I also realized there are people here who count on me to tell the truth, to speak that truth to power, to speak up for the values we believe in. When I stopped doing that, it left a noticeable absence - not because I was the only person who filled that role, but because there were so few of us in 2019 that when one of us left the environment, it was felt throughout the industry.
+
+
+
+My business, newly defined, relaunched in 2021 as New Coyote Consulting. We named ourselves after the Aztec figure Huehuecóyotl, or Very Old Coyote, the trickster god whose troublemaking nature was inextricable from his wisdom. For four years now, we have been offering equity and communications consulting work for the values-based organizations who are continuing to show up for equity and antiracism every day, regardless of what’s in trend or who’s in office. 
+
+
+
+In our first year in operation, New Coyote became a [Benefit Corporation for Good](https://benefitcorporationsforgood.com/), joining a community of businesses committed to doing business the right way. Since 2020, I had worked out of a shed in my backyard, which I converted into an office with help from friends, family, and a few hired contractors. However, by October of 2023, being alone in my backyard was starting to feel like a prison, and we had grown enough - and COVID had receded enough - that I felt comfortable branching out. I joined a small office with my fellow Benefit Corporations for Good member [Bramske Studio Architecture](https://www.bing.com/alink/link?url=https%3a%2f%2fwww.bramske.com%2f&source=serp-local&h=l0ih9Yx6yxw39sW3oacUBRQUDEiZ4v7b3ZP59kGVFQ4%3d&p=lw_gbt&ig=3127B99EBE1847158EF91180E7752B41&ypid=YN873x7912626950553418407) on the East Side, and the separation between my home life and work life, as well as the additional social aspect has been so good for my extrovert soul. 
+
+
+
+Over the past four years, I’ve honed my instincts when working with people who only give mouth service to progressive values, learned how to draw better boundaries with clients, and refocused on impact for both myself and the people I choose to work with. And through it all, I’ve taken home the same amount - or more - than I was making at my last nonprofit job, while being able to provide a living wage for my employee and our contractors.
+
+
+
+
+
+
+
+I stopped listening to anyone who insisted on telling me the reasons why a business like New Coyote would never work. I don't have time anymore to second guess how I’m going to do the thing I’m already succeeding at doing. I just do it, and I’m very grateful to live in Portland and have the connections I have with fellow progressives and values-based orgs who realize that it’s not a question of should we or could we operate in this way, but HOW CAN WE operate in this way.
+
+
+
+If the last four years have taught me anything, it’s that we don’t have as much choice as we think we have when it comes to when and how we will be negatively impacted by capitalism and white supremacy. As nonprofit professionals, we think we can insulate ourselves against autocracy, mismanagement, underfunding; that we have created a haven where the for-profit world can’t infect us, but that isn’t true. When we allow racism and classism to run rampant in our orgs, especially our leadership, because we think the instances we see are benign or don't cause harm, we are hiding behind our own privilege. The harm is there, it just hasn’t reached us yet.
+
+
+
+When we say we stand up for marginalized people, and that we want our spaces to be safer and our communities to be diverse, and then we fail at protecting marginalized people and keeping our spaces safe, we are no better than the people who spend their time and money and energy trying to destroy our spaces. The end result is still environments that are unsafe and monolithic in culture, nature, and actions. To deal with the rise of American fascism, and climate change, and its horrific results; to protect the people most impacted; to be the people that we want to think that we are, we have to be persistent, brave, and get out of the theoretical and into the practical in our commitment to these values.
+
+
+
+New Coyote's stated mission is to radically transform the economic landscape of the Pacific Northwest by serving clients who are part of radical transformation, and creating and sharing accessible trainings for managers, leaders, and business owners so they can transform their own work as well. As Trump takes power, and he and his cronies attempt to turn the government’s primary mission to lining their own pockets, just as they did during his previous administration, we here in the PNW need to stick with our commitment to our values. We cannot be scared away from collective action, mutual aid, and ensuring fair compensation for those around us. 
+
+
+
+Either we stand together, or we fall apart. It is possible for us to be a place that is prosperous and healthy and safer than the other places in America where they've chosen to turn on one another and sacrifice their most marginalized community members to anti-trans laws, protect guns over school children, and remove pregnant people's bodily autonomy. 
+
+
+
+We know how to take care of ourselves and each other in ways that mitigate harm and create opportunity. New Coyote and our contemporaries have been doing work in this way for years now. We have a whole host of businesses and organizations that know how to operationalize our commitment to human rights, and we can lead and teach others who want to follow in this path. We need to do what we can to preserve our way of life which is progressive, compassionate, equity-focused, and abundant.
+
+
+
+\-New Coyote CEO and Founder Marina Martinez-Bateman
