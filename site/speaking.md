@@ -1,8 +1,8 @@
 ---
 layout: speaking/index.njk
 featured_engagements:
+  - tedxportland
 title: Speaking
-video: m9EX0f6V11Y
 eleventyNavigation:
   key: Speaking
   order: "4"
