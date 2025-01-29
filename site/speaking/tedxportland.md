@@ -3,7 +3,7 @@ title: TedxPortland
 date: 2025-01-24
 category:
   - Interview
-condition: Popular
+condition: NONE
 image:
   src: https://res.cloudinary.com/marinaforhire/image/upload/v1633990535/images/2021/10/CROPPED-Pepe-Moscoso-23_r5nq7d.jpg
   alt: A guy

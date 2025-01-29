@@ -6,7 +6,7 @@
         {% endif %}
     {% endif %}
 
-    {% if post.data.condition %}
+    {% if post.data.condition and post.data.condition != "NONE" %}
         <div class="absolute top-0 right-0 transform rotate-12 -translate-y-2 origin-bottom-right py-1 px-2 z-40 uppercase font-bold {{ condition_color }}">{{ post.data.condition }}</div>
     {% endif %}
     <div class="relative z-20 flex flex-col w-full p-4">

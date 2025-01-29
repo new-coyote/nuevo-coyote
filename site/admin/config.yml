@@ -91,7 +91,7 @@ fields:
     search_fields: ["title"]
     display_fields: ["title"]
     multiple: true
-      
+
 
 collections:
   - label: Pages
@@ -120,7 +120,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - label: "Date"
-        name: "date" 
+        name: "date"
         widget: "datetime"
         required: true
         picker_utc: false
@@ -201,7 +201,9 @@ collections:
       - label: Condition
         widget: select
         name: condition
+        default: NONE
         options:
+          - NONE
           - Up Next
           - Coming Soon
           - Popular
