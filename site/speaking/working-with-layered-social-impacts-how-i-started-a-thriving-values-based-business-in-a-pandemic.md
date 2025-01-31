@@ -1,17 +1,13 @@
 ---
 title: "Working with Layered Social Impacts: How I Started A Thriving
   Values-Based Business In a Pandemic"
-date: 2025-01-31
+date: 2023-10-12
 category:
   - How to
 condition: Popular
 image:
   src: https://res.cloudinary.com/marinaforhire/image/upload/v1633153067/coyote/2021/10/Marina_laugh_headshot_fomklz.jpg
-instances:
-  - date: 2023-10-12
-    start: 12:00 PM
-    end: 1:00 PM
-    location: Friends and Allies Fall Summit
+instances: []
 partners:
   - name: Portland Parks Foundation
     description: The Portland Parks Foundation mobilizes support to improve
