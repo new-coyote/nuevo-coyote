@@ -1,15 +1,16 @@
 ---
 layout: speaking/index.njk
+title: Speaking
 featured_engagements:
   - tedxportland
-title: Speaking
+  - creating-needs-based-workplans
 eleventyNavigation:
   key: Speaking
   order: "4"
 alias:
-  - "/speaking/"
-  - "/speaking/archive/"
-  - "/speaking/archive/1/"
+  - /speaking/
+  - /speaking/archive/
+  - /speaking/archive/1/
 ---
 
 [https://youtu.be/QAQj5BgmeuY](https://youtu.be/QAQj5BgmeuY "https://youtu.be/QAQj5BgmeuY")
