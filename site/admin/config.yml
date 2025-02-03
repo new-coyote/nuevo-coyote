@@ -188,7 +188,34 @@ collections:
         name: eleventyExcludeFromCollections
         default: false
         widget: boolean
-        hint: This with prevent this workshop from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
+        hint: This will prevent this workshop from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
+  - label: Work
+    name: work
+    create: true
+    folder: "site/work"
+    preview_path: "work/{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - *field-category
+      - *field-image
+      - *field-seo
+      - label: "Goals"
+        name: goals
+        widget: markdown
+      - label: "Outcomes"
+        name: outcomes
+        widget: markdown
+      - label: "learnings"
+        name: learnings
+        widget: markdown
+      - label: "Intro/Excerpt"
+        name: body
+        widget: markdown
+      - label: "Hide Work"
+        name: eleventyExcludeFromCollections
+        default: false
+        widget: boolean
+        hint: This will prevent this work from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
   - label: Speaking Engagement
     name: speaking
     create: true
@@ -281,6 +308,20 @@ collections:
             multiple: true
             value_field: "{{slug}}"
             search_fields: [title, partners.*, body]
+            display_fields: [title]
+          - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Work Index"
+        name: "work"
+        file: "site/work.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Featured Work"
+            name: featured_work
+            widget: relation
+            collection: work
+            multiple: true
+            value_field: "{{slug}}"
+            search_fields: [title, goals, outcomes, learnings, body]
             display_fields: [title]
           - {label: "Content", name: "body", widget: "markdown"}
   - label: Categories
