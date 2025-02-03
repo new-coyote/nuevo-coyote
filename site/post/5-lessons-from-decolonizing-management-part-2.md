@@ -8,29 +8,29 @@ Last year, we shared [8 Lessons from Decolonizing Management - Part 1](https://n
 
 This course for anti-capitalist leaders is loaded with helpful gems and tips for how to lead according to your core values and code of professional ethics. From HR Best Practices to coping with change, here are the four most important takeaways from the second half of Decolonizing Management.
 
-1. **HR can provide stability without staying stuck in the past**
+**1. HR can provide stability without staying stuck in the past**
 
 First of all, shout out to Nel from [Now This Consulting](https://www.nowthisconsulting.com/), who is our guest instructor for this section. Moving beyond merely providing DEI trainings, Now This centers justice, anti-racism, and intersectionality while providing a variety of support for organizations seeking to make long-term structural changes toward liberation. Check out [their website](https://www.nowthisconsulting.com/) for more on the important work they’re doing.
 
 In general, HR should do the best thing for employees and whomever is most affected while ensuring it’s done in a legal and sustainable way. You don’t have to do things just because “it’s tradition” or because it’s the way they’ve always been done. Raises, compensation, Cost of Living Adjustments (COLA), and benefits are all flexible things you can change as needed. For example, does an executive need an adjustment for cost of living when they are probably already earning far above a thriving rate? Or if they do, they need the same COLA as everyone else?
 
-2. **You can operate as an anticapitalist in a capitalist system**
+**2. You can operate as an anticapitalist in a capitalist system**
 
 Operating as an anticapitalist within capitalism is no easy feat, but it is possible to take small steps that make a big difference in building and maintaining a positive, human-first workplace culture. Some good guiding principles to follow include centering our values and centering those most affected by changes and workplace pressures; negotiating away from the status quo; standing up for our direct reports and understanding that we have more in common with them than with the financer or owner of our organization. 
 
-3. **Workplace abuse can be overt or covert**
+**3. Workplace abuse can be overt or covert**
 
 Identifying workplace abuse is the first step in doing something about it, and it may manifest in ways that aren't immediately identifiable as abuse. 
 
 It can be direct, as when someone uses racist, sexist, or abusive language and behavior against their staff or their fellow employees; or indirect, as when that same behavior is ignored or tolerated. In an abusive workplace, the employee who objects to bad behavior may be directly punished with write-ups or being placed on a Performance Improvement Plan, or indirectly punished with a loss of support within the organization. Sometimes it can manifest as unequal treatment, like staff being written up for actions that are normally overlooked. 
 
-4. **Sometimes you have to blow the whistle**
+**4. Sometimes you have to blow the whistle**
 
 Whistleblowers rarely, if ever, experience positive consequences for what they do. Whistleblowers may experience professional consequences, or even be harassed, threatened, or killed, sometimes years or decades after they blow the whistle.
 
 If and when it’s time to blow the whistle on a dangerous or immoral situation, you’ll know that the risk to your own safety is more than worth it to prevent others from being hurt. If that time has come, it’s best to enter into the process with as much foresight as you can get. Document everything, make a release plan for when you will deliver information and to who, and plan ahead as much as possible what might occur after you blow the whistle, including the possibility of your identity being revealed.
 
-5. **Hope for the best, but prepare for the worst**
+**5. Hope for the best, but prepare for the worst**
 
 Change - even “good” change -  is inevitable, frequently unpredictable, often difficult, and usually involves grief. Change is also an opportunity to skill-up and expand, particularly in business. Planning ahead is the best thing you can do as you and your team navigate a transition. 
 
@@ -52,4 +52,4 @@ o	Decolonizing Management students continue learning more about how to bring equ
 
 
 
- If you’re interested in the full course, the Spring cohort of Decolonizing Management runs from March 5 - May 21, so [sign up](https://decolonizing.management/) before February 26 to learn in community with a diverse group of nonprofit professionals committed to changing the way that we do business.
+ If you’re interested in the full course, the Spring cohort of Decolonizing Management runs from March 5 - May 21. [Sign up](https://decolonizing.management/) before February 26 to learn in community with a diverse group of nonprofit professionals committed to changing the way that we do business.
