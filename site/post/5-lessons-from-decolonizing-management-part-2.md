@@ -8,7 +8,7 @@ Last year, we shared [8 Lessons from Decolonizing Management - Part 1](https://n
 
 This course for anti-capitalist leaders is loaded with helpful gems and tips for how to lead according to your core values and code of professional ethics. From HR Best Practices to coping with change, here are the four most important takeaways from the second half of Decolonizing Management.
 
-1.	**HR can provide stability without staying stuck in the past**
+1. **HR can provide stability without staying stuck in the past**
 
 First of all, shout out to Nel from [Now This Consulting](https://www.nowthisconsulting.com/), who is our guest instructor for this section. Moving beyond merely providing DEI trainings, Now This centers justice, anti-racism, and intersectionality while providing a variety of support for organizations seeking to make long-term structural changes toward liberation. Check out [their website](https://www.nowthisconsulting.com/) for more on the important work they’re doing.
 
@@ -32,13 +32,13 @@ In an abusive workplace, the employee who objects to bad behavior may be directl
 
 Workplace abuse is NOT when someone has legitimate criticism of your performance and goes through proper channels to address it; or when a person from a marginalized group points out your privilege or asks you to be less oppressive. It also isn’t workplace abuse when someone doesn't want to be your friend but is otherwise professional.
 
-4. How to whistleblow on a boss
+4. **Sometimes you have to blow the whistle**
 
 Whistleblowers rarely, if ever, experience positive consequences for what they do. Whistleblowers may experience professional consequences, or even be harassed, threatened, or killed, sometimes years or decades after they blow the whistle.
 
 If and when it’s time to blow the whistle on a dangerous or immoral situation, you’ll know that the risk to your own safety is more than worth it to prevent others from being hurt. If that time has come, it’s best to enter into the process with as much foresight as you can get. Document everything, make a release plan for when you will deliver information and to who, and plan ahead as much as possible what might occur after you blow the whistle, including the possibility of your identity being revealed.
 
-5.	**Hope for the best, but prepare for the worst**
+5. **Hope for the best, but prepare for the worst**
 
 Change - even “good” change -  is inevitable, frequently unpredictable, often difficult, and usually involves grief. Change is also an opportunity to skill-up and expand, particularly in business. Planning ahead is the best thing you can do as you and your team navigate a transition. 
 
@@ -57,3 +57,7 @@ o	Decolonizing Management students also frequently move into higher levels of le
 o	Former Decolonizing Management students go on to teach others as trainers; with industry-specific presentations and speaking opportunities
 
 o	Furthermore, Decolonizing Management students continue learning more about how to bring equity and liberation into their industries as a daily learning practice, some by applying their knowledge to the academic environment by seeking out formal education in their field
+
+
+
+ If you’re interested in the full course, the Spring cohort of Decolonizing Management runs from March 5 - May 21, so [sign up](https://decolonizing.management/) before February 26 to learn in community with a diverse group of nonprofit professionals committed to changing the way that we do business.
