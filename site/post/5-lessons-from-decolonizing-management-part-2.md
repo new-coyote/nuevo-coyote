@@ -14,21 +14,15 @@ First of all, shout out to Nel from [Now This Consulting](https://www.nowthiscon
 
 In general, HR should do the best thing for employees and whomever is most affected while ensuring it’s done in a legal and sustainable way. You don’t have to do things just because “it’s tradition” or because it’s the way they’ve always been done. Raises, compensation, Cost of Living Adjustments (COLA), and benefits are all flexible things you can change as needed. For example, does an executive need an adjustment for cost of living when they are probably already earning far above a thriving rate? Or if they do, they need the same COLA as everyone else?
 
-Another great resource is the [Job Accommodation Network (JAN)](https://askjan.org/), AKA every manager’s best friend when it comes to accommodations. They have accommodations for neurodivergence, too, such as ADHD and autism spectrum disorder. 
-
 2. **You can operate as an anticapitalist in a capitalist system**
 
-Operating as an anticapitalist within a capitalism system is no easy feat, but it is possible to take small steps that make a big difference in building and maintaining a positive, human-first workplace culture. Some good guiding principles to follow include centering our values and centering those most affected by changes and workplace pressures; negotiating away from the status quo; standing up for our direct reports and understanding that we have more in common with them than with the financer or owner of our organization. 
-
-Additionally, it’s crucial to be able to discern when it’s time to leave a situation in which you can no longer do good work. Keep an eye out for red flags like abusive behavior, loss of resources, or loss of support from your staff or higher-ups, but more simply, it might be the right time to leave just because you can be more fulfilled and do good work elsewhere.  
+Operating as an anticapitalist within capitalism is no easy feat, but it is possible to take small steps that make a big difference in building and maintaining a positive, human-first workplace culture. Some good guiding principles to follow include centering our values and centering those most affected by changes and workplace pressures; negotiating away from the status quo; standing up for our direct reports and understanding that we have more in common with them than with the financer or owner of our organization. 
 
 3. **Workplace abuse can be overt or covert**
 
 Identifying workplace abuse is the first step in doing something about it, and it may manifest in ways that aren't immediately identifiable as abuse. 
 
 It can be direct, as when someone uses racist, sexist, or abusive language and behavior against their staff or their fellow employees; or indirect, as when that same behavior is ignored or tolerated. In an abusive workplace, the employee who objects to bad behavior may be directly punished with write-ups or being placed on a Performance Improvement Plan, or indirectly punished with a loss of support within the organization. Sometimes it can manifest as unequal treatment, like staff being written up for actions that are normally overlooked. 
-
-Workplace abuse is NOT when someone has legitimate criticism of your performance and goes through proper channels to address it; or when a person from a marginalized group points out your privilege or asks you to be less oppressive. It also isn’t workplace abuse when someone doesn't want to be your friend but is otherwise professional.
 
 4. **Sometimes you have to blow the whistle**
 
@@ -54,7 +48,7 @@ o	Decolonizing Management students also frequently move into higher levels of le
 
 o	Former Decolonizing Management students go on to teach others as trainers; with industry-specific presentations and speaking opportunities
 
-o	Furthermore, Decolonizing Management students continue learning more about how to bring equity and liberation into their industries as a daily learning practice, some by applying their knowledge to the academic environment by seeking out formal education in their field
+o	Decolonizing Management students continue learning more about how to bring equity and liberation into their industries as a daily learning practice, some by applying their knowledge to the academic environment by seeking out formal education in their field
 
 
 
