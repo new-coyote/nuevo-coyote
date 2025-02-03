@@ -24,11 +24,9 @@ Additionally, it’s crucial to be able to discern when it’s time to leave a s
 
 3. **Workplace abuse can be overt or covert**
 
-Identifying workplace abuse is the first step in doing something about it. 
+Identifying workplace abuse is the first step in doing something about it, and it may manifest in ways that aren't immediately identifiable as abuse. 
 
-Workplace abuse can manifest in a multitude of unpleasant ways. It can be direct, as when someone uses racist, sexist, or abusive language and behavior against their staff or their fellow employees; or indirect, as when that same behavior is ignored or tolerated. 
-
-In an abusive workplace, the employee who objects to bad behavior may be directly punished with write-ups or being placed on a Performance Improvement Plan, or indirectly punished with a loss of support within the organization. This may show up as lack of communication, meetings being canceled, budgets or positions being cut punitively. Sometimes it can manifest as unequal treatment, like staff being written up for actions that are normally overlooked. 
+It can be direct, as when someone uses racist, sexist, or abusive language and behavior against their staff or their fellow employees; or indirect, as when that same behavior is ignored or tolerated. In an abusive workplace, the employee who objects to bad behavior may be directly punished with write-ups or being placed on a Performance Improvement Plan, or indirectly punished with a loss of support within the organization. Sometimes it can manifest as unequal treatment, like staff being written up for actions that are normally overlooked. 
 
 Workplace abuse is NOT when someone has legitimate criticism of your performance and goes through proper channels to address it; or when a person from a marginalized group points out your privilege or asks you to be less oppressive. It also isn’t workplace abuse when someone doesn't want to be your friend but is otherwise professional.
 
@@ -44,7 +42,7 @@ Change - even “good” change -  is inevitable, frequently unpredictable, ofte
 
 When preparing for a change, be realistic rather than optimistic. Avoid sharing worst-case scenarios with anyone but fellow decision makers, but do plan ahead. For example, if you have the resources to overstaff, do so in case you lose crucial staff during transition and need to fill those gaps.
 
-Most importantly, listen to your staff, take their feelings into account, and don't push them - or yourself - into burnout with overwork. 
+Most importantly, listen to your staff, take their feelings into account, and don't push them - or yourself - into burnout with overwork. Burnout does not lead to good decision-making.
 
 **Why Sign Up for Decolonizing Management?**
 
