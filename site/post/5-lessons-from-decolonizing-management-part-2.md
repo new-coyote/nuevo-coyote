@@ -50,6 +50,4 @@ o	Former Decolonizing Management students go on to teach others as trainers; wit
 
 o	Decolonizing Management students continue learning more about how to bring equity and liberation into their industries as a daily learning practice, some by applying their knowledge to the academic environment by seeking out formal education in their field
 
-
-
  If you’re interested in the full course, the Spring cohort of Decolonizing Management runs from March 5 - May 21. [Sign up](https://decolonizing.management/) before February 26 to learn in community with a diverse group of nonprofit professionals committed to changing the way that we do business.
