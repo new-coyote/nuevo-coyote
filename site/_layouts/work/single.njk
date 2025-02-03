@@ -1,0 +1,46 @@
+---
+layout: columns.njk
+---
+<div class="w-header max-w-full mx-auto -mt-24 -mb-24 md:min-h-page-content">
+    <div class="work-body">
+        <div class="work-text body-style novel-style leading-relaxed prose px-4 md:px-6 md:pl-0">
+            {% if goals %}
+                <section class="work-goals body-style">
+                    <h2 class="text-2xl">Goals</h2>
+                    <div >{{ goals | markdownify | safe }}</div>
+                </section>
+            {% endif %}
+            {% if outcomes %}
+                <section class="work-outcomes body-style">
+                    <h2 class="text-2xl">Outcomes</h2>
+                    <div >{{ outcomes | markdownify | safe }}</div>
+                </section>
+            {% endif %}
+            {% if learnings %}
+                <section class="work-learnings body-style">
+                    <h2 class="text-2xl">Learnings</h2>
+                    <div >{{ learnings | markdownify | safe }}</div>
+                </section>
+            {% endif %}
+        </div>
+        <div class="work-sidebar">
+            {% if image %}
+                {% import "macros/image.njk" as image_tools %}
+                {{ image_tools.image(image, class="work-image block w-full mb-4", width=300, srcset=[768, 1536], sizes="(min-width: 768px) 300px, 100vw") }}
+            {% endif %}
+            {% if category.length > 0 %}
+                <div class="work-category uppercase text-xs mb-2 px-4">
+                    <span class="inline">
+                        {% for term in category %}
+                            {% set category = collections.categories | get_cat_from_term_path(term) %}
+                            <a href="{{ category.url }}" class="underline mr-1">{{ category.data.title }}</a>
+                        {% endfor %}
+                    </span>
+                </div>
+            {% endif %}
+            <div class="body-style novel-style leading-relaxed prose px-4 md:px-6">
+            {{ content | safe }}
+            </div>
+        </div>
+    </div>
+</div>
