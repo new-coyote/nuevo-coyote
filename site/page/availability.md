@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 6
 blocks:
   - type: block-image
-    image: https://res.cloudinary.com/marinaforhire/image/upload/v1737513124/2025.JAN_New_Coyote_Availability_kdftnk.jpg
+    image: https://res.cloudinary.com/marinaforhire/image/upload/v1741300846/2025_MARCH_New_Coyote_Availability_kjl5mv.png
     alt_text: Image showing New Coyote availability, with content creation,
       coaching, and one-on-one available in June, speaking available in July,
       end of year giving in August, and training in October.
