@@ -10,10 +10,10 @@ image:
     human-centered, anticapitalist manager. Designed and facilitated by New
     Coyote CEO Marina Martinez-Bateman."
 instances:
-  - date: 2025-03-05
+  - date: 2025-07-24
     location: Zoom
-    start: 2:00 PM
-    end: 04:00 PM
+    start: 11:00 AM
+    end: 01:00 PM
 seo:
   noindex: false
   title: Decolonizing Management
@@ -28,12 +28,12 @@ If you feel like there must be better ways to manage people and reach your organ
 
 This 12-week course dives deep into the fundamentals of management, from budgeting to change management, with the understanding that hierarchies of dominance do not create environments that allow us to thrive, either as individuals or as a team. Learn alternative strategies and new ways of operating, based on ancestral practices, to decolonize yourself and your workplace.
 
-Decolonizing Management has a Spring session and a Summer session. The next session takes place from March 5 to May 21, 2025. [Sign up now](https://decolonizing.management/) to save your spot!
+Decolonizing Management has a Spring session and a Summer session. The next session takes place from July 24 to October 9, 2025. [Sign up now](https://decolonizing.management/) to save your spot!
 
 ## Course Structure
 
 1. Management Structures
-2. The Nonprofit Industry's White Supremacist History
+2. Capitalism and Anti-Blackness
 3. Supervisory Styles 
 4. Budgeting
 5. Ethical Hiring 
