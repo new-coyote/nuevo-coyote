@@ -2,7 +2,7 @@
 title: "Pride Under Peril: 2025 Pride Month Statement"
 date: 2025-06-26T16:47:00.000Z
 image:
-  src: https://res.cloudinary.com/marinaforhire/video/upload/v1750981839/Pride_Month_NCC_1_czhyl4.mp4
+  src: https://res.cloudinary.com/marinaforhire/image/upload/v1750982358/Pride_Month_NCC_1_etntdt.jpg
 ---
 June 28, 2025 marks the 56th anniversary of the Stonewall Uprising, commemorating the day patrons of a New York gay bar, the Stonewall Inn, fought back against a violent and discriminatory police raid before taking to the streets for a five-day revolt. 
 
