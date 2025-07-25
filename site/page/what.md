@@ -37,6 +37,9 @@ blocks:
       Nonprofit consulting
 
 
+      Facilitation
+
+
       Restorative justice process
 
 
@@ -44,9 +47,6 @@ blocks:
 
 
       Campaign management and execution
-
-
-      Communications department restructure
     link_url: https://newcoyote.com/contact/
   - type: block-text
     heading: COBID Certified
