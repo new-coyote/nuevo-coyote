@@ -28,7 +28,7 @@ blocks:
       Coaching
 
 
-      Grant Writing
+      Grant writing
 
 
       Hiring process
