@@ -28,10 +28,16 @@ blocks:
       Coaching
 
 
+      Grant Writing
+
+
       Hiring process
 
 
       Nonprofit consulting
+
+
+      Restorative justice process
 
 
       Communications department for hire
@@ -41,9 +47,6 @@ blocks:
 
 
       Communications department restructure
-
-
-      Grant Writing
     link_url: https://newcoyote.com/contact/
   - type: block-text
     heading: COBID Certified
