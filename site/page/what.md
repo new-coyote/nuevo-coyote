@@ -28,6 +28,9 @@ blocks:
       Coaching
 
 
+      Facilitation
+
+
       Grant writing
 
 
@@ -35,9 +38,6 @@ blocks:
 
 
       Nonprofit consulting
-
-
-      Facilitation
 
 
       Restorative justice process
