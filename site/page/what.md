@@ -9,11 +9,11 @@ eleventyNavigation:
 blocks:
   - type: block-callout
     link_text: Contact us for quotes
-    heading: Equity and Communications Consulting
+    heading: Human Centered Management and Communications Consulting
     content: >-
-      After beginning an equity journey, many organizations find their old
-      messaging doesn't line up with their current vision. New Coyote is the
-      firm to help you bridge that gap.
+      For organizations that are values-led, who put people first and focus on
+      impact over image, New Coyote is the no nonsense firm you've been looking
+      for.
 
 
       **We Offer:**
