@@ -13,10 +13,13 @@ blocks:
       ## Hi, I'm Marina and I'm the CEO of New Coyote Consulting.
 
 
-      I'm the person you'll be working with on assessments, consulting, coaching and training. New Coyote is my brain child, and is born of many years' experience applying equity and human-centered systems to communications strategy. I built it to be a new kind of company, a place that puts human beings over performative capitalist expectations that only waste time, lead to burn out, and don't make any money for a middle class company like mine.
+      I'm the person you'll be working with on consulting, coaching, facilitation, and training. New Coyote is my brain child, and is born of many years' experience applying anti-fascist, human-centered systems to communications strategy. I built it to be a new kind of company, a place that puts people over performative capitalist expectations that only waste time, lead to burn out, and don't make any money for a middle class company like mine.
 
 
-      I'm a serial entrepreneur, grassroots communicator, and skilled facilitator with more than 20 years' experience motivating people to take action on behalf of political, cultural, and commercial interests. I take my commitment to the people I communicate with very seriously. My ongoing equity and workers' rights practice has made me a popular speaker, trainer, and peer mentor in the industry.
+      I'm a serial entrepreneur, grassroots communicator, and skilled facilitator with more than 20 years' experience motivating people to take action on behalf of political, cultural, and commercial interests. I take my commitment to the people I communicate with very seriously. My ongoing anti-racism and workers' rights practice has made me a popular speaker, trainer, and peer mentor in the industry.
+
+
+      In 2025, I completed  Golden Repair, a post-graduate course in restorative justice led by Sidney Morgan of [Red Sea Road Consulting](https://www.redsearoadconsulting.com/), and am happy to add circles of repair to my existing facilitation offerings of worker-centered mediation, and strategy. 
 
 
       I have successfully created, consulted on, planned, and launched multiple businesses and projects that make money without sacrificing principles or values. My success in business is directly tied to my lived experience and those of my ancestors, who live on through me.
