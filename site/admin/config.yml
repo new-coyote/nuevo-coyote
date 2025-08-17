@@ -2,6 +2,7 @@ local_backend: true
 backend:
   name: github
   repo: new-coyote/nuevo-coyote
+  branch: speaking
 
 site_url: https://newcoyote.com
 
@@ -90,7 +91,7 @@ fields:
     search_fields: ["title"]
     display_fields: ["title"]
     multiple: true
-      
+
 
 collections:
   - label: Pages
@@ -119,7 +120,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - label: "Date"
-        name: "date" 
+        name: "date"
         widget: "datetime"
         required: true
         picker_utc: false
@@ -187,7 +188,97 @@ collections:
         name: eleventyExcludeFromCollections
         default: false
         widget: boolean
-        hint: This with prevent this workshop from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
+        hint: This will prevent this workshop from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
+  - label: Work
+    name: work
+    create: true
+    folder: "site/work"
+    preview_path: "work/{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - *field-category
+      - *field-image
+      - *field-seo
+      - label: "Goals"
+        name: goals
+        widget: markdown
+      - label: "Outcomes"
+        name: outcomes
+        widget: markdown
+      - label: "learnings"
+        name: learnings
+        widget: markdown
+      - label: "Intro/Excerpt"
+        name: body
+        widget: markdown
+      - label: "Hide Work"
+        name: eleventyExcludeFromCollections
+        default: false
+        widget: boolean
+        hint: This will prevent this work from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
+  - label: Speaking Engagement
+    name: speaking
+    create: true
+    folder: "site/speaking"
+    preview_path: "speaking/{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - *field-date
+      - *field-category
+      - label: Condition
+        widget: select
+        name: condition
+        default: NONE
+        options:
+          - NONE
+          - Up Next
+          - Coming Soon
+          - Popular
+          - Online
+          - Sold Out
+      - *field-image
+      - label: "Instances"
+        hint: These describe details of specific instances of the speaking engagement. All engagements must have at least once, but some can have many.
+        widget: list
+        name: instances
+        min: 1
+        label_singular: "instance"
+        summary: "{{fields.date}} from {{fields.start}} to {{fields.end}} at {{fields.location}}"
+        fields:
+          - *field-date
+          - label: "Start Time"
+            name: start
+            widget: string
+            time_format: HH:MM A
+            hint: "Enter time as HH:MM PM/AM, i.e. '7:30 AM'. Assumes PST."
+          - label: "End Time"
+            name: end
+            widget: string
+            time_format: HH:MM A
+            hint: "Enter time as HH:MM PM/AM, i.e. '7:30 AM'. Assumes PST."
+          - label: "Location"
+            name: location
+      - label: "Repeat"
+        name: repeat
+        widget: string
+        required: false
+        hint: If this event repeats, describe how (i.e. "Every month on the first Tuesday"). This is displayed to visitors to help them understand the event's structure, but is **not** used by the site to generate a schedule.
+      - label: "Partners"
+        name: partners
+        widget: list
+        fields:
+          - {label: "Name", name: name, widget: "string"}
+          - {label: "URL", name: url, widget: "string", require: false}
+          - {label: "Description", name: description, widget: "markdown", required: false}
+      - *field-seo
+      - label: "Content"
+        name: body
+        widget: markdown
+      - label: "Hide Speaking Engagement"
+        name: eleventyExcludeFromCollections
+        default: false
+        widget: boolean
+        hint: This with prevent this speaking engagement from appearing on the site. Usually you should prefer using the "Unpublish" functionality to accomplish this, but in some cases this will be more appropriate.
   - label: "Special Pages"
     name: "special-pages"
     files:
@@ -203,6 +294,34 @@ collections:
             multiple: true
             value_field: "{{slug}}"
             search_fields: [title, partners.*, body]
+            display_fields: [title]
+          - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Speaking Index"
+        name: "speaking-index"
+        file: "site/speaking.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Featured Speaking Engagements"
+            name: featured_engagements
+            widget: relation
+            collection: speaking
+            multiple: true
+            value_field: "{{slug}}"
+            search_fields: [title, partners.*, body]
+            display_fields: [title]
+          - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Work Index"
+        name: "work"
+        file: "site/work.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - label: "Featured Work"
+            name: featured_work
+            widget: relation
+            collection: work
+            multiple: true
+            value_field: "{{slug}}"
+            search_fields: [title, goals, outcomes, learnings, body]
             display_fields: [title]
           - {label: "Content", name: "body", widget: "markdown"}
   - label: Categories
