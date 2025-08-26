@@ -41,6 +41,10 @@ I work with Organizations in order to provide Decolonizing Management to their s
 11. Change Management 
 12. Reflection and Graduation
 
+## [Contact Us](https://newcoyote.com/contact/)
+
+To learn more and register your organization. 
+
 ## Testimonials
 
 "I took the first version of this course when it was housed by The People's Nonprofit Accelerator, and I am so excited to see Marina expand on that groundwork and really make this course their own. My cohort and I learned about alternative organizational structures, hiring and firing, performance improvement plans and more through a decolonized community-centric lens. It doesn't hurt that Marina is down to earth and so fun to be around and learn from! This is a course for anyone looking to make radical changes in how we do leadership."
