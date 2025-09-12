@@ -1,5 +1,5 @@
 ---
-title: You Are the Leader You're Looking For
+title: You Are the Leader You've Been Looking For
 date: 2025-08-25
 category:
   - How to
