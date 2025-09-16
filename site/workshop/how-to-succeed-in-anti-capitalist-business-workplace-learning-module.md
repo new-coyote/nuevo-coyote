@@ -1,5 +1,5 @@
 ---
-title: How to Succeed in Anti-Capitalist Business Updated for 2025
+title: "How to Succeed in Anti-Capitalist Business: Fall 2025"
 date: 2021-06-09
 category:
   - How to
