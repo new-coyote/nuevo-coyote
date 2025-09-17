@@ -24,11 +24,26 @@ eleventyExcludeFromCollections: false
 ---
 **Are you done working long hours for little reward? Do you find yourself at odds with conventional professional and business advice? This course will help you achieve your professional goals without sacrificing your life and values.**
 
+**DATES:** 
+
+October 22, 2025\
+October 29, 2025\
+November 5, 2025\
+November 12, 2025
+
+**TIME:**
+
+6:00-7:30pm Pacific Time 
+
+**LOCATION:** 
+
+Zoom, students will get their invite within 2 business days of registration. 
+
 Originally designed for the [Portland Underground Graduate School (PUGS)](https://www.pugspdx.com/), this training workshop is designed for those who want to earn wealth and resources without exacerbating the system of exploitation we find ourselves in.
 
-Commerce is as old, if not older, than humanity itself. Capitalism has only been here for about 300 years. As a business-minded person, you have probably been called a capitalist, or even taught that capitalism is the best economic system for someone like you. But if that's true, why is it that capitalism so often pushes us to do things completely against our personal values?
+**[CLICK HERE TO REGISTER TODAY](https://book.stripe.com/dRm6oz62l94Da1i2uq4AU00)**
 
-[](https://newcoyote.com/contact/)
+Commerce is as old, if not older, than humanity itself. Capitalism has only been here for about 300 years. As a business-minded person, you have probably been called a capitalist, or even taught that capitalism is the best economic system for someone like you. But if that's true, why is it that capitalism so often pushes us to do things completely against our personal values?[](https://newcoyote.com/contact/)
 
 In this course you will:
 
