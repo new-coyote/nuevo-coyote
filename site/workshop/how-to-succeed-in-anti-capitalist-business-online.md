@@ -26,10 +26,11 @@ eleventyExcludeFromCollections: false
 
 **DATES:** 
 
-October 22, 2025\
+\
 October 29, 2025\
 November 5, 2025\
-November 12, 2025
+November 12, 2025\
+November 19, 2025
 
 **TIME:**
 
