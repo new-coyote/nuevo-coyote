@@ -19,7 +19,7 @@ We are a full-service firm providing coaching, training, strategy, content creat
 
 Check out our website at [newcoyote.com](https://newcoyote.com/) to learn more about who we are and what we do.
 
-New Coyote became a certified benefit company in January of 2021.
+New Coyote became a [certified benefit company](https://benefitcorporationsforgood.com/) in January of 2021.
 
 ## Our Mission
 
