@@ -1,5 +1,5 @@
 ---
-date: 2024-06-10
+date: 2025-11-18T14:03:00.000Z
 eleventyExcludeFromCollections: false
 title: "New Coyote Consulting: 2024  Annual Benefit Corporation Report"
 image:
