@@ -1,6 +1,6 @@
 ---
-title: "How to Succeed in Anti-Capitalist Business: Fall 2025"
-date: 2021-06-09
+title: "How to Succeed in Anti-Capitalist Business: January 2026"
+date: 2025-11-20
 category:
   - How to
 condition: Up Next
@@ -26,11 +26,11 @@ eleventyExcludeFromCollections: false
 
 **DATES:** 
 
-\
-October 29, 2025\
-November 5, 2025\
-November 12, 2025\
-November 19, 2025
+TUESDAY\
+January 13, 2026\
+January 20, 2026\
+January 27, 2026\
+February 2, 2026
 
 **TIME:**
 
