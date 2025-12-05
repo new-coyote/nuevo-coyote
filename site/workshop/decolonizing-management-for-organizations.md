@@ -47,6 +47,20 @@ To learn more and register your organization.
 
 ## Testimonials
 
+"Before taking New Coyote's Decolonizing Management course, I often felt in over my head and relied on management styles I’d observed without understanding why they worked. The course shifted my view of leadership from 'taking care' of people and holding them accountable to empowering them to do their best — while still offering support and accountability in values-aligned ways.
+
+Marina’s warm, insightful, and gently challenging facilitation helped me recognize how my own tendencies toward overachieving and people-pleasing shaped my view of success. They created a space where we weren’t performing for approval but learning for ourselves, which was transformative.
+
+The cohort conversations were just as valuable, shaping each session and offering perspectives from people in both similar and very different roles.
+
+Anyone who manages — or thinks they already know what good management looks like — needs this course. It grounded my leadership in values, intention, and care."
+
+**Emily Teixera of Politisit**
+
+"I have the pleasure of participating in New Coyote's decolonizing management training, and it was amazing! I am a consultant who works with managers, directors, and executives. I offer coaching and have applied the knowledge I've gained from attending this training. I've also grown my own knowledge from this series, and Marina created resources we can use long after the training. Their series also lends itself to networking with other participants about the work they are doing. It is an eye-opening and deeply knowledgeable training, and I highly recommend it." 
+
+**Sidney Morgan of Red Sea Road Consulting**
+
 "I took the first version of this course when it was housed by The People's Nonprofit Accelerator, and I am so excited to see Marina expand on that groundwork and really make this course their own. My cohort and I learned about alternative organizational structures, hiring and firing, performance improvement plans and more through a decolonized community-centric lens. It doesn't hurt that Marina is down to earth and so fun to be around and learn from! This is a course for anyone looking to make radical changes in how we do leadership."
 
 **Nel Taylor of Now This Consulting**
