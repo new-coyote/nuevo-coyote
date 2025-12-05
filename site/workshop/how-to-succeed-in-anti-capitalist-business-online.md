@@ -73,3 +73,7 @@ We talk about what anti-capitalism looks like in the context of our roles as bus
 We convene a final time to talk about what our experience has been applying this knowledge, what we plan to carry with us after the class is over as well as any wins or challenges. Many of the concepts we learn here are extremely new or, only recently re-introduced and we are all always growing in our awareness.
 
 COMING SOON: How to Succeed in Anti-Capitalist Business Part 2
+
+
+
+"It was an affirmative and a restorative experience for me participating in the How to Succeed in Anti-Capitalist Business course. As someone who's been self-educating and practicing, I found the course comprehensive, supportive, and informative. For anyone who's curious and interested about how to thrive without the limitations from the conventional capitalism system, this course is for you." - ZF
