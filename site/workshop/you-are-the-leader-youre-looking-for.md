@@ -1,6 +1,6 @@
 ---
 title: You Are the Leader You've Been Looking For
-date: 2025-08-25
+date: 2026-03-09
 category:
   - How to
 condition: Popular
@@ -12,6 +12,7 @@ image:
     their heads
   credit": "Photo: Eliana Mendez, Human Centric Media; Design: New Coyote "
   credit_url: https://www.humancentricmedia.com/
+instances: []
 partners:
   - name: Human Centric Media
     url: https://www.humancentricmedia.com/
