@@ -1,6 +1,6 @@
 ---
-title: "The Pat Principal: When Competent Women Get Retrained Out of their Skill
-  to Make Mediocre Men More Comfortable"
+title: "The Pat Principal: When Competent Women Get Retrained Out of their
+  Skills to Make Mediocre Men More Comfortable"
 date: 2026-03-09T13:49:00.000Z
 image:
   src: https://res.cloudinary.com/marinaforhire/image/upload/v1610168632/images/2021/01/Big_Shoes_-_Discussion_onnrmg.png
