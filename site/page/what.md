@@ -19,34 +19,19 @@ blocks:
       **We Offer:**
 
 
-      Strategy
+      Training in Decolonizing and Anti-Racist Management
 
 
-      Training
-
-
-      Coaching
-
-
-      Facilitation
-
-
-      Grant writing
-
-
-      Hiring process
+      Coaching and Facilitation
 
 
       Nonprofit consulting
 
 
-      Restorative justice process
+      Restorative Justice Processes
 
 
-      Communications department for hire
-
-
-      Campaign management and execution
+      Organizational and Campaign Strategy
     link_url: https://newcoyote.com/contact/
   - type: block-text
     heading: COBID Certified
