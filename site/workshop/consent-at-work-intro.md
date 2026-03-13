@@ -2,8 +2,8 @@
 title: Consent At Work (Intro)
 date: 2021-01-08
 category:
-  - site/taxonomy/category/how-to.md
-condition: ""
+  - How to
+condition: Online
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610167422/images/2021/01/Open_Figures_-_Chatting_bfaten.png
   alt: ""
