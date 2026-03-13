@@ -3,6 +3,8 @@ layout: workshop/index.njk
 title: Workshops
 featured_workshops:
   - decolonizing-management-for-organizations
+  - imposter-syndrome-in-a-scam-economy
+  - generative-conflict-and-collaborative-problem-solving
   - you-are-the-leader-youre-looking-for
   - confronting-toxic-productivity-workplace-learning-module
   - how-to-succeed-in-anti-capitalist-business-online
@@ -11,6 +13,7 @@ featured_workshops:
   - creating-needs-based-workplans
   - nonprofit-anonymous
   - working-with-layered-social-impacts-how-i-started-a-thriving-values-based-business-in-a-pandemic
+  - intro-to-anti-racist-systems-workplace-learning-module
 video: m9EX0f6V11Y
 eleventyNavigation:
   key: Workshops
