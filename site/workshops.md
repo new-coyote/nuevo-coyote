@@ -13,6 +13,7 @@ featured_workshops:
   - creating-needs-based-workplans
   - nonprofit-anonymous
   - working-with-layered-social-impacts-how-i-started-a-thriving-values-based-business-in-a-pandemic
+  - intro-to-anti-racist-systems-workplace-learning-module
 video: m9EX0f6V11Y
 eleventyNavigation:
   key: Workshops
