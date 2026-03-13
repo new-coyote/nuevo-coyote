@@ -58,9 +58,13 @@ blocks:
   - type: block-text
     heading: Memberships
     content: >-
-      
+      <a href="https://www.orpib.com/">
 
-      ![The Logo for Portland Q Center and ORPIB's Stand on Business program ](https://res.cloudinary.com/marinaforhire/image/upload/v1773430757/SOB_DECAL_4x_heoun7.png "ORPIB + Q Center")
+
+      ![The Logo for Portland Q Center and ORPIB's Stand on Business program ](https://res.cloudinary.com/marinaforhire/image/upload/v1773431591/Untitled_design_3_y5fymm.png "ORPIB + Q Center")
+
+
+      </a>
   - type: block-image
     image: /v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png
     alt_text: An illustration of a mythical city scape with ancient buildings and
