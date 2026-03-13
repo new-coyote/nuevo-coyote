@@ -3,6 +3,8 @@ layout: workshop/index.njk
 title: Workshops
 featured_workshops:
   - decolonizing-management-for-organizations
+  - imposter-syndrome-in-a-scam-economy
+  - generative-conflict-and-collaborative-problem-solving
   - you-are-the-leader-youre-looking-for
   - confronting-toxic-productivity-workplace-learning-module
   - how-to-succeed-in-anti-capitalist-business-online
