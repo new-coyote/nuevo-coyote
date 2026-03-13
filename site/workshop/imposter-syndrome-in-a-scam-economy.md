@@ -17,14 +17,18 @@ seo:
     Reframe our concept of self worth using values and accountability 
 eleventyExcludeFromCollections: false
 ---
+## About This Workshop:
+
 For marginalized people imposter syndrome is almost never an indication of a lack of skill. It is usually an indication of working hard in a system that is designed to extract value from people like us without credit or appropriate compensation. 
 
-**Training Objectives:**
+In this hour and a half long training, we will have one break-out group where students get to problem solve and create personal solutions to their experiences with imposter syndrome. 
 
-1.  Establish that imposter syndrome for marginalized people is usually based in racism
+## **Key Takeyawyas:**
+
+1. Establish that imposter syndrome for marginalized people is usually based in racism
 2. Learn how racial capitalism creates impossible standards disguised as “professionalism”
 3. Reframe our concept of self worth using values and accountability  
 
-In this hour and a half long training, we will have one break-out group where students get to problem solve and create personal solutions to their experiences with imposter syndrome. 
+[Contact us ](https://newcoyote.com/contact/)to learn more about this workshop and schedule with Marina. 
 
 ![a slide from class showing that imposter syndrome is taught to marginalized people early and often ](https://res.cloudinary.com/marinaforhire/image/upload/v1773433397/Imposter_Syndrome_2_oigtnd.pdf "Imposter Syndrome Slide")
