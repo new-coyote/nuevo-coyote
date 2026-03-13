@@ -65,6 +65,18 @@ blocks:
 
 
       </a>
+
+
+      <a href="https://www.narwhallawandbusinessstrategy.com/narwhalpod">
+
+
+      ![The badge for Narwhal Pod](https://res.cloudinary.com/marinaforhire/image/upload/v1773432418/Copy_of_I_m_In_the_NarwhalPod_250_x_300_px_nt92ge.png "Narwal Pod")
+
+
+      </a>
+
+
+      ![The logo for the working group Leadership Triage](https://res.cloudinary.com/marinaforhire/image/upload/v1773431747/Leadership_Triage_2_zca8a9.png "Leadership Triage")
   - type: block-image
     image: /v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png
     alt_text: An illustration of a mythical city scape with ancient buildings and
