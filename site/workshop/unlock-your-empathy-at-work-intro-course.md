@@ -2,8 +2,8 @@
 title: Empathy for Managers
 date: 2021-01-10
 category:
-  - site/taxonomy/category/how-to.md
-condition: ""
+  - How to
+condition: Online
 image:
   src: https://res.cloudinary.com/marinaforhire/v1610315553/images/2021/01/Allura_-_Keeping_in_Touch_nff4mm.png
   alt: ""
