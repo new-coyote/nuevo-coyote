@@ -76,6 +76,15 @@ blocks:
       </a>
 
 
+      <a href="https://www.everywhereisqueer.com/">
+
+
+      ![The logo for everywhere is queer](https://res.cloudinary.com/marinaforhire/image/upload/c_pad,w_150,h_150/v1774902806/Everywhere_Is_Queer_Logo-02_b1lsdy.webp "Everywhere Is Queer")
+
+
+      </a>
+
+
       ![The logo for the working group Leadership Triage](https://res.cloudinary.com/marinaforhire/image/upload/c_pad,w_300/v1773431747/Leadership_Triage_2_zca8a9.png "Leadership Triage")
   - type: block-image
     image: /v1633593357/coyote/2021/10/Cityscapes_-_Town_zz5aax.png
