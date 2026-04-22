@@ -23,7 +23,7 @@ For marginalized people imposter syndrome is almost never an indication of a lac
 
 In this hour and a half long training, we will have one break-out group where students get to problem solve and create personal solutions to their experiences with imposter syndrome. 
 
-## Key Takeyawyas:
+## Key Takeyaways:
 
 1. Establish that imposter syndrome for marginalized people is usually based in racism
 2. Learn how racial capitalism creates impossible standards disguised as “professionalism”
