@@ -23,7 +23,7 @@ eleventyExcludeFromCollections: false
 
 We live in a culture that discourages conflict at all costs, but conflict done right is one of the most effective ways to grow your team while staying rooted in values. In this hour and a half long workshop we address the ways that internalized white supremacy keeps us from learning in conflict. We will practice how to solve values conflicts, and how to find our curiosity and use an abolitionist lens to create opportunities for success in teams instead of punishments for failure. 
 
-## Key Takeaways: 
+## Key Takeaways:
 
 1. White supremacy culture keeps us from learning in conflict
 2. There are different kinds of conflict and they have different solutions 
@@ -31,4 +31,4 @@ We live in a culture that discourages conflict at all costs, but conflict done r
 4. How to navigate values in conflict with one another on a team 
 5. Collaborative problem solving 
 
-![a slide from class about collaborative problem solving ](https://res.cloudinary.com/marinaforhire/image/upload/v1773435138/Generative_Conflict_and_Collaborative_Problem_Solving_1_rur2qg.pdf "Collaborative Problem Solving ")
+![a slide from class about collaborative problem solving ](https://res.cloudinary.com/marinaforhire/image/upload/v1773433397/Imposter_Syndrome_2_oigtnd.pdf "Collaborative Problem Solving ")
