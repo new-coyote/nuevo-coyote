@@ -31,4 +31,4 @@ In this hour and a half long training, we will have one break-out group where st
 
 [Contact us ](https://newcoyote.com/contact/)to learn more about this workshop and schedule with Marina. 
 
-![a slide from class showing that imposter syndrome is taught to marginalized people early and often ](https://res.cloudinary.com/marinaforhire/image/upload/v1773433397/Imposter_Syndrome_2_oigtnd.pdf "Imposter Syndrome Slide")
+![a slide from class showing that imposter syndrome is taught to marginalized people early and often ](https://res.cloudinary.com/marinaforhire/image/upload/v1777331197/Imposter_Syndrome_axykxy.jpg "Imposter Syndrome Slide")
