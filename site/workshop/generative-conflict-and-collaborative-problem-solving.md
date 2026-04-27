@@ -31,4 +31,4 @@ We live in a culture that discourages conflict at all costs, but conflict done r
 4. How to navigate values in conflict with one another on a team 
 5. Collaborative problem solving 
 
-![a slide from class about collaborative problem solving ](https://res.cloudinary.com/marinaforhire/image/upload/v1773433397/Imposter_Syndrome_2_oigtnd.pdf "Collaborative Problem Solving ")
+![a slide from class about collaborative problem solving ](https://res.cloudinary.com/marinaforhire/image/upload/v1777331198/Generative_Conflict_and_Collaborative_Problem_Solving_wa4kfo.jpg "Collaborative Problem Solving ")
