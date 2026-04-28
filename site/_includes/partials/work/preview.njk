@@ -17,7 +17,7 @@
                     {% for term in post.data.category %}
                         {% set category = collections.categories['./' + term] %}
                         <a href="{{ category.url }}" class="mr-1 underline"
-                        title="Read other content in {{ category.data.title }}">{{ category.data.title }}</a>
+                                title="Read other content in {{ category.data.title }}">{{ category.data.title }}</a>
                     {% endfor %}
                 </span>
             </div>
@@ -34,8 +34,8 @@
         </div>
     </div>
     <div class="absolute inset-0 z-10 w-full h-full -mt-4 -ml-4 opacity-10 bg-core-teal">
-    {% if post.data.image %}
-        <img src="{{ post.data.image.src | cl_url([{ width: 600, height: 600, crop: 'fill', gravity: 'face:auto' }]) }}" class="absolute inset-0 object-cover object-center w-full h-full" alt="Image for {{ post.data.title }}">
-    {% endif %}
+        {% if post.data.image %}
+            <img src="{{ post.data.image.src | cl_url([{ width: 600, height: 600, crop: 'fill', gravity: 'face:auto' }]) }}" class="absolute inset-0 object-cover object-center w-full h-full" alt="Image for {{ post.data.title }}">
+        {% endif %}
     </div>
 </article>

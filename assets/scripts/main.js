@@ -1,9 +1,9 @@
 import 'alpinejs';
-import workshopInstanceSetup from './workshopInstances';
+import instanceSetup from './instances';
 import contactSetup from './contact'
 import newsletterSetup from './newsletter'
 
-workshopInstanceSetup();
+instanceSetup();
 contactSetup();
 newsletterSetup();
 
