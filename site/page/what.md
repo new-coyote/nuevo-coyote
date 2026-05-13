@@ -11,9 +11,13 @@ blocks:
     link_text: Contact us for quotes
     heading: Human Centered Management and Communications Consulting
     content: >-
-      For organizations that are values-led, who put people first and focus on
-      impact over image, New Coyote is the no nonsense firm you've been looking
-      for.
+      New Coyote works with organizations that are values-led, and
+      impact-driven. We offer management training, executive coaching, and
+      communications strategy to direct service or other highly relevant orgs
+      with Black, Indigenous, queer, trans, and other marginalized leaders. 
+
+
+      Our mission is to radically transform the economic landscape of the Pacific Northwest so that no one ever dies from a lack of resources. 
 
 
       **We Offer:**
@@ -71,6 +75,15 @@ blocks:
 
 
       ![The badge for Narwhal Pod](https://res.cloudinary.com/marinaforhire/image/upload/v1773432418/Copy_of_I_m_In_the_NarwhalPod_250_x_300_px_nt92ge.png "Narwal Pod")
+
+
+      </a>
+
+
+      <a href="https://www.everywhereisqueer.com/">
+
+
+      ![The logo for everywhere is queer](https://res.cloudinary.com/marinaforhire/image/upload/c_pad,w_150,h_150/v1774902806/Everywhere_Is_Queer_Logo-02_b1lsdy.webp "Everywhere Is Queer")
 
 
       </a>
