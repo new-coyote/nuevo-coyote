@@ -11,9 +11,13 @@ blocks:
     link_text: Contact us for quotes
     heading: Human Centered Management and Communications Consulting
     content: >-
-      For organizations that are values-led, who put people first and focus on
-      impact over image, New Coyote is the no nonsense firm you've been looking
-      for.
+      New Coyote works with organizations that are values-led, and
+      impact-driven. We offer management training, executive coaching, and
+      communications strategy to direct service or other highly relevant orgs
+      with Black, Indigenous, queer, trans, and other marginalized leaders. 
+
+
+      Our mission is to radically transform the economic landscape of the Pacific Northwest so that no one ever dies from a lack of resources. 
 
 
       **We Offer:**
