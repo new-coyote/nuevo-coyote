@@ -5,9 +5,9 @@ date: 2026-03-09T13:49:00.000Z
 image:
   src: https://res.cloudinary.com/marinaforhire/image/upload/v1610168632/images/2021/01/Big_Shoes_-_Discussion_onnrmg.png
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpf0T7mk1uM?si=dvDYJAkbBnaEs9KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+In this post and video, I explain a phenomenon I've been seeing in my consulting practice for many years. With the current climate of misogyny, racism, fascism, and an overall disrespect for workers and humanity in general, the phenomenon is only getting worse. 
 
-In the above video, I explain a phenomenon I've been seeing in my consulting practice for many years. With the current climate of misogyny, racism, fascism, and an overall disrespect for workers and humanity in general, it's getting worse. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpf0T7mk1uM?si=dvDYJAkbBnaEs9KY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I call it The Pat Principal, after the well known management concept called [The Peter Principal](https://en.wikipedia.org/wiki/Peter_principle). In the Peter Principal, workers get promoted to the level of their incompetence. This means that a talented worker will get promotions until they are so far away from their skillset that they become an incompetent, stagnant manager. Ours being a white supremacist culture, the chance to be promoted to the level of one's incompetence is usually only ever offered to white, straight, able bodied men. 
 
