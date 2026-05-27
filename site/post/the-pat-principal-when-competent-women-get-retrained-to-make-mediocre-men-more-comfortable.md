@@ -31,6 +31,4 @@ Too many vital organizations from the presidency on down have become little more
 
 Whether we're feeding homeless youth or manufacturing packing peanuts, we all have jobs to do. We have people to feed and peanuts to pack, and despite all the bad coaching we've gotten, no part of those processes involve making mediocre men more comfortable with their own lack of skills.
 
-
-
-If you're looking to radically reorganize your business, New Coyote Consulting offers management and staff training, as well as one-on-one executive coaching for organizations that seek to help their Black, Indigenous, queer, trans, and other marginalized leaders thrive
+If you're looking to radically reorganize your business for real success rather than maintaining the status quo, New Coyote Consulting offers management and staff training, as well as one-on-one executive coaching for organizations that seek to help their Black, Indigenous, queer, trans, and other marginalized leaders thrive.
