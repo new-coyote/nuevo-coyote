@@ -1,5 +1,5 @@
 ---
-title: Micro, Macro, Mass
+title: "Micro, Macro, Mass: Leading Movement Through Movement"
 date: 2026-07-14T16:19:00.000Z
 image:
   src: https://res.cloudinary.com/marinaforhire/image/upload/v1784071389/Leah_Nash_BodyHome_041_gtsw43.jpg
