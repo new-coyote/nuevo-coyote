@@ -6,6 +6,7 @@ image:
   alt: A fat person sits on stage with one arm upraised, haloed in a spotlight
   credit": Leah Nash
   credit_url: https://www.leahnash.com/
+  caption: Photo by Leah Nash of Leah Nash Photography
 ---
 I’ve talked a lot in the last three years about the relief and insight I’ve gotten from my new and growing dance practice. In May 2026, I was one of nine cast members in Mass Movement, a performance put on by the studio I dance with, [Body Home Fat Dance](https://www.bodyhomefatdance.com/). The studio was started by KT Kusmaul 10 years ago as a place for them and other fat people to explore and create dance that only fat bodies could make. 
 
