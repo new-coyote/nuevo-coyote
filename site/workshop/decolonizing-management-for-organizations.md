@@ -47,6 +47,10 @@ To learn more and register your organization.
 
 ## Testimonials
 
+"“Changing culture doesn't happen in a day… \[Decolonizing Management] wasn’t a checkbox or quick workshop. It was deep learning about power, communication, and how colonial workplace norms show up in ways that don't serve our staff or the survivors we work with. We dug into power, into accountability, and the way norms often show up without us even realizing it. This work matters because when we shift how we lead internally, we strengthen how we show up externally, and building a people-centered workplace is exactly what our mission calls us to do every single day."
+
+**Brittani Lasseigne, CEO of YWCA Clark County**
+
 "Before taking New Coyote's Decolonizing Management course, I often felt in over my head and relied on management styles I’d observed without understanding why they worked. The course shifted my view of leadership from 'taking care' of people and holding them accountable to empowering them to do their best — while still offering support and accountability in values-aligned ways.
 
 Marina’s warm, insightful, and gently challenging facilitation helped me recognize how my own tendencies toward overachieving and people-pleasing shaped my view of success. They created a space where we weren’t performing for approval but learning for ourselves, which was transformative.
