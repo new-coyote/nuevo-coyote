@@ -9,24 +9,24 @@ layout: app.njk
             }}</h1>
     </header>
 
-    <div class="workshop-index-content max-w-6xl px-4 py-10 w-full grid lg:grid-cols-2 gap-8">
-    {{ content | safe }}
+    <div class="work-index-content max-w-6xl px-4 py-10 w-full grid lg:grid-cols-2 gap-8">
+        {{ content | safe }}
     </div>
 
     <div class="max-w-6xl px-4 py-10 grid lg:grid-cols-3 gap-8">
-        {%- for slug in featured_workshops -%}
-            {%  set post = collections.workshop | get_by_slug( slug ) %}
+        {%- for slug in featured_work -%}
+            {%  set post = collections.work | get_by_slug( slug ) %}
             {%- if post-%}
-            {% include "partials/workshop/preview.njk" %}
+                {% include "partials/work/preview.njk" %}
             {%- endif -%}
         {%- endfor -%}
     </div>
 
-    {% if collections.workshop.length > 8 %}
+    {% if collections.work.length > 8 %}
         <div class="flex justify-end px-6">
             <div class="relative inline-block highlight">
                 <p class="relative z-10 mb-2 text-lg italic font-heading">Looking for more?</p>
-                <a href="/workshop/archive/2" class="relative z-10 text-xl font-bold link text-teal">Visit the Archive</a>
+                <a href="/work/archive/2" class="relative z-10 text-xl font-bold link text-teal">Visit the Archive</a>
             </div>
         </div>
     {% endif %}

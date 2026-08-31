@@ -89,4 +89,8 @@ module.exports = conf => {
 		const relativeInputPath = post.inputPath.replace('./', '');
         return array.includes(relativeInputPath);
 	})
+
+  conf.addNunjucksFilter( 'get_by_slug', function(collection, slug) {
+    return collection.find( post => post.fileSlug === slug );
+  } );
 }

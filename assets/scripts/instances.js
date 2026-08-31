@@ -1,17 +1,16 @@
 import DateTime from 'luxon/src/datetime';
 
-function setup() {
+export default function setup() {
     /**
      * This handles the workshop previews
      */
-    const workshops = document.querySelectorAll(`[data-workshop-instances]`);
-    if (workshops && workshops.length > 0) {
-        const allWorkshops = Array.from(workshops);
-        const datedWorkshops = allWorkshops
-            .filter(workshop => workshop.dataset.workshopInstances && workshop.dataset.workshopInstances.length > 0)
-            .map(workshop => {
-                // Build a list of all instances on this workshop and sort by date.
-                workshop.instances = JSON.parse(workshop.dataset.workshopInstances)
+    const events = Array.from(document.querySelectorAll(`[data-instances]`));
+    if (events && events.length > 0) {
+        const datedEvents = events
+            .filter(event => event.dataset.instances && event.dataset.instances.length > 0)
+            .map(event => {
+                // Build a list of all instances on this event and sort by date.
+                event.instances = JSON.parse(event.dataset.instances)
                     .map(instance => {
                         // Forestry saves times w/ a "Z" which forces Luxon to parse them as UTC, which
                         // will sometimes result in the wrong date.
@@ -21,19 +20,20 @@ function setup() {
                     .sort((a, b) => a.date > b.date);
 
                 // Find the next instance.
-                workshop.next = workshop.instances.find(instance => instance.date.diffNow() > 0)
+                event.next = event.instances.find(instance => instance.date.diffNow() > 0)
 
                 // We want to add this to items with dates but not "next" dates, so make it a default.
-                const header = workshop.querySelector(`header`)
+                const contactSubject = event.dataset.contactSubject || 'Event Inquiry';
+                const header = event.querySelector(`header`)
                 header.appendChild(document.createRange()
-                    .createContextualFragment(`<span data-contact-for-more-info class="uppercase mt-3 tracking-wider text-xs inline-block py-1 border-b-4 border-clay text-teal font-bold"><a href="/contact/?subject=Workshop Inquiry: ${header.querySelector('h3').innerText}">Contact Us for more info</a></span>`));
+                    .createContextualFragment(`<span data-contact-for-more-info class="uppercase mt-3 tracking-wider text-xs inline-block py-1 border-b-4 border-clay text-teal font-bold"><a href="/contact/?subject=${contactSubject}: ${header.querySelector('h3').innerText}">Contact Us for more info</a></span>`));
 
-                return workshop;
+                return event;
             })
-            .filter(workshop => workshop.next);
+            .filter(event => event.next);
 
-            // Sort dated workshops by their next date, then add date info.
-            datedWorkshops.sort((a, b) => {
+            // Sort dated events by their next date, then add date info.
+            datedEvents.sort((a, b) => {
                 if (a.next.date > b.next.date) {
                     return -1;
                 } else if (a.next.date < b.next.date) {
@@ -41,19 +41,20 @@ function setup() {
                 }
                 return 0;
             })
-            .map(workshop => {
-                const header = workshop.querySelector(`header`);
+            .map(event => {
+                const nextText = event.dataset.nextText || 'Next Event';
+                const header = event.querySelector(`header`);
                 // Remove default.
                 header.querySelector('[data-contact-for-more-info]').remove();
                 // Add date info.
                 header.appendChild(document.createRange()
-                    .createContextualFragment(`<datetime class="uppercase mt-3 tracking-wider text-xs inline-block py-1 border-b-4 border-clay ">Next Workshop: <span class="block md:inline">${workshop.next.date.toLocaleString(DateTime.DATE_FULL)}</span></datetime>`));
+                    .createContextualFragment(`<datetime class="uppercase mt-3 tracking-wider text-xs inline-block py-1 border-b-4 border-clay ">${nextText}: <span class="block md:inline">${event.next.date.toLocaleString(DateTime.DATE_FULL)}</span></datetime>`));
 
-                return workshop;
+                return event;
             })
-            .forEach((workshop, index) => workshop.style.order = index + 1);
+            .forEach((event, index) => event.style.order = index + 1);
 
-        const first = datedWorkshops.find(e => true);
+        const first = datedEvents.find(e => true);
         if (first) {
             // Add first-item styles
             first.classList.remove('border-clay')
@@ -66,15 +67,15 @@ function setup() {
             }
         }
 
-        // Handle non-dated workshops.
-        allWorkshops
-            .filter(workshop => !datedWorkshops.includes(workshop))
-            .forEach((workshop, index) => workshop.style.order = index + 1 + datedWorkshops.length);
+        // Handle non-dated events.
+        events
+            .filter(event => !datedEvents.includes(event))
+            .forEach((event, index) => event.style.order = index + 1 + datedEvents.length);
 
     }
 
     /**
-     * This handles the instances on single workshops.
+     * This handles the instances on single events.
      */
     // const singleInstances = document.querySelector(`.workshop-instances`);
     // if (singleInstances) {
@@ -106,5 +107,3 @@ function setup() {
     //     }
     // }
 }
-
-export default setup;
