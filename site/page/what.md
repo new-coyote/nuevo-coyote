@@ -9,12 +9,12 @@ eleventyNavigation:
 blocks:
   - type: block-callout
     link_text: Contact us for quotes
-    heading: Human Centered Management and Communications Consulting
+    heading: Anti-Capitalist, Decolonizing Management and Communications Training
     content: >-
       New Coyote works with organizations that are values-led, and
-      impact-driven. We offer management training, executive coaching, and
-      communications strategy to direct service or other highly relevant orgs
-      with Black, Indigenous, queer, trans, and other marginalized leaders. 
+      impact-driven. We offer management training and executive coaching, direct
+      service or other highly relevant orgs with Black, Indigenous, queer,
+      trans, and other marginalized leaders. 
 
 
       Our mission is to radically transform the economic landscape of the Pacific Northwest so that no one ever dies from a lack of resources. 
@@ -26,16 +26,16 @@ blocks:
       Training in Decolonizing and Anti-Racist Management
 
 
-      Coaching and Facilitation
+      Training in Values Driven Communications
 
 
-      Nonprofit consulting
+      Executive and Personal Coaching 
+
+
+      Strategic Plan Facilitation
 
 
       Restorative Justice Processes
-
-
-      Organizational and Campaign Strategy
     link_url: https://newcoyote.com/contact/
   - type: block-text
     heading: COBID Certified
@@ -89,7 +89,7 @@ blocks:
       </a>
 
 
-      ![The logo for Leadership Triage](https://res.cloudinary.com/marinaforhire/image/upload/v1773431747/Leadership_Triage_2_zca8a9.png "Leadership Triage")
+      ![]()
 
 
       <a href="https://www.heyfamm.com/">
